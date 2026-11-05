@@ -1,0 +1,6 @@
+winrate 
+distance (regresija)
+home_factor (regresija)
+kos razlika (regresija)
+budzet - sa spiska
+h2h (medjusobni susreti)

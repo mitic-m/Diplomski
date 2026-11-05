@@ -1,0 +1,67 @@
+Varijanta 1 (najbezbednija)
+
+Predikcija plasmana timova u regularnoj sezoni Evrolige na osnovu istorijskih i kontekstualnih podataka
+
+🔹 Varijanta 2 (malo “jača”)
+
+Analiza i predikcija plasmana timova u Evroligi korišćenjem podataka o utakmicama i karakteristikama timova
+
+🔹 Varijanta 3 (više data-science)
+
+Modeliranje i analiza rezultata Evrolige radi predikcije konačne tabele regularne sezone
+
+
+-„Rezultati linearne regresije pokazuju da domaći teren ima statistički značajan pozitivan uticaj na broj pobeda.“
+
+Regresija je uticaj nekih faktora na neki ishod. Na primer kako utiče domaći teren na uspeh ekipe
+
+2.	
+To identify, among these statistics, the key factors that affect a team's success (qualification to playoffs – Final Four) in a season;
+
+
+https://journals.sagepub.com/doi/full/10.1177/22150218251365222 - dobar rad!
+
+-Monte Carlo simulacija
+
+Parametri koje zelim da imam su:
+-winrate ekipe
+-medjusobni susreti izmedju svake dve ekipe (ako nema zabelezeno s obzirom na to da su neki timovi prvi put u ligi
+onda odraditi tako da medjusobni susreti ne uticu)
+-domaci teren + skor na domacem terenu, da se vidi koliko je ekipa dobra kod kuce, 
+a ne samo ako se igra kod njihove kuce da je u blagoj prednosti
+-budzet ekipa s obzirom na to da se radi predikcija neposredno pre pocetka sezone
+
+-ako je kaznjena ekipa pa igra bez publike
+
+05.03.2026.
+-Izracunata snaga timova na osnovu winrate iz prethonih 5 sezona. Ako timovi nemaju istoriju koja je barem
+dve sezone, onda im se snaga stavlja na 0.500. Takodje, sampionskim timovima je rucno dodato 0.03 snage
+u sledecoj sezoni.
+-Da bi se izbegla nestabilnost procene snage timova sa malim brojem sezona, uveden je prag od najmanje dve odigrane sezone. 
+Timovi sa manjim brojem sezona dobijaju neutralnu početnu vrednost snage od 0.5.
+-Sledi ubacivanje budzeta i optimizacija za neke timove koji su imali malo izuzetno uspesnih sezona
+-Podaci o timovima čuvaju se u tabeli (CSV) koja sadrži istorijski procenat pobeda, procenat pobeda na domaćem terenu i budžet ekipe. 
+Na osnovu ovih parametara računa se kompozitna mera snage tima.
+
+-Prednost domaceg terena: Diskusija otvorena
+contextual adjustment za makabi i hapoel, odnosno rucno podesavanje prednosti domaceg terena
+Dubai home factor = league average + small bonus
+Home Advantage in Sport Competitions - procitaj clanke
+
+-Posle pokretanja winrate only vidimo (na slici) da je prosecan broj pobeda za 4. mesto 21.1
+za 6. mesto 19.9 i za 10. mesto 19.0
+
+
+Analizirati postojanje moguceg globalnog trenda kako daljina izmedju gosta i domacina srazmerno povecava
+snagu domacina (npr domacin je 1% jaci za svakih x kilometara udaljenosti od gosta)
+
+-Logisticka regresija: Posmatrali smo 816 utakmica iz prethodne 3 sezone i ustanovili neke koeficijente
+3.44 za snagu, 0.52 za domacinstvo i 0.44 za distancu
+
+-Uradjena validacija: izracunate snage timova na osnovu sezona 2021/22 i 2022/23 i testiran model na sezoni 2023/24
+Simulirana je sezona 2023/24 10000 puta i dobili smo ovo:
+Spearman korelacija = 0.679 - dobra pozitivna korelacija sa stvarnim rezultatima (ona ide od -1 do 1)
+p = 0.003 - P-value je manji od 0.05 — što znači da je rezultat statistički značajan. Nije slučajnost.
+
+-da napravim napredniji strength fajl gde cu da ukljucim i kos razliku
+

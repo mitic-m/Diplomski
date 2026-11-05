@@ -1,0 +1,1577 @@
+Date,AwayTeam,AwayScore,HomeTeam,HomeScore,HomeWin,Season
+"Thu, Sep 30, 2021",Bayern München,68.0,Maccabi Tel Aviv,69.0,1,2022
+"Thu, Sep 30, 2021",CSKA Moscow,74.0,AIX Armani Exchange Milan,84.0,1,2022
+"Thu, Sep 30, 2021",Panathinaikos OPAP,63.0,AS Monaco,75.0,1,2022
+"Thu, Sep 30, 2021",Anadolu Efes,69.0,Real Madrid,82.0,1,2022
+"Fri, Oct 1, 2021",Alba Berlin,64.0,Barcelona,96.0,1,2022
+"Fri, Oct 1, 2021",Bitci Baskonia,50.0,Olympiacos,75.0,1,2022
+"Fri, Oct 1, 2021",Crvena zvezda mts,57.0,Fenerbahçe Beko,61.0,1,2022
+"Fri, Oct 1, 2021",Zenit Saint Petersburg,70.0,UNICS,69.0,0,2022
+"Fri, Oct 1, 2021",Žalgiris,76.0,LDLC ASVEL,88.0,1,2022
+"Thu, Oct 7, 2021",Barcelona,80.0,Bayern München,72.0,0,2022
+"Thu, Oct 7, 2021",Crvena zvezda mts,75.0,Maccabi Tel Aviv,63.0,0,2022
+"Thu, Oct 7, 2021",Fenerbahçe Beko,87.0,Panathinaikos OPAP,91.0,1,2022
+"Thu, Oct 7, 2021",Zenit Saint Petersburg,70.0,Žalgiris,64.0,0,2022
+"Fri, Oct 8, 2021",LDLC ASVEL,71.0,Alba Berlin,67.0,0,2022
+"Fri, Oct 8, 2021",CSKA Moscow,100.0,Anadolu Efes,96.0,0,2022
+"Fri, Oct 8, 2021",Real Madrid,68.0,Olympiacos,74.0,1,2022
+"Fri, Oct 8, 2021",AS Monaco,88.0,UNICS,80.0,0,2022
+"Fri, Oct 8, 2021",AIX Armani Exchange Milan,78.0,Bitci Baskonia,64.0,0,2022
+"Tue, Oct 12, 2021",Fenerbahçe Beko,70.0,Alba Berlin,84.0,1,2022
+"Tue, Oct 12, 2021",Zenit Saint Petersburg,67.0,CSKA Moscow,77.0,1,2022
+"Tue, Oct 12, 2021",Maccabi Tel Aviv,72.0,AIX Armani Exchange Milan,83.0,1,2022
+"Tue, Oct 12, 2021",Bayern München,70.0,UNICS,73.0,1,2022
+"Tue, Oct 12, 2021",Anadolu Efes,73.0,LDLC ASVEL,75.0,1,2022
+"Tue, Oct 12, 2021",Panathinaikos OPAP,79.0,Bitci Baskonia,81.0,1,2022
+"Wed, Oct 13, 2021",Olympiacos,78.0,Barcelona,79.0,1,2022
+"Wed, Oct 13, 2021",AS Monaco,86.0,Real Madrid,94.0,1,2022
+"Wed, Oct 13, 2021",Žalgiris,61.0,Crvena zvezda mts,73.0,1,2022
+"Thu, Oct 14, 2021",Bitci Baskonia,80.0,Alba Berlin,76.0,0,2022
+"Thu, Oct 14, 2021",Bayern München,71.0,Zenit Saint Petersburg,79.0,1,2022
+"Thu, Oct 14, 2021",UNICS,41.0,Fenerbahçe Beko,80.0,1,2022
+"Thu, Oct 14, 2021",Maccabi Tel Aviv,93.0,LDLC ASVEL,85.0,0,2022
+"Fri, Oct 15, 2021",Crvena zvezda mts,76.0,CSKA Moscow,78.0,1,2022
+"Fri, Oct 15, 2021",Anadolu Efes,71.0,AIX Armani Exchange Milan,75.0,1,2022
+"Fri, Oct 15, 2021",Barcelona,85.0,AS Monaco,81.0,0,2022
+"Fri, Oct 15, 2021",Žalgiris,68.0,Olympiacos,83.0,1,2022
+"Fri, Oct 15, 2021",Panathinaikos OPAP,65.0,Real Madrid,88.0,1,2022
+"Thu, Oct 21, 2021",UNICS,68.0,Anadolu Efes,71.0,1,2022
+"Thu, Oct 21, 2021",Panathinaikos OPAP,73.0,Maccabi Tel Aviv,77.0,1,2022
+"Thu, Oct 21, 2021",LDLC ASVEL,72.0,AIX Armani Exchange Milan,73.0,1,2022
+"Thu, Oct 21, 2021",Fenerbahçe Beko,69.0,Real Madrid,70.0,1,2022
+"Thu, Oct 21, 2021",Bayern München,75.0,Žalgiris,73.0,0,2022
+"Fri, Oct 22, 2021",Zenit Saint Petersburg,58.0,Barcelona,84.0,1,2022
+"Fri, Oct 22, 2021",Olympiacos,82.0,CSKA Moscow,88.0,1,2022
+"Fri, Oct 22, 2021",Alba Berlin,78.0,Crvena zvezda mts,63.0,0,2022
+"Fri, Oct 22, 2021",AS Monaco,66.0,Bitci Baskonia,78.0,1,2022
+"Tue, Oct 26, 2021",AIX Armani Exchange Milan,77.0,Bayern München,83.0,1,2022
+"Tue, Oct 26, 2021",Žalgiris,62.0,Maccabi Tel Aviv,76.0,1,2022
+"Tue, Oct 26, 2021",Crvena zvezda mts,62.0,AS Monaco,70.0,1,2022
+"Tue, Oct 26, 2021",Alba Berlin,83.0,Olympiacos,87.0,1,2022
+"Tue, Oct 26, 2021",Barcelona,76.0,Fenerbahçe Beko,74.0,0,2022
+"Wed, Oct 27, 2021",Anadolu Efes,69.0,Panathinaikos OPAP,95.0,1,2022
+"Wed, Oct 27, 2021",Real Madrid,75.0,Zenit Saint Petersburg,68.0,0,2022
+"Wed, Oct 27, 2021",Bitci Baskonia,69.0,UNICS,83.0,1,2022
+"Wed, Oct 27, 2021",CSKA Moscow,68.0,LDLC ASVEL,70.0,1,2022
+"Thu, Oct 28, 2021",Bayern München,82.0,Alba Berlin,69.0,0,2022
+"Thu, Oct 28, 2021",Barcelona,68.0,Maccabi Tel Aviv,85.0,1,2022
+"Thu, Oct 28, 2021",Crvena zvezda mts,62.0,AIX Armani Exchange Milan,79.0,1,2022
+"Thu, Oct 28, 2021",Fenerbahçe Beko,65.0,Olympiacos,67.0,1,2022
+"Fri, Oct 29, 2021",Žalgiris,60.0,Anadolu Efes,94.0,1,2022
+"Fri, Oct 29, 2021",CSKA Moscow,80.0,AS Monaco,97.0,1,2022
+"Fri, Oct 29, 2021",LDLC ASVEL,84.0,Panathinaikos OPAP,70.0,0,2022
+"Fri, Oct 29, 2021",Bitci Baskonia,54.0,Zenit Saint Petersburg,83.0,1,2022
+"Fri, Oct 29, 2021",Real Madrid,58.0,UNICS,65.0,1,2022
+"Thu, Nov 4, 2021",Fenerbahçe Beko,91.0,CSKA Moscow,82.0,0,2022
+"Thu, Nov 4, 2021",Barcelona,70.0,AIX Armani Exchange Milan,75.0,1,2022
+"Thu, Nov 4, 2021",Panathinaikos OPAP,48.0,Crvena zvezda mts,81.0,1,2022
+"Thu, Nov 4, 2021",UNICS,82.0,LDLC ASVEL,85.0,1,2022
+"Fri, Nov 5, 2021",Zenit Saint Petersburg,90.0,Anadolu Efes,79.0,0,2022
+"Fri, Nov 5, 2021",Real Madrid,80.0,Bayern München,76.0,0,2022
+"Fri, Nov 5, 2021",AS Monaco,65.0,Olympiacos,86.0,1,2022
+"Fri, Nov 5, 2021",Maccabi Tel Aviv,87.0,Bitci Baskonia,69.0,0,2022
+"Fri, Nov 5, 2021",Alba Berlin,79.0,Žalgiris,71.0,0,2022
+"Thu, Nov 11, 2021",Anadolu Efes,90.0,Alba Berlin,63.0,0,2022
+"Thu, Nov 11, 2021",Bitci Baskonia,67.0,Barcelona,93.0,1,2022
+"Thu, Nov 11, 2021",Maccabi Tel Aviv,73.0,CSKA Moscow,74.0,1,2022
+"Thu, Nov 11, 2021",UNICS,74.0,Panathinaikos OPAP,72.0,0,2022
+"Thu, Nov 11, 2021",LDLC ASVEL,67.0,Crvena zvezda mts,73.0,1,2022
+"Fri, Nov 12, 2021",Bayern München,71.0,AS Monaco,94.0,1,2022
+"Fri, Nov 12, 2021",Žalgiris,82.0,Real Madrid,95.0,1,2022
+"Fri, Nov 12, 2021",Olympiacos,78.0,Zenit Saint Petersburg,84.0,1,2022
+"Fri, Nov 12, 2021",AIX Armani Exchange Milan,68.0,Fenerbahçe Beko,43.0,0,2022
+"Tue, Nov 16, 2021",Fenerbahçe Beko,63.0,Bayern München,71.0,1,2022
+"Tue, Nov 16, 2021",Real Madrid,87.0,LDLC ASVEL,74.0,0,2022
+"Tue, Nov 16, 2021",Crvena zvezda mts,74.0,Bitci Baskonia,93.0,1,2022
+"Tue, Nov 16, 2021",Panathinaikos OPAP,69.0,Žalgiris,76.0,1,2022
+"Wed, Nov 17, 2021",Olympiacos,69.0,Anadolu Efes,88.0,1,2022
+"Wed, Nov 17, 2021",CSKA Moscow,73.0,Barcelona,81.0,1,2022
+"Wed, Nov 17, 2021",AS Monaco,84.0,Maccabi Tel Aviv,95.0,1,2022
+"Wed, Nov 17, 2021",Alba Berlin,66.0,Zenit Saint Petersburg,75.0,1,2022
+"Wed, Nov 17, 2021",AIX Armani Exchange Milan,71.0,UNICS,97.0,1,2022
+"Thu, Nov 18, 2021",Panathinaikos OPAP,78.0,Bayern München,81.0,1,2022
+"Thu, Nov 18, 2021",Crvena zvezda mts,67.0,Real Madrid,79.0,1,2022
+"Fri, Nov 19, 2021",AS Monaco,77.0,Anadolu Efes,98.0,1,2022
+"Fri, Nov 19, 2021",Maccabi Tel Aviv,73.0,Olympiacos,90.0,1,2022
+"Fri, Nov 19, 2021",AIX Armani Exchange Milan,70.0,Zenit Saint Petersburg,74.0,1,2022
+"Fri, Nov 19, 2021",Alba Berlin,71.0,UNICS,85.0,1,2022
+"Fri, Nov 19, 2021",Barcelona,80.0,LDLC ASVEL,60.0,0,2022
+"Fri, Nov 19, 2021",CSKA Moscow,80.0,Bitci Baskonia,74.0,0,2022
+"Fri, Nov 19, 2021",Fenerbahçe Beko,75.0,Žalgiris,86.0,1,2022
+"Thu, Nov 25, 2021",Maccabi Tel Aviv,86.0,Alba Berlin,91.0,1,2022
+"Thu, Nov 25, 2021",Bayern München,74.0,CSKA Moscow,77.0,1,2022
+"Thu, Nov 25, 2021",Zenit Saint Petersburg,64.0,Panathinaikos OPAP,70.0,1,2022
+"Thu, Nov 25, 2021",Anadolu Efes,89.0,Fenerbahçe Beko,84.0,0,2022
+"Thu, Nov 25, 2021",Real Madrid,88.0,Bitci Baskonia,60.0,0,2022
+"Fri, Nov 26, 2021",Žalgiris,73.0,Barcelona,96.0,1,2022
+"Fri, Nov 26, 2021",Olympiacos,93.0,AIX Armani Exchange Milan,72.0,0,2022
+"Fri, Nov 26, 2021",LDLC ASVEL,85.0,AS Monaco,84.0,0,2022
+"Fri, Nov 26, 2021",UNICS,98.0,Crvena zvezda mts,78.0,0,2022
+"Thu, Dec 2, 2021",LDLC ASVEL,65.0,Bayern München,73.0,1,2022
+"Thu, Dec 2, 2021",Panathinaikos OPAP,77.0,CSKA Moscow,97.0,1,2022
+"Thu, Dec 2, 2021",Maccabi Tel Aviv,70.0,Real Madrid,72.0,1,2022
+"Thu, Dec 2, 2021",AS Monaco,86.0,Fenerbahçe Beko,96.0,1,2022
+"Thu, Dec 2, 2021",Bitci Baskonia,68.0,Žalgiris,72.0,1,2022
+"Fri, Dec 3, 2021",AIX Armani Exchange Milan,76.0,Alba Berlin,81.0,1,2022
+"Fri, Dec 3, 2021",Barcelona,95.0,Anadolu Efes,93.0,0,2022
+"Fri, Dec 3, 2021",Crvena zvezda mts,69.0,Zenit Saint Petersburg,58.0,0,2022
+"Fri, Dec 3, 2021",Olympiacos,87.0,UNICS,84.0,0,2022
+"Thu, Dec 9, 2021",Anadolu Efes,71.0,Bayern München,83.0,1,2022
+"Thu, Dec 9, 2021",UNICS,85.0,Maccabi Tel Aviv,74.0,0,2022
+"Thu, Dec 9, 2021",Olympiacos,76.0,Crvena zvezda mts,81.0,1,2022
+"Thu, Dec 9, 2021",Fenerbahçe Beko,86.0,Zenit Saint Petersburg,80.0,0,2022
+"Thu, Dec 9, 2021",LDLC ASVEL,66.0,Bitci Baskonia,91.0,1,2022
+"Fri, Dec 10, 2021",Real Madrid,80.0,Barcelona,93.0,1,2022
+"Fri, Dec 10, 2021",AIX Armani Exchange Milan,71.0,AS Monaco,65.0,0,2022
+"Fri, Dec 10, 2021",Alba Berlin,67.0,Panathinaikos OPAP,82.0,1,2022
+"Fri, Dec 10, 2021",CSKA Moscow,73.0,Žalgiris,51.0,0,2022
+"Tue, Dec 14, 2021",Bitci Baskonia,72.0,Anadolu Efes,87.0,1,2022
+"Tue, Dec 14, 2021",Panathinaikos OPAP,54.0,AIX Armani Exchange Milan,75.0,1,2022
+"Tue, Dec 14, 2021",Alba Berlin,64.0,Real Madrid,87.0,1,2022
+"Tue, Dec 14, 2021",Barcelona,76.0,Crvena zvezda mts,69.0,0,2022
+"Tue, Dec 14, 2021",Maccabi Tel Aviv,79.0,Fenerbahçe Beko,90.0,1,2022
+"Wed, Dec 15, 2021",UNICS,88.0,CSKA Moscow,67.0,0,2022
+"Wed, Dec 15, 2021",Bayern München,60.0,Olympiacos,83.0,1,2022
+"Wed, Dec 15, 2021",Zenit Saint Petersburg,71.0,LDLC ASVEL,61.0,0,2022
+"Wed, Dec 15, 2021",AS Monaco,107.0,Žalgiris,98.0,0,2022
+"Thu, Dec 16, 2021",Anadolu Efes,92.0,Maccabi Tel Aviv,78.0,0,2022
+"Thu, Dec 16, 2021",Real Madrid,75.0,AIX Armani Exchange Milan,73.0,0,2022
+"Thu, Dec 16, 2021",Barcelona,85.0,Panathinaikos OPAP,82.0,0,2022
+"Thu, Dec 16, 2021",Bitci Baskonia,53.0,Fenerbahçe Beko,75.0,1,2022
+"Fri, Dec 17, 2021",CSKA Moscow,93.0,Alba Berlin,90.0,0,2022
+"Fri, Dec 17, 2021",Zenit Saint Petersburg,85.0,AS Monaco,74.0,0,2022
+"Fri, Dec 17, 2021",LDLC ASVEL,54.0,Olympiacos,89.0,1,2022
+"Fri, Dec 17, 2021",Bayern München,78.0,Crvena zvezda mts,81.0,1,2022
+"Fri, Dec 17, 2021",Žalgiris,53.0,UNICS,66.0,1,2022
+"Wed, Dec 22, 2021",AS Monaco,84.0,Alba Berlin,92.0,1,2022
+"Wed, Dec 22, 2021",Crvena zvezda mts,83.0,Anadolu Efes,84.0,1,2022
+"Wed, Dec 22, 2021",UNICS,109.0,Barcelona,111.0,1,2022
+"Thu, Dec 23, 2021",Bitci Baskonia,81.0,Bayern München,76.0,0,2022
+"Thu, Dec 23, 2021",Olympiacos,84.0,Panathinaikos OPAP,65.0,0,2022
+"Thu, Dec 23, 2021",CSKA Moscow,65.0,Real Madrid,71.0,1,2022
+"Thu, Dec 23, 2021",Maccabi Tel Aviv,71.0,Zenit Saint Petersburg,73.0,1,2022
+"Thu, Dec 23, 2021",Fenerbahçe Beko,82.0,LDLC ASVEL,84.0,1,2022
+"Wed, Dec 29, 2021",Maccabi Tel Aviv,76.0,AS Monaco,82.0,1,2022
+"Thu, Dec 30, 2021",Zenit Saint Petersburg,80.0,Crvena zvezda mts,76.0,0,2022
+"Thu, Dec 30, 2021",Anadolu Efes,67.0,UNICS,75.0,1,2022
+"Thu, Dec 30, 2021",Barcelona,75.0,Bitci Baskonia,94.0,1,2022
+"Tue, Jan 11, 2022",AIX Armani Exchange Milan,75.0,Barcelona,73.0,0,2022
+"Tue, Jan 11, 2022",Žalgiris,65.0,Bayern München,74.0,1,2022
+"Tue, Jan 11, 2022",Olympiacos,80.0,Fenerbahçe Beko,94.0,1,2022
+"Wed, Jan 12, 2022",CSKA Moscow,98.0,Panathinaikos OPAP,74.0,0,2022
+"Thu, Jan 13, 2022",Anadolu Efes,77.0,Barcelona,82.0,1,2022
+"Thu, Jan 13, 2022",AS Monaco,83.0,Bayern München,78.0,0,2022
+"Fri, Jan 14, 2022",LDLC ASVEL,83.0,CSKA Moscow,90.0,1,2022
+"Fri, Jan 14, 2022",Bitci Baskonia,74.0,Real Madrid,89.0,1,2022
+"Tue, Jan 18, 2022",Alba Berlin,76.0,AIX Armani Exchange Milan,84.0,1,2022
+"Tue, Jan 18, 2022",AS Monaco,100.0,LDLC ASVEL,75.0,0,2022
+"Thu, Jan 20, 2022",Real Madrid,89.0,Alba Berlin,74.0,0,2022
+"Thu, Jan 20, 2022",Olympiacos,69.0,Maccabi Tel Aviv,84.0,1,2022
+"Thu, Jan 20, 2022",AS Monaco,86.0,Zenit Saint Petersburg,77.0,0,2022
+"Thu, Jan 20, 2022",Žalgiris,67.0,Fenerbahçe Beko,73.0,1,2022
+"Thu, Jan 20, 2022",Barcelona,64.0,UNICS,70.0,1,2022
+"Fri, Jan 21, 2022",Panathinaikos OPAP,81.0,Anadolu Efes,82.0,1,2022
+"Fri, Jan 21, 2022",AIX Armani Exchange Milan,67.0,CSKA Moscow,57.0,0,2022
+"Fri, Jan 21, 2022",Crvena zvezda mts,67.0,LDLC ASVEL,69.0,1,2022
+"Fri, Jan 21, 2022",Bayern München,84.0,Bitci Baskonia,77.0,0,2022
+"Tue, Jan 25, 2022",Alba Berlin,78.0,Maccabi Tel Aviv,87.0,1,2022
+"Tue, Jan 25, 2022",UNICS,68.0,Real Madrid,85.0,1,2022
+"Tue, Jan 25, 2022",Bayern München,77.0,LDLC ASVEL,68.0,0,2022
+"Thu, Jan 27, 2022",LDLC ASVEL,71.0,Barcelona,84.0,1,2022
+"Thu, Jan 27, 2022",Crvena zvezda mts,76.0,Olympiacos,72.0,0,2022
+"Thu, Jan 27, 2022",Anadolu Efes,67.0,Zenit Saint Petersburg,76.0,1,2022
+"Fri, Jan 28, 2022",Alba Berlin,56.0,Bayern München,62.0,1,2022
+"Fri, Jan 28, 2022",Žalgiris,58.0,AIX Armani Exchange Milan,65.0,1,2022
+"Fri, Jan 28, 2022",Real Madrid,90.0,AS Monaco,84.0,0,2022
+"Fri, Jan 28, 2022",Bitci Baskonia,63.0,Panathinaikos OPAP,75.0,1,2022
+"Fri, Jan 28, 2022",CSKA Moscow,86.0,UNICS,75.0,0,2022
+"Tue, Feb 1, 2022",Bayern München,66.0,Barcelona,71.0,1,2022
+"Tue, Feb 1, 2022",AS Monaco,91.0,Panathinaikos OPAP,83.0,0,2022
+"Tue, Feb 1, 2022",AIX Armani Exchange Milan,63.0,Crvena zvezda mts,57.0,0,2022
+"Tue, Feb 1, 2022",LDLC ASVEL,76.0,Fenerbahçe Beko,85.0,1,2022
+"Tue, Feb 1, 2022",Zenit Saint Petersburg,90.0,Bitci Baskonia,82.0,0,2022
+"Tue, Feb 1, 2022",Maccabi Tel Aviv,94.0,Žalgiris,78.0,0,2022
+"Wed, Feb 2, 2022",UNICS,53.0,Alba Berlin,81.0,1,2022
+"Wed, Feb 2, 2022",Anadolu Efes,99.0,CSKA Moscow,97.0,0,2022
+"Wed, Feb 2, 2022",Olympiacos,67.0,Real Madrid,75.0,1,2022
+"Thu, Feb 3, 2022",Panathinaikos OPAP,60.0,Barcelona,86.0,1,2022
+"Thu, Feb 3, 2022",Maccabi Tel Aviv,52.0,Bayern München,70.0,1,2022
+"Thu, Feb 3, 2022",Fenerbahçe Beko,71.0,AIX Armani Exchange Milan,60.0,0,2022
+"Thu, Feb 3, 2022",AS Monaco,91.0,Crvena zvezda mts,80.0,0,2022
+"Fri, Feb 4, 2022",LDLC ASVEL,72.0,Anadolu Efes,78.0,1,2022
+"Fri, Feb 4, 2022",Alba Berlin,72.0,CSKA Moscow,91.0,1,2022
+"Fri, Feb 4, 2022",Zenit Saint Petersburg,64.0,Real Madrid,85.0,1,2022
+"Fri, Feb 4, 2022",Olympiacos,72.0,Bitci Baskonia,62.0,0,2022
+"Fri, Feb 4, 2022",UNICS,76.0,Žalgiris,67.0,0,2022
+"Tue, Feb 8, 2022",Real Madrid,51.0,Fenerbahçe Beko,66.0,1,2022
+"Tue, Feb 8, 2022",AIX Armani Exchange Milan,74.0,Žalgiris,70.0,0,2022
+"Thu, Feb 10, 2022",Zenit Saint Petersburg,67.0,Alba Berlin,76.0,1,2022
+"Thu, Feb 10, 2022",CSKA Moscow,75.0,Maccabi Tel Aviv,84.0,1,2022
+"Thu, Feb 10, 2022",Bitci Baskonia,78.0,AIX Armani Exchange Milan,89.0,1,2022
+"Thu, Feb 10, 2022",Žalgiris,83.0,AS Monaco,82.0,0,2022
+"Thu, Feb 10, 2022",Anadolu Efes,85.0,Olympiacos,87.0,1,2022
+"Fri, Feb 11, 2022",Barcelona,86.0,Real Madrid,68.0,0,2022
+"Fri, Feb 11, 2022",Crvena zvezda mts,84.0,UNICS,77.0,0,2022
+"Fri, Feb 11, 2022",Panathinaikos OPAP,76.0,LDLC ASVEL,63.0,0,2022
+"Tue, Feb 22, 2022",UNICS,76.0,AS Monaco,79.0,1,2022
+"Thu, Feb 24, 2022",Maccabi Tel Aviv,77.0,Anadolu Efes,109.0,1,2022
+"Thu, Feb 24, 2022",AIX Armani Exchange Milan,58.0,Olympiacos,67.0,1,2022
+"Thu, Feb 24, 2022",Alba Berlin,82.0,LDLC ASVEL,80.0,0,2022
+"Thu, Feb 24, 2022",Real Madrid,47.0,Žalgiris,68.0,1,2022
+"Fri, Feb 25, 2022",Fenerbahçe Beko,78.0,AS Monaco,92.0,1,2022
+"Fri, Feb 25, 2022",Crvena zvezda mts,73.0,Panathinaikos OPAP,79.0,1,2022
+"Sun, Feb 27, 2022",Fenerbahçe Beko,69.0,Crvena zvezda mts,74.0,1,2022
+"Tue, Mar 1, 2022",Bitci Baskonia,93.0,Maccabi Tel Aviv,94.0,1,2022
+"Tue, Mar 1, 2022",Žalgiris,96.0,Panathinaikos OPAP,83.0,0,2022
+"Thu, Mar 3, 2022",Žalgiris,74.0,Alba Berlin,82.0,1,2022
+"Thu, Mar 3, 2022",Fenerbahçe Beko,79.0,Anadolu Efes,84.0,1,2022
+"Thu, Mar 3, 2022",AS Monaco,83.0,Barcelona,88.0,1,2022
+"Thu, Mar 3, 2022",Bitci Baskonia,83.0,Crvena zvezda mts,86.0,1,2022
+"Fri, Mar 4, 2022",Olympiacos,98.0,Bayern München,88.0,0,2022
+"Fri, Mar 4, 2022",AIX Armani Exchange Milan,76.0,Panathinaikos OPAP,75.0,0,2022
+"Tue, Mar 8, 2022",Real Madrid,62.0,Crvena zvezda mts,65.0,1,2022
+"Tue, Mar 8, 2022",Anadolu Efes,74.0,Bitci Baskonia,87.0,1,2022
+"Thu, Mar 10, 2022",Olympiacos,75.0,Alba Berlin,90.0,1,2022
+"Thu, Mar 10, 2022",AIX Armani Exchange Milan,88.0,Real Madrid,92.0,1,2022
+"Thu, Mar 10, 2022",Maccabi Tel Aviv,77.0,Crvena zvezda mts,84.0,1,2022
+"Thu, Mar 10, 2022",Bitci Baskonia,72.0,LDLC ASVEL,69.0,0,2022
+"Fri, Mar 11, 2022",Anadolu Efes,80.0,AS Monaco,102.0,1,2022
+"Fri, Mar 11, 2022",Barcelona,84.0,Žalgiris,91.0,1,2022
+"Tue, Mar 15, 2022",Olympiacos,84.0,Žalgiris,73.0,0,2022
+"Thu, Mar 17, 2022",Panathinaikos OPAP,73.0,Olympiacos,101.0,1,2022
+"Thu, Mar 17, 2022",LDLC ASVEL,58.0,Real Madrid,70.0,1,2022
+"Thu, Mar 17, 2022",Anadolu Efes,85.0,Žalgiris,71.0,0,2022
+"Fri, Mar 18, 2022",Crvena zvezda mts,70.0,Barcelona,82.0,1,2022
+"Fri, Mar 18, 2022",Alba Berlin,68.0,Bitci Baskonia,85.0,1,2022
+"Tue, Mar 22, 2022",Barcelona,95.0,Alba Berlin,79.0,0,2022
+"Tue, Mar 22, 2022",Real Madrid,90.0,Anadolu Efes,93.0,1,2022
+"Tue, Mar 22, 2022",AIX Armani Exchange Milan,58.0,Maccabi Tel Aviv,75.0,1,2022
+"Tue, Mar 22, 2022",Bayern München,67.0,Panathinaikos OPAP,80.0,1,2022
+"Wed, Mar 23, 2022",Olympiacos,72.0,AS Monaco,92.0,1,2022
+"Wed, Mar 23, 2022",Fenerbahçe Beko,62.0,Bitci Baskonia,77.0,1,2022
+"Wed, Mar 23, 2022",LDLC ASVEL,72.0,Žalgiris,68.0,0,2022
+"Thu, Mar 24, 2022",AIX Armani Exchange Milan,83.0,Anadolu Efes,77.0,0,2022
+"Thu, Mar 24, 2022",Real Madrid,74.0,Maccabi Tel Aviv,75.0,1,2022
+"Fri, Mar 25, 2022",Crvena zvezda mts,70.0,Alba Berlin,74.0,1,2022
+"Fri, Mar 25, 2022",Fenerbahçe Beko,67.0,Barcelona,88.0,1,2022
+"Fri, Mar 25, 2022",Bitci Baskonia,68.0,AS Monaco,78.0,1,2022
+"Fri, Mar 25, 2022",Olympiacos,94.0,LDLC ASVEL,80.0,0,2022
+"Tue, Mar 29, 2022",Bayern München,77.0,AIX Armani Exchange Milan,84.0,1,2022
+"Tue, Mar 29, 2022",Maccabi Tel Aviv,95.0,Panathinaikos OPAP,83.0,0,2022
+"Tue, Mar 29, 2022",Alba Berlin,66.0,Fenerbahçe Beko,57.0,0,2022
+"Thu, Mar 31, 2022",LDLC ASVEL,73.0,Maccabi Tel Aviv,94.0,1,2022
+"Thu, Mar 31, 2022",AS Monaco,72.0,AIX Armani Exchange Milan,63.0,0,2022
+"Thu, Mar 31, 2022",Real Madrid,86.0,Panathinaikos OPAP,87.0,1,2022
+"Fri, Apr 1, 2022",Alba Berlin,77.0,Anadolu Efes,87.0,1,2022
+"Fri, Apr 1, 2022",Crvena zvezda mts,57.0,Bayern München,82.0,1,2022
+"Fri, Apr 1, 2022",Barcelona,66.0,Olympiacos,73.0,1,2022
+"Fri, Apr 1, 2022",Žalgiris,79.0,Bitci Baskonia,96.0,1,2022
+"Sun, Apr 3, 2022",Crvena zvezda mts,98.0,Žalgiris,103.0,1,2022
+"Mon, Apr 4, 2022",Bayern München,76.0,Fenerbahçe Beko,81.0,1,2022
+"Wed, Apr 6, 2022",Panathinaikos OPAP,78.0,Alba Berlin,87.0,1,2022
+"Wed, Apr 6, 2022",Bayern München,76.0,Anadolu Efes,81.0,1,2022
+"Thu, Apr 7, 2022",Maccabi Tel Aviv,104.0,Barcelona,80.0,0,2022
+"Thu, Apr 7, 2022",AIX Armani Exchange Milan,81.0,LDLC ASVEL,80.0,0,2022
+"Fri, Apr 8, 2022",Alba Berlin,74.0,AS Monaco,91.0,1,2022
+"Fri, Apr 8, 2022",Bayern München,97.0,Real Madrid,88.0,0,2022
+"Fri, Apr 8, 2022",Anadolu Efes,85.0,Crvena zvezda mts,93.0,1,2022
+"Fri, Apr 8, 2022",Panathinaikos OPAP,62.0,Fenerbahçe Beko,59.0,0,2022
+"Wed, Apr 13, 2022",Fenerbahçe Beko,76.0,Maccabi Tel Aviv,85.0,1,2022
+"Thu, Oct 6, 2022",Fenerbahçe Beko,74.0,Bayern München,62.0,0,2023
+"Thu, Oct 6, 2022",Žalgiris,83.0,Maccabi Tel Aviv,84.0,1,2023
+"Thu, Oct 6, 2022",Real Madrid,71.0,Panathinaikos,68.0,0,2023
+"Thu, Oct 6, 2022",Cazoo Baskonia,81.0,Valencia Basket,71.0,0,2023
+"Thu, Oct 6, 2022",EA7 Emporio Armani Milan,69.0,LDLC ASVEL,62.0,0,2023
+"Fri, Oct 7, 2022",Partizan Mozzart Bet,84.0,Alba Berlin,100.0,1,2023
+"Fri, Oct 7, 2022",Crvena zvezda mts,59.0,Anadolu Efes,72.0,1,2023
+"Fri, Oct 7, 2022",Olympiacos,80.0,Barcelona,70.0,0,2023
+"Fri, Oct 7, 2022",AS Monaco,83.0,Virtus Segafredo Bologna,66.0,0,2023
+"Thu, Oct 13, 2022",Real Madrid,73.0,Barcelona,75.0,1,2023
+"Thu, Oct 13, 2022",Anadolu Efes,92.0,AS Monaco,95.0,1,2023
+"Thu, Oct 13, 2022",Panathinaikos,77.0,Crvena zvezda mts,75.0,0,2023
+"Thu, Oct 13, 2022",Bayern München,63.0,Virtus Segafredo Bologna,66.0,1,2023
+"Fri, Oct 14, 2022",Alba Berlin,80.0,EA7 Emporio Armani Milan,74.0,0,2023
+"Fri, Oct 14, 2022",Žalgiris,80.0,Olympiacos,90.0,1,2023
+"Fri, Oct 14, 2022",Maccabi Tel Aviv,71.0,Fenerbahçe Beko,86.0,1,2023
+"Fri, Oct 14, 2022",LDLC ASVEL,77.0,Valencia Basket,76.0,0,2023
+"Fri, Oct 14, 2022",Partizan Mozzart Bet,96.0,Cazoo Baskonia,103.0,1,2023
+"Tue, Oct 18, 2022",Valencia Basket,92.0,Anadolu Efes,91.0,0,2023
+"Tue, Oct 18, 2022",Barcelona,84.0,Bayern München,73.0,0,2023
+"Tue, Oct 18, 2022",AS Monaco,70.0,Maccabi Tel Aviv,78.0,1,2023
+"Tue, Oct 18, 2022",EA7 Emporio Armani Milan,80.0,Partizan Mozzart Bet,75.0,0,2023
+"Tue, Oct 18, 2022",LDLC ASVEL,63.0,Fenerbahçe Beko,84.0,1,2023
+"Tue, Oct 18, 2022",Virtus Segafredo Bologna,65.0,Žalgiris,68.0,1,2023
+"Wed, Oct 19, 2022",Panathinaikos,65.0,Alba Berlin,94.0,1,2023
+"Wed, Oct 19, 2022",Olympiacos,89.0,Real Madrid,87.0,0,2023
+"Wed, Oct 19, 2022",Crvena zvezda mts,75.0,Cazoo Baskonia,92.0,1,2023
+"Thu, Oct 20, 2022",EA7 Emporio Armani Milan,83.0,Bayern München,81.0,0,2023
+"Thu, Oct 20, 2022",LDLC ASVEL,69.0,Maccabi Tel Aviv,88.0,1,2023
+"Thu, Oct 20, 2022",Virtus Segafredo Bologna,62.0,Partizan Mozzart Bet,90.0,1,2023
+"Thu, Oct 20, 2022",Valencia Basket,77.0,Fenerbahçe Beko,79.0,1,2023
+"Thu, Oct 20, 2022",Barcelona,72.0,Žalgiris,73.0,1,2023
+"Fri, Oct 21, 2022",Alba Berlin,74.0,Anadolu Efes,78.0,1,2023
+"Fri, Oct 21, 2022",AS Monaco,83.0,Panathinaikos,80.0,0,2023
+"Fri, Oct 21, 2022",Crvena zvezda mts,56.0,Real Madrid,72.0,1,2023
+"Fri, Oct 21, 2022",Olympiacos,97.0,Cazoo Baskonia,92.0,0,2023
+"Thu, Oct 27, 2022",Panathinaikos,74.0,Maccabi Tel Aviv,85.0,1,2023
+"Thu, Oct 27, 2022",AS Monaco,81.0,Olympiacos,76.0,0,2023
+"Thu, Oct 27, 2022",Žalgiris,76.0,Partizan Mozzart Bet,87.0,1,2023
+"Thu, Oct 27, 2022",Virtus Segafredo Bologna,95.0,Real Madrid,91.0,0,2023
+"Thu, Oct 27, 2022",Alba Berlin,73.0,Valencia Basket,87.0,1,2023
+"Fri, Oct 28, 2022",Fenerbahçe Beko,88.0,Anadolu Efes,79.0,0,2023
+"Fri, Oct 28, 2022",EA7 Emporio Armani Milan,56.0,Barcelona,74.0,1,2023
+"Fri, Oct 28, 2022",Bayern München,72.0,Crvena zvezda mts,78.0,1,2023
+"Fri, Oct 28, 2022",Cazoo Baskonia,61.0,LDLC ASVEL,87.0,1,2023
+"Thu, Nov 3, 2022",Anadolu Efes,78.0,Bayern München,81.0,1,2023
+"Thu, Nov 3, 2022",Real Madrid,83.0,EA7 Emporio Armani Milan,77.0,0,2023
+"Thu, Nov 3, 2022",Partizan Mozzart Bet,91.0,Panathinaikos,89.0,0,2023
+"Thu, Nov 3, 2022",Maccabi Tel Aviv,87.0,Cazoo Baskonia,116.0,1,2023
+"Fri, Nov 4, 2022",Fenerbahçe Beko,80.0,Barcelona,81.0,1,2023
+"Fri, Nov 4, 2022",Crvena zvezda mts,77.0,AS Monaco,85.0,1,2023
+"Fri, Nov 4, 2022",Valencia Basket,83.0,Olympiacos,82.0,0,2023
+"Fri, Nov 4, 2022",LDLC ASVEL,84.0,Virtus Segafredo Bologna,79.0,0,2023
+"Fri, Nov 4, 2022",Alba Berlin,81.0,Žalgiris,88.0,1,2023
+"Wed, Nov 9, 2022",Virtus Segafredo Bologna,64.0,EA7 Emporio Armani Milan,59.0,0,2023
+"Thu, Nov 10, 2022",Bayern München,79.0,Alba Berlin,77.0,0,2023
+"Thu, Nov 10, 2022",Barcelona,86.0,Maccabi Tel Aviv,79.0,0,2023
+"Thu, Nov 10, 2022",Partizan Mozzart Bet,58.0,Olympiacos,87.0,1,2023
+"Thu, Nov 10, 2022",Anadolu Efes,85.0,Real Madrid,94.0,1,2023
+"Thu, Nov 10, 2022",Crvena zvezda mts,79.0,Fenerbahçe Beko,93.0,1,2023
+"Thu, Nov 10, 2022",Žalgiris,93.0,LDLC ASVEL,76.0,0,2023
+"Fri, Nov 11, 2022",Cazoo Baskonia,83.0,Panathinaikos,98.0,1,2023
+"Fri, Nov 11, 2022",AS Monaco,84.0,Valencia Basket,89.0,1,2023
+"Thu, Nov 17, 2022",Barcelona,86.0,Anadolu Efes,96.0,1,2023
+"Thu, Nov 17, 2022",Olympiacos,82.0,Bayern München,71.0,0,2023
+"Thu, Nov 17, 2022",Alba Berlin,72.0,Real Madrid,90.0,1,2023
+"Thu, Nov 17, 2022",LDLC ASVEL,67.0,Crvena zvezda mts,71.0,1,2023
+"Thu, Nov 17, 2022",Valencia Basket,59.0,Virtus Segafredo Bologna,89.0,1,2023
+"Fri, Nov 18, 2022",Cazoo Baskonia,74.0,AS Monaco,79.0,1,2023
+"Fri, Nov 18, 2022",Maccabi Tel Aviv,88.0,Partizan Mozzart Bet,96.0,1,2023
+"Fri, Nov 18, 2022",Panathinaikos,77.0,Fenerbahçe Beko,107.0,1,2023
+"Fri, Nov 18, 2022",EA7 Emporio Armani Milan,62.0,Žalgiris,71.0,1,2023
+"Tue, Nov 22, 2022",Crvena zvezda mts,88.0,Alba Berlin,84.0,0,2023
+"Tue, Nov 22, 2022",Partizan Mozzart Bet,68.0,Barcelona,79.0,1,2023
+"Tue, Nov 22, 2022",Olympiacos,84.0,Maccabi Tel Aviv,90.0,1,2023
+"Tue, Nov 22, 2022",Anadolu Efes,80.0,EA7 Emporio Armani Milan,51.0,0,2023
+"Tue, Nov 22, 2022",Fenerbahçe Beko,96.0,AS Monaco,93.0,0,2023
+"Tue, Nov 22, 2022",Real Madrid,80.0,Valencia Basket,73.0,0,2023
+"Wed, Nov 23, 2022",Virtus Segafredo Bologna,85.0,Panathinaikos,88.0,1,2023
+"Wed, Nov 23, 2022",Bayern München,75.0,LDLC ASVEL,74.0,0,2023
+"Wed, Nov 23, 2022",Žalgiris,73.0,Cazoo Baskonia,93.0,1,2023
+"Thu, Nov 24, 2022",Fenerbahçe Beko,82.0,EA7 Emporio Armani Milan,72.0,0,2023
+"Thu, Nov 24, 2022",Alba Berlin,76.0,Olympiacos,86.0,1,2023
+"Thu, Nov 24, 2022",Partizan Mozzart Bet,97.0,Real Madrid,105.0,1,2023
+"Thu, Nov 24, 2022",Maccabi Tel Aviv,68.0,Crvena zvezda mts,69.0,1,2023
+"Fri, Nov 25, 2022",Cazoo Baskonia,84.0,Barcelona,96.0,1,2023
+"Fri, Nov 25, 2022",Bayern München,79.0,AS Monaco,80.0,1,2023
+"Fri, Nov 25, 2022",LDLC ASVEL,58.0,Panathinaikos,77.0,1,2023
+"Fri, Nov 25, 2022",Žalgiris,80.0,Valencia Basket,76.0,0,2023
+"Fri, Nov 25, 2022",Anadolu Efes,85.0,Virtus Segafredo Bologna,80.0,0,2023
+"Thu, Dec 1, 2022",Barcelona,88.0,Alba Berlin,86.0,0,2023
+"Thu, Dec 1, 2022",Olympiacos,71.0,Anadolu Efes,82.0,1,2023
+"Thu, Dec 1, 2022",Valencia Basket,100.0,Partizan Mozzart Bet,96.0,0,2023
+"Thu, Dec 1, 2022",AS Monaco,84.0,LDLC ASVEL,75.0,0,2023
+"Thu, Dec 1, 2022",EA7 Emporio Armani Milan,62.0,Cazoo Baskonia,78.0,1,2023
+"Fri, Dec 2, 2022",Maccabi Tel Aviv,89.0,Bayern München,98.0,1,2023
+"Fri, Dec 2, 2022",Virtus Segafredo Bologna,74.0,Crvena zvezda mts,83.0,1,2023
+"Fri, Dec 2, 2022",Real Madrid,85.0,Fenerbahçe Beko,71.0,0,2023
+"Fri, Dec 2, 2022",Panathinaikos,81.0,Žalgiris,67.0,0,2023
+"Thu, Dec 8, 2022",Fenerbahçe Beko,104.0,Alba Berlin,75.0,0,2023
+"Thu, Dec 8, 2022",Valencia Basket,68.0,Maccabi Tel Aviv,84.0,1,2023
+"Thu, Dec 8, 2022",EA7 Emporio Armani Milan,77.0,Panathinaikos,90.0,1,2023
+"Thu, Dec 8, 2022",Crvena zvezda mts,76.0,Partizan Mozzart Bet,73.0,0,2023
+"Thu, Dec 8, 2022",AS Monaco,95.0,Real Madrid,94.0,0,2023
+"Fri, Dec 9, 2022",LDLC ASVEL,75.0,Barcelona,74.0,0,2023
+"Fri, Dec 9, 2022",Virtus Segafredo Bologna,71.0,Olympiacos,117.0,1,2023
+"Fri, Dec 9, 2022",Bayern München,53.0,Cazoo Baskonia,78.0,1,2023
+"Fri, Dec 9, 2022",Anadolu Efes,86.0,Žalgiris,60.0,0,2023
+"Tue, Dec 13, 2022",Real Madrid,68.0,Bayern München,64.0,0,2023
+"Tue, Dec 13, 2022",Maccabi Tel Aviv,77.0,EA7 Emporio Armani Milan,71.0,0,2023
+"Tue, Dec 13, 2022",Fenerbahçe Beko,67.0,Olympiacos,94.0,1,2023
+"Tue, Dec 13, 2022",Žalgiris,73.0,Crvena zvezda mts,77.0,1,2023
+"Tue, Dec 13, 2022",Panathinaikos,91.0,Valencia Basket,94.0,1,2023
+"Tue, Dec 13, 2022",Partizan Mozzart Bet,87.0,LDLC ASVEL,91.0,1,2023
+"Wed, Dec 14, 2022",Cazoo Baskonia,83.0,Anadolu Efes,78.0,0,2023
+"Wed, Dec 14, 2022",Barcelona,69.0,AS Monaco,63.0,0,2023
+"Wed, Dec 14, 2022",Alba Berlin,76.0,Virtus Segafredo Bologna,85.0,1,2023
+"Thu, Dec 15, 2022",Valencia Basket,92.0,Bayern München,97.0,1,2023
+"Thu, Dec 15, 2022",EA7 Emporio Armani Milan,71.0,Crvena zvezda mts,67.0,0,2023
+"Thu, Dec 15, 2022",Olympiacos,75.0,LDLC ASVEL,77.0,1,2023
+"Thu, Dec 15, 2022",Real Madrid,72.0,Žalgiris,81.0,1,2023
+"Fri, Dec 16, 2022",Panathinaikos,68.0,Barcelona,74.0,1,2023
+"Fri, Dec 16, 2022",Alba Berlin,89.0,AS Monaco,92.0,1,2023
+"Fri, Dec 16, 2022",Anadolu Efes,79.0,Partizan Mozzart Bet,82.0,1,2023
+"Fri, Dec 16, 2022",Cazoo Baskonia,76.0,Fenerbahçe Beko,70.0,0,2023
+"Fri, Dec 16, 2022",Maccabi Tel Aviv,73.0,Virtus Segafredo Bologna,78.0,1,2023
+"Thu, Dec 22, 2022",Maccabi Tel Aviv,83.0,Alba Berlin,70.0,0,2023
+"Thu, Dec 22, 2022",Crvena zvezda mts,90.0,Olympiacos,86.0,0,2023
+"Thu, Dec 22, 2022",LDLC ASVEL,73.0,Real Madrid,92.0,1,2023
+"Thu, Dec 22, 2022",Partizan Mozzart Bet,73.0,Fenerbahçe Beko,72.0,0,2023
+"Thu, Dec 22, 2022",Virtus Segafredo Bologna,79.0,Cazoo Baskonia,90.0,1,2023
+"Fri, Dec 23, 2022",Panathinaikos,69.0,Anadolu Efes,88.0,1,2023
+"Fri, Dec 23, 2022",AS Monaco,71.0,EA7 Emporio Armani Milan,79.0,1,2023
+"Fri, Dec 23, 2022",Barcelona,83.0,Valencia Basket,84.0,1,2023
+"Fri, Dec 23, 2022",Bayern München,67.0,Žalgiris,75.0,1,2023
+"Thu, Dec 29, 2022",Anadolu Efes,72.0,Maccabi Tel Aviv,80.0,1,2023
+"Thu, Dec 29, 2022",Valencia Basket,79.0,EA7 Emporio Armani Milan,90.0,1,2023
+"Thu, Dec 29, 2022",Žalgiris,82.0,AS Monaco,84.0,1,2023
+"Thu, Dec 29, 2022",Bayern München,77.0,Partizan Mozzart Bet,83.0,1,2023
+"Thu, Dec 29, 2022",Real Madrid,86.0,Cazoo Baskonia,92.0,1,2023
+"Fri, Dec 30, 2022",Olympiacos,95.0,Panathinaikos,71.0,0,2023
+"Fri, Dec 30, 2022",Barcelona,99.0,Crvena zvezda mts,94.0,0,2023
+"Fri, Dec 30, 2022",Alba Berlin,91.0,LDLC ASVEL,79.0,0,2023
+"Fri, Dec 30, 2022",Fenerbahçe Beko,88.0,Virtus Segafredo Bologna,92.0,1,2023
+"Thu, Jan 5, 2023",Cazoo Baskonia,84.0,Alba Berlin,85.0,1,2023
+"Thu, Jan 5, 2023",Virtus Segafredo Bologna,83.0,Barcelona,75.0,0,2023
+"Thu, Jan 5, 2023",Panathinaikos,68.0,Bayern München,84.0,1,2023
+"Thu, Jan 5, 2023",AS Monaco,80.0,Partizan Mozzart Bet,100.0,1,2023
+"Thu, Jan 5, 2023",Fenerbahçe Beko,66.0,Žalgiris,86.0,1,2023
+"Fri, Jan 6, 2023",LDLC ASVEL,72.0,Anadolu Efes,78.0,1,2023
+"Fri, Jan 6, 2023",EA7 Emporio Armani Milan,66.0,Olympiacos,82.0,1,2023
+"Fri, Jan 6, 2023",Maccabi Tel Aviv,65.0,Real Madrid,98.0,1,2023
+"Fri, Jan 6, 2023",Crvena zvezda mts,77.0,Valencia Basket,75.0,0,2023
+"Tue, Jan 10, 2023",EA7 Emporio Armani Milan,63.0,Alba Berlin,83.0,1,2023
+"Tue, Jan 10, 2023",Cazoo Baskonia,79.0,Bayern München,92.0,1,2023
+"Tue, Jan 10, 2023",Olympiacos,60.0,AS Monaco,64.0,1,2023
+"Tue, Jan 10, 2023",Fenerbahçe Beko,94.0,Panathinaikos,88.0,0,2023
+"Tue, Jan 10, 2023",Real Madrid,79.0,Crvena zvezda mts,59.0,0,2023
+"Tue, Jan 10, 2023",Žalgiris,87.0,Virtus Segafredo Bologna,77.0,0,2023
+"Wed, Jan 11, 2023",Partizan Mozzart Bet,81.0,Maccabi Tel Aviv,90.0,1,2023
+"Wed, Jan 11, 2023",Anadolu Efes,71.0,Valencia Basket,81.0,1,2023
+"Wed, Jan 11, 2023",Barcelona,82.0,LDLC ASVEL,75.0,0,2023
+"Thu, Jan 12, 2023",Real Madrid,84.0,Alba Berlin,77.0,0,2023
+"Thu, Jan 12, 2023",AS Monaco,68.0,Crvena zvezda mts,92.0,1,2023
+"Thu, Jan 12, 2023",Bayern München,71.0,Fenerbahçe Beko,79.0,1,2023
+"Thu, Jan 12, 2023",Olympiacos,85.0,Virtus Segafredo Bologna,83.0,0,2023
+"Fri, Jan 13, 2023",Anadolu Efes,80.0,Barcelona,75.0,0,2023
+"Fri, Jan 13, 2023",Žalgiris,66.0,EA7 Emporio Armani Milan,61.0,0,2023
+"Fri, Jan 13, 2023",Maccabi Tel Aviv,86.0,Panathinaikos,88.0,1,2023
+"Fri, Jan 13, 2023",Cazoo Baskonia,65.0,Partizan Mozzart Bet,83.0,1,2023
+"Fri, Jan 13, 2023",Valencia Basket,83.0,LDLC ASVEL,79.0,0,2023
+"Thu, Jan 19, 2023",Alba Berlin,74.0,Maccabi Tel Aviv,87.0,1,2023
+"Thu, Jan 19, 2023",AS Monaco,94.0,Fenerbahçe Beko,98.0,1,2023
+"Thu, Jan 19, 2023",Partizan Mozzart Bet,81.0,Valencia Basket,89.0,1,2023
+"Thu, Jan 19, 2023",Panathinaikos,64.0,Virtus Segafredo Bologna,74.0,1,2023
+"Thu, Jan 19, 2023",Barcelona,85.0,Cazoo Baskonia,78.0,0,2023
+"Fri, Jan 20, 2023",Bayern München,89.0,Anadolu Efes,81.0,0,2023
+"Fri, Jan 20, 2023",LDLC ASVEL,79.0,EA7 Emporio Armani Milan,73.0,0,2023
+"Fri, Jan 20, 2023",Real Madrid,60.0,Olympiacos,73.0,1,2023
+"Fri, Jan 20, 2023",Crvena zvezda mts,66.0,Žalgiris,71.0,1,2023
+"Thu, Jan 26, 2023",Valencia Basket,94.0,Alba Berlin,88.0,0,2023
+"Thu, Jan 26, 2023",EA7 Emporio Armani Milan,88.0,AS Monaco,101.0,1,2023
+"Thu, Jan 26, 2023",Žalgiris,65.0,Panathinaikos,89.0,1,2023
+"Thu, Jan 26, 2023",Barcelona,86.0,Real Madrid,91.0,1,2023
+"Thu, Jan 26, 2023",Fenerbahçe Beko,77.0,LDLC ASVEL,91.0,1,2023
+"Fri, Jan 27, 2023",Virtus Segafredo Bologna,84.0,Bayern München,91.0,1,2023
+"Fri, Jan 27, 2023",Maccabi Tel Aviv,89.0,Olympiacos,95.0,1,2023
+"Fri, Jan 27, 2023",Partizan Mozzart Bet,79.0,Crvena zvezda mts,78.0,0,2023
+"Fri, Jan 27, 2023",Anadolu Efes,111.0,Cazoo Baskonia,114.0,1,2023
+"Tue, Jan 31, 2023",Maccabi Tel Aviv,78.0,Barcelona,83.0,1,2023
+"Tue, Jan 31, 2023",Cazoo Baskonia,83.0,EA7 Emporio Armani Milan,89.0,1,2023
+"Tue, Jan 31, 2023",LDLC ASVEL,71.0,Partizan Mozzart Bet,92.0,1,2023
+"Tue, Jan 31, 2023",Olympiacos,93.0,Fenerbahçe Beko,73.0,0,2023
+"Tue, Jan 31, 2023",Bayern München,73.0,Valencia Basket,82.0,1,2023
+"Tue, Jan 31, 2023",Crvena zvezda mts,72.0,Virtus Segafredo Bologna,84.0,1,2023
+"Wed, Feb 1, 2023",AS Monaco,102.0,Alba Berlin,84.0,0,2023
+"Wed, Feb 1, 2023",Žalgiris,70.0,Anadolu Efes,80.0,1,2023
+"Wed, Feb 1, 2023",Panathinaikos,68.0,Real Madrid,83.0,1,2023
+"Thu, Feb 2, 2023",Bayern München,70.0,Barcelona,72.0,1,2023
+"Thu, Feb 2, 2023",Crvena zvezda mts,68.0,EA7 Emporio Armani Milan,74.0,1,2023
+"Thu, Feb 2, 2023",Maccabi Tel Aviv,94.0,Valencia Basket,93.0,0,2023
+"Fri, Feb 3, 2023",Real Madrid,95.0,AS Monaco,91.0,0,2023
+"Fri, Feb 3, 2023",Anadolu Efes,70.0,Olympiacos,76.0,1,2023
+"Fri, Feb 3, 2023",Alba Berlin,86.0,Fenerbahçe Beko,101.0,1,2023
+"Fri, Feb 3, 2023",Virtus Segafredo Bologna,77.0,LDLC ASVEL,64.0,0,2023
+"Fri, Feb 3, 2023",Panathinaikos,90.0,Cazoo Baskonia,95.0,1,2023
+"Fri, Feb 3, 2023",Partizan Mozzart Bet,88.0,Žalgiris,74.0,0,2023
+"Wed, Feb 8, 2023",Olympiacos,93.0,Alba Berlin,60.0,0,2023
+"Thu, Feb 9, 2023",Partizan Mozzart Bet,82.0,Bayern München,71.0,0,2023
+"Thu, Feb 9, 2023",Crvena zvezda mts,89.0,Maccabi Tel Aviv,86.0,0,2023
+"Thu, Feb 9, 2023",Barcelona,92.0,Virtus Segafredo Bologna,75.0,0,2023
+"Fri, Feb 10, 2023",LDLC ASVEL,75.0,AS Monaco,87.0,1,2023
+"Fri, Feb 10, 2023",Valencia Basket,92.0,Panathinaikos,91.0,0,2023
+"Fri, Feb 10, 2023",Cazoo Baskonia,75.0,Žalgiris,79.0,1,2023
+"Thu, Feb 23, 2023",Bayern München,82.0,Maccabi Tel Aviv,90.0,1,2023
+"Thu, Feb 23, 2023",Panathinaikos,76.0,EA7 Emporio Armani Milan,78.0,1,2023
+"Thu, Feb 23, 2023",Fenerbahçe Beko,97.0,Partizan Mozzart Bet,94.0,0,2023
+"Thu, Feb 23, 2023",Žalgiris,69.0,Real Madrid,96.0,1,2023
+"Fri, Feb 24, 2023",AS Monaco,70.0,Barcelona,80.0,1,2023
+"Fri, Feb 24, 2023",Alba Berlin,87.0,Crvena zvezda mts,72.0,0,2023
+"Fri, Feb 24, 2023",Olympiacos,92.0,Valencia Basket,85.0,0,2023
+"Fri, Feb 24, 2023",Anadolu Efes,90.0,LDLC ASVEL,89.0,0,2023
+"Fri, Feb 24, 2023",Cazoo Baskonia,83.0,Virtus Segafredo Bologna,88.0,1,2023
+"Thu, Mar 2, 2023",Žalgiris,74.0,Barcelona,93.0,1,2023
+"Thu, Mar 2, 2023",Crvena zvezda mts,80.0,Bayern München,87.0,1,2023
+"Thu, Mar 2, 2023",Maccabi Tel Aviv,67.0,AS Monaco,86.0,1,2023
+"Thu, Mar 2, 2023",Anadolu Efes,87.0,Panathinaikos,82.0,0,2023
+"Thu, Mar 2, 2023",Alba Berlin,74.0,Partizan Mozzart Bet,88.0,1,2023
+"Fri, Mar 3, 2023",Olympiacos,62.0,EA7 Emporio Armani Milan,83.0,1,2023
+"Fri, Mar 3, 2023",Virtus Segafredo Bologna,72.0,Fenerbahçe Beko,104.0,1,2023
+"Fri, Mar 3, 2023",Real Madrid,75.0,LDLC ASVEL,71.0,0,2023
+"Fri, Mar 3, 2023",Valencia Basket,75.0,Cazoo Baskonia,114.0,1,2023
+"Tue, Mar 7, 2023",Žalgiris,66.0,Alba Berlin,63.0,0,2023
+"Tue, Mar 7, 2023",LDLC ASVEL,72.0,Bayern München,76.0,1,2023
+"Tue, Mar 7, 2023",Barcelona,70.0,Olympiacos,77.0,1,2023
+"Tue, Mar 7, 2023",Cazoo Baskonia,85.0,Real Madrid,81.0,0,2023
+"Tue, Mar 7, 2023",EA7 Emporio Armani Milan,88.0,Valencia Basket,84.0,0,2023
+"Tue, Mar 7, 2023",Partizan Mozzart Bet,88.0,Virtus Segafredo Bologna,79.0,0,2023
+"Wed, Mar 8, 2023",Fenerbahçe Beko,74.0,Maccabi Tel Aviv,78.0,1,2023
+"Wed, Mar 8, 2023",Panathinaikos,70.0,AS Monaco,84.0,1,2023
+"Wed, Mar 8, 2023",Anadolu Efes,75.0,Crvena zvezda mts,94.0,1,2023
+"Thu, Mar 9, 2023",Partizan Mozzart Bet,62.0,EA7 Emporio Armani Milan,76.0,1,2023
+"Thu, Mar 9, 2023",Bayern München,74.0,Olympiacos,102.0,1,2023
+"Thu, Mar 9, 2023",Valencia Basket,91.0,Real Madrid,95.0,1,2023
+"Thu, Mar 9, 2023",LDLC ASVEL,67.0,Žalgiris,85.0,1,2023
+"Thu, Mar 9, 2023",Virtus Segafredo Bologna,96.0,Alba Berlin,74.0,0,2023
+"Fri, Mar 10, 2023",Maccabi Tel Aviv,86.0,Anadolu Efes,64.0,0,2023
+"Fri, Mar 10, 2023",Crvena zvezda mts,66.0,Panathinaikos,75.0,1,2023
+"Fri, Mar 10, 2023",Barcelona,73.0,Fenerbahçe Beko,81.0,1,2023
+"Fri, Mar 10, 2023",AS Monaco,102.0,Cazoo Baskonia,93.0,0,2023
+"Tue, Mar 14, 2023",Real Madrid,89.0,Anadolu Efes,90.0,1,2023
+"Thu, Mar 16, 2023",Partizan Mozzart Bet,97.0,Anadolu Efes,84.0,0,2023
+"Thu, Mar 16, 2023",Cazoo Baskonia,79.0,Maccabi Tel Aviv,93.0,1,2023
+"Thu, Mar 16, 2023",Virtus Segafredo Bologna,68.0,AS Monaco,81.0,1,2023
+"Thu, Mar 16, 2023",EA7 Emporio Armani Milan,87.0,Real Madrid,91.0,1,2023
+"Thu, Mar 16, 2023",Olympiacos,74.0,Žalgiris,72.0,0,2023
+"Thu, Mar 16, 2023",Fenerbahçe Beko,80.0,Valencia Basket,82.0,1,2023
+"Thu, Mar 16, 2023",Panathinaikos,86.0,LDLC ASVEL,82.0,0,2023
+"Fri, Mar 17, 2023",Crvena zvezda mts,79.0,Barcelona,85.0,1,2023
+"Fri, Mar 17, 2023",Alba Berlin,76.0,Bayern München,75.0,0,2023
+"Tue, Mar 21, 2023",EA7 Emporio Armani Milan,82.0,Fenerbahçe Beko,75.0,0,2023
+"Thu, Mar 23, 2023",Anadolu Efes,93.0,Alba Berlin,95.0,1,2023
+"Thu, Mar 23, 2023",Barcelona,88.0,Panathinaikos,74.0,0,2023
+"Thu, Mar 23, 2023",Cazoo Baskonia,63.0,Crvena zvezda mts,74.0,1,2023
+"Thu, Mar 23, 2023",Maccabi Tel Aviv,85.0,LDLC ASVEL,67.0,0,2023
+"Fri, Mar 24, 2023",Bayern München,74.0,EA7 Emporio Armani Milan,99.0,1,2023
+"Fri, Mar 24, 2023",Valencia Basket,79.0,AS Monaco,90.0,1,2023
+"Fri, Mar 24, 2023",Olympiacos,75.0,Partizan Mozzart Bet,90.0,1,2023
+"Fri, Mar 24, 2023",Žalgiris,79.0,Fenerbahçe Beko,87.0,1,2023
+"Fri, Mar 24, 2023",Real Madrid,96.0,Virtus Segafredo Bologna,79.0,0,2023
+"Tue, Mar 28, 2023",EA7 Emporio Armani Milan,69.0,Anadolu Efes,89.0,1,2023
+"Tue, Mar 28, 2023",Virtus Segafredo Bologna,80.0,Maccabi Tel Aviv,111.0,1,2023
+"Tue, Mar 28, 2023",Bayern München,76.0,Panathinaikos,86.0,1,2023
+"Tue, Mar 28, 2023",Barcelona,89.0,Partizan Mozzart Bet,80.0,0,2023
+"Tue, Mar 28, 2023",Alba Berlin,87.0,Cazoo Baskonia,93.0,1,2023
+"Wed, Mar 29, 2023",LDLC ASVEL,55.0,Olympiacos,81.0,1,2023
+"Wed, Mar 29, 2023",Fenerbahçe Beko,75.0,Real Madrid,90.0,1,2023
+"Wed, Mar 29, 2023",Valencia Basket,73.0,Crvena zvezda mts,92.0,1,2023
+"Wed, Mar 29, 2023",AS Monaco,70.0,Žalgiris,79.0,1,2023
+"Thu, Mar 30, 2023",Virtus Segafredo Bologna,67.0,Anadolu Efes,86.0,1,2023
+"Thu, Mar 30, 2023",Alba Berlin,56.0,Barcelona,72.0,1,2023
+"Thu, Mar 30, 2023",EA7 Emporio Armani Milan,66.0,Maccabi Tel Aviv,85.0,1,2023
+"Fri, Mar 31, 2023",AS Monaco,84.0,Bayern München,81.0,0,2023
+"Fri, Mar 31, 2023",Panathinaikos,73.0,Olympiacos,81.0,1,2023
+"Fri, Mar 31, 2023",Real Madrid,90.0,Partizan Mozzart Bet,104.0,1,2023
+"Fri, Mar 31, 2023",Crvena zvezda mts,76.0,LDLC ASVEL,60.0,0,2023
+"Fri, Mar 31, 2023",Fenerbahçe Beko,69.0,Cazoo Baskonia,92.0,1,2023
+"Fri, Mar 31, 2023",Valencia Basket,74.0,Žalgiris,95.0,1,2023
+"Thu, Apr 6, 2023",Bayern München,67.0,Real Madrid,79.0,1,2023
+"Thu, Apr 6, 2023",Olympiacos,79.0,Crvena zvezda mts,87.0,1,2023
+"Thu, Apr 6, 2023",Anadolu Efes,86.0,Fenerbahçe Beko,103.0,1,2023
+"Thu, Apr 6, 2023",Virtus Segafredo Bologna,68.0,Valencia Basket,79.0,1,2023
+"Thu, Apr 6, 2023",LDLC ASVEL,100.0,Cazoo Baskonia,120.0,1,2023
+"Thu, Apr 6, 2023",Maccabi Tel Aviv,67.0,Žalgiris,68.0,1,2023
+"Fri, Apr 7, 2023",Barcelona,76.0,EA7 Emporio Armani Milan,84.0,1,2023
+"Fri, Apr 7, 2023",Partizan Mozzart Bet,88.0,AS Monaco,84.0,0,2023
+"Fri, Apr 7, 2023",Alba Berlin,88.0,Panathinaikos,84.0,0,2023
+"Thu, Apr 13, 2023",LDLC ASVEL,71.0,Alba Berlin,88.0,1,2023
+"Thu, Apr 13, 2023",Real Madrid,96.0,Maccabi Tel Aviv,100.0,1,2023
+"Thu, Apr 13, 2023",Cazoo Baskonia,78.0,Olympiacos,86.0,1,2023
+"Thu, Apr 13, 2023",Fenerbahçe Beko,89.0,Crvena zvezda mts,91.0,1,2023
+"Thu, Apr 13, 2023",EA7 Emporio Armani Milan,84.0,Virtus Segafredo Bologna,89.0,1,2023
+"Fri, Apr 14, 2023",AS Monaco,72.0,Anadolu Efes,87.0,1,2023
+"Fri, Apr 14, 2023",Valencia Basket,71.0,Barcelona,85.0,1,2023
+"Fri, Apr 14, 2023",Žalgiris,83.0,Bayern München,80.0,0,2023
+"Fri, Apr 14, 2023",Panathinaikos,81.0,Partizan Mozzart Bet,83.0,1,2023
+"Thu, Oct 5, 2023",Anadolu Efes,74.0,Barcelona,91.0,1,2024
+"Thu, Oct 5, 2023",ALBA Berlin,68.0,Bayern München,80.0,1,2024
+"Thu, Oct 5, 2023",Partizan Mozzart Bet,81.0,Maccabi Playtika Tel Aviv,96.0,1,2024
+"Thu, Oct 5, 2023",LDLC ASVEL,73.0,Crvena zvezda Meridianbet,94.0,1,2024
+"Thu, Oct 5, 2023",Žalgiris,82.0,Virtus Segafredo Bologna,79.0,0,2024
+"Fri, Oct 6, 2023",Olympiacos,88.0,Panathinaikos,78.0,0,2024
+"Fri, Oct 6, 2023",EA7 Emporio Armani Milano,82.0,Fenerbahçe Beko,85.0,1,2024
+"Fri, Oct 6, 2023",AS Monaco,65.0,Valencia Basket,70.0,1,2024
+"Fri, Oct 6, 2023",Real Madrid,79.0,Baskonia,77.0,0,2024
+"Thu, Oct 12, 2023",Baskonia,91.0,ALBA Berlin,86.0,0,2024
+"Thu, Oct 12, 2023",Real Madrid,103.0,Anadolu Efes,80.0,0,2024
+"Thu, Oct 12, 2023",Bayern München,71.0,Panathinaikos,78.0,1,2024
+"Thu, Oct 12, 2023",Partizan Mozzart Bet,88.0,LDLC ASVEL,62.0,0,2024
+"Fri, Oct 13, 2023",Virtus Segafredo Bologna,83.0,AS Monaco,59.0,0,2024
+"Fri, Oct 13, 2023",Barcelona,77.0,Olympiacos,68.0,0,2024
+"Fri, Oct 13, 2023",Fenerbahçe Beko,74.0,Valencia Basket,77.0,1,2024
+"Fri, Oct 13, 2023",Crvena zvezda Meridianbet,74.0,Žalgiris,79.0,1,2024
+"Tue, Oct 17, 2023",LDLC ASVEL,84.0,Anadolu Efes,89.0,1,2024
+"Tue, Oct 17, 2023",Olympiacos,53.0,EA7 Emporio Armani Milano,65.0,1,2024
+"Tue, Oct 17, 2023",Barcelona,92.0,Partizan Mozzart Bet,83.0,0,2024
+"Tue, Oct 17, 2023",Žalgiris,79.0,Real Madrid,93.0,1,2024
+"Tue, Oct 17, 2023",Panathinaikos,69.0,Fenerbahçe Beko,83.0,1,2024
+"Tue, Oct 17, 2023",Bayern München,76.0,Baskonia,68.0,0,2024
+"Wed, Oct 18, 2023",AS Monaco,82.0,Crvena zvezda Meridianbet,76.0,0,2024
+"Wed, Oct 18, 2023",ALBA Berlin,76.0,Virtus Segafredo Bologna,87.0,1,2024
+"Wed, Oct 18, 2023",Maccabi Playtika Tel Aviv,66.0,Valencia Basket,75.0,1,2024
+"Thu, Oct 19, 2023",Partizan Mozzart Bet,94.0,Olympiacos,98.0,1,2024
+"Thu, Oct 19, 2023",EA7 Emporio Armani Milano,71.0,Real Madrid,88.0,1,2024
+"Thu, Oct 19, 2023",LDLC ASVEL,86.0,Fenerbahçe Beko,101.0,1,2024
+"Thu, Oct 19, 2023",Žalgiris,99.0,Baskonia,82.0,0,2024
+"Fri, Oct 20, 2023",Valencia Basket,73.0,Anadolu Efes,77.0,1,2024
+"Fri, Oct 20, 2023",Bayern München,59.0,Barcelona,98.0,1,2024
+"Fri, Oct 20, 2023",ALBA Berlin,75.0,AS Monaco,86.0,1,2024
+"Fri, Oct 20, 2023",Maccabi Playtika Tel Aviv,86.0,Panathinaikos,81.0,0,2024
+"Fri, Oct 20, 2023",Crvena zvezda Meridianbet,79.0,Virtus Segafredo Bologna,85.0,1,2024
+"Thu, Oct 26, 2023",EA7 Emporio Armani Milano,82.0,ALBA Berlin,85.0,1,2024
+"Thu, Oct 26, 2023",Maccabi Playtika Tel Aviv,79.0,AS Monaco,107.0,1,2024
+"Thu, Oct 26, 2023",Anadolu Efes,57.0,Olympiacos,75.0,1,2024
+"Thu, Oct 26, 2023",Crvena zvezda Meridianbet,86.0,Partizan Mozzart Bet,88.0,1,2024
+"Thu, Oct 26, 2023",Barcelona,64.0,Real Madrid,65.0,1,2024
+"Fri, Oct 27, 2023",Fenerbahçe Beko,76.0,Bayern München,67.0,0,2024
+"Fri, Oct 27, 2023",Baskonia,81.0,Panathinaikos,95.0,1,2024
+"Fri, Oct 27, 2023",Virtus Segafredo Bologna,87.0,LDLC ASVEL,84.0,0,2024
+"Fri, Oct 27, 2023",Valencia Basket,87.0,Žalgiris,72.0,0,2024
+"Tue, Oct 31, 2023",Maccabi Playtika Tel Aviv,98.0,EA7 Emporio Armani Milano,90.0,0,2024
+"Thu, Nov 2, 2023",AS Monaco,72.0,EA7 Emporio Armani Milano,66.0,0,2024
+"Thu, Nov 2, 2023",Bayern München,68.0,Crvena zvezda Meridianbet,74.0,1,2024
+"Thu, Nov 2, 2023",Olympiacos,77.0,Fenerbahçe Beko,79.0,1,2024
+"Thu, Nov 2, 2023",LDLC ASVEL,91.0,Žalgiris,88.0,0,2024
+"Thu, Nov 2, 2023",ALBA Berlin,71.0,Valencia Basket,79.0,1,2024
+"Fri, Nov 3, 2023",Panathinaikos,72.0,Barcelona,80.0,1,2024
+"Fri, Nov 3, 2023",Anadolu Efes,81.0,Virtus Segafredo Bologna,93.0,1,2024
+"Fri, Nov 3, 2023",Partizan Mozzart Bet,83.0,Baskonia,84.0,1,2024
+"Thu, Nov 9, 2023",Žalgiris,82.0,Anadolu Efes,86.0,1,2024
+"Thu, Nov 9, 2023",Bayern München,90.0,Maccabi Playtika Tel Aviv,93.0,1,2024
+"Thu, Nov 9, 2023",Valencia Basket,52.0,EA7 Emporio Armani Milano,83.0,1,2024
+"Thu, Nov 9, 2023",Baskonia,75.0,Olympiacos,74.0,0,2024
+"Thu, Nov 9, 2023",Fenerbahçe Beko,84.0,Partizan Mozzart Bet,85.0,1,2024
+"Thu, Nov 9, 2023",Virtus Segafredo Bologna,74.0,Real Madrid,100.0,1,2024
+"Fri, Nov 10, 2023",Panathinaikos,99.0,ALBA Berlin,85.0,0,2024
+"Fri, Nov 10, 2023",Crvena zvezda Meridianbet,81.0,Barcelona,86.0,1,2024
+"Fri, Nov 10, 2023",LDLC ASVEL,70.0,AS Monaco,80.0,1,2024
+"Tue, Nov 14, 2023",Olympiacos,79.0,Maccabi Playtika Tel Aviv,74.0,0,2024
+"Tue, Nov 14, 2023",Anadolu Efes,89.0,AS Monaco,82.0,0,2024
+"Tue, Nov 14, 2023",Fenerbahçe Beko,56.0,Crvena zvezda Meridianbet,87.0,1,2024
+"Tue, Nov 14, 2023",Real Madrid,76.0,Valencia Basket,73.0,0,2024
+"Tue, Nov 14, 2023",EA7 Emporio Armani Milano,79.0,Virtus Segafredo Bologna,86.0,1,2024
+"Wed, Nov 15, 2023",LDLC ASVEL,73.0,ALBA Berlin,68.0,0,2024
+"Wed, Nov 15, 2023",Partizan Mozzart Bet,85.0,Bayern München,94.0,1,2024
+"Wed, Nov 15, 2023",Žalgiris,71.0,Panathinaikos,73.0,1,2024
+"Wed, Nov 15, 2023",Barcelona,71.0,Baskonia,94.0,1,2024
+"Thu, Nov 16, 2023",Anadolu Efes,76.0,EA7 Emporio Armani Milano,92.0,1,2024
+"Thu, Nov 16, 2023",Crvena zvezda Meridianbet,83.0,Olympiacos,88.0,1,2024
+"Thu, Nov 16, 2023",AS Monaco,73.0,Real Madrid,91.0,1,2024
+"Thu, Nov 16, 2023",Fenerbahçe Beko,73.0,Maccabi Playtika Tel Aviv,78.0,1,2024
+"Fri, Nov 17, 2023",Valencia Basket,70.0,Barcelona,74.0,1,2024
+"Fri, Nov 17, 2023",Virtus Segafredo Bologna,76.0,Panathinaikos,90.0,1,2024
+"Fri, Nov 17, 2023",ALBA Berlin,74.0,Partizan Mozzart Bet,89.0,1,2024
+"Fri, Nov 17, 2023",Baskonia,88.0,LDLC ASVEL,81.0,0,2024
+"Fri, Nov 17, 2023",Bayern München,73.0,Žalgiris,74.0,1,2024
+"Thu, Nov 23, 2023",Barcelona,92.0,Maccabi Playtika Tel Aviv,90.0,0,2024
+"Thu, Nov 23, 2023",Valencia Basket,73.0,Panathinaikos,90.0,1,2024
+"Thu, Nov 23, 2023",ALBA Berlin,75.0,Real Madrid,99.0,1,2024
+"Thu, Nov 23, 2023",Bayern München,101.0,LDLC ASVEL,100.0,0,2024
+"Thu, Nov 23, 2023",Fenerbahçe Beko,79.0,Virtus Segafredo Bologna,87.0,1,2024
+"Fri, Nov 24, 2023",Partizan Mozzart Bet,94.0,Anadolu Efes,100.0,1,2024
+"Fri, Nov 24, 2023",Žalgiris,72.0,Olympiacos,89.0,1,2024
+"Fri, Nov 24, 2023",EA7 Emporio Armani Milano,93.0,Crvena zvezda Meridianbet,71.0,0,2024
+"Fri, Nov 24, 2023",AS Monaco,77.0,Baskonia,75.0,0,2024
+"Tue, Nov 28, 2023",Real Madrid,99.0,Maccabi Playtika Tel Aviv,70.0,0,2024
+"Thu, Nov 30, 2023",Virtus Segafredo Bologna,76.0,Bayern München,90.0,1,2024
+"Thu, Nov 30, 2023",ALBA Berlin,81.0,Maccabi Playtika Tel Aviv,102.0,1,2024
+"Thu, Nov 30, 2023",Olympiacos,77.0,AS Monaco,85.0,1,2024
+"Thu, Nov 30, 2023",Panathinaikos,87.0,Partizan Mozzart Bet,92.0,1,2024
+"Thu, Nov 30, 2023",Real Madrid,99.0,Fenerbahçe Beko,100.0,1,2024
+"Thu, Nov 30, 2023",Žalgiris,83.0,EA7 Emporio Armani Milano,70.0,0,2024
+"Fri, Dec 1, 2023",LDLC ASVEL,92.0,Barcelona,101.0,1,2024
+"Fri, Dec 1, 2023",Anadolu Efes,83.0,Crvena zvezda Meridianbet,97.0,1,2024
+"Fri, Dec 1, 2023",Baskonia,98.0,Valencia Basket,84.0,0,2024
+"Tue, Dec 5, 2023",Žalgiris,62.0,ALBA Berlin,64.0,1,2024
+"Tue, Dec 5, 2023",Panathinaikos,68.0,Anadolu Efes,71.0,1,2024
+"Tue, Dec 5, 2023",EA7 Emporio Armani Milano,84.0,Bayern München,91.0,1,2024
+"Tue, Dec 5, 2023",Real Madrid,77.0,Olympiacos,71.0,0,2024
+"Tue, Dec 5, 2023",AS Monaco,85.0,Partizan Mozzart Bet,89.0,1,2024
+"Wed, Dec 6, 2023",Crvena zvezda Meridianbet,81.0,Valencia Basket,85.0,1,2024
+"Wed, Dec 6, 2023",Maccabi Playtika Tel Aviv,94.0,LDLC ASVEL,91.0,0,2024
+"Wed, Dec 6, 2023",Barcelona,75.0,Virtus Segafredo Bologna,80.0,1,2024
+"Wed, Dec 6, 2023",Fenerbahçe Beko,79.0,Baskonia,80.0,1,2024
+"Thu, Dec 7, 2023",Anadolu Efes,97.0,ALBA Berlin,89.0,0,2024
+"Thu, Dec 7, 2023",Real Madrid,90.0,Panathinaikos,78.0,0,2024
+"Thu, Dec 7, 2023",EA7 Emporio Armani Milano,69.0,Partizan Mozzart Bet,82.0,1,2024
+"Fri, Dec 8, 2023",Fenerbahçe Beko,81.0,Barcelona,89.0,1,2024
+"Fri, Dec 8, 2023",Bayern München,69.0,Olympiacos,77.0,1,2024
+"Fri, Dec 8, 2023",Valencia Basket,78.0,LDLC ASVEL,55.0,0,2024
+"Fri, Dec 8, 2023",Maccabi Playtika Tel Aviv,90.0,Virtus Segafredo Bologna,100.0,1,2024
+"Fri, Dec 8, 2023",Crvena zvezda Meridianbet,85.0,Baskonia,87.0,1,2024
+"Fri, Dec 8, 2023",AS Monaco,83.0,Žalgiris,79.0,0,2024
+"Thu, Dec 14, 2023",Bayern München,73.0,Real Madrid,88.0,1,2024
+"Thu, Dec 14, 2023",Panathinaikos,89.0,LDLC ASVEL,81.0,0,2024
+"Thu, Dec 14, 2023",Virtus Segafredo Bologna,91.0,Baskonia,81.0,0,2024
+"Thu, Dec 14, 2023",Partizan Mozzart Bet,93.0,Žalgiris,85.0,0,2024
+"Thu, Dec 14, 2023",ALBA Berlin,71.0,Crvena zvezda Meridianbet,85.0,1,2024
+"Thu, Dec 14, 2023",Anadolu Efes,86.0,Maccabi Playtika Tel Aviv,95.0,1,2024
+"Fri, Dec 15, 2023",EA7 Emporio Armani Milano,90.0,Barcelona,86.0,0,2024
+"Fri, Dec 15, 2023",Valencia Basket,63.0,Olympiacos,56.0,0,2024
+"Fri, Dec 15, 2023",AS Monaco,74.0,Fenerbahçe Beko,86.0,1,2024
+"Tue, Dec 19, 2023",Barcelona,70.0,ALBA Berlin,74.0,1,2024
+"Tue, Dec 19, 2023",Baskonia,81.0,Maccabi Playtika Tel Aviv,89.0,1,2024
+"Tue, Dec 19, 2023",Real Madrid,72.0,Crvena zvezda Meridianbet,58.0,0,2024
+"Tue, Dec 19, 2023",Partizan Mozzart Bet,72.0,Valencia Basket,67.0,0,2024
+"Tue, Dec 19, 2023",Olympiacos,67.0,Virtus Segafredo Bologna,69.0,1,2024
+"Wed, Dec 20, 2023",Anadolu Efes,71.0,Bayern München,86.0,1,2024
+"Wed, Dec 20, 2023",LDLC ASVEL,61.0,EA7 Emporio Armani Milano,84.0,1,2024
+"Wed, Dec 20, 2023",Panathinaikos,91.0,AS Monaco,90.0,0,2024
+"Wed, Dec 20, 2023",Žalgiris,78.0,Fenerbahçe Beko,80.0,1,2024
+"Thu, Dec 21, 2023",Crvena zvezda Meridianbet,98.0,Maccabi Playtika Tel Aviv,92.0,0,2024
+"Thu, Dec 21, 2023",Partizan Mozzart Bet,75.0,Real Madrid,91.0,1,2024
+"Thu, Dec 21, 2023",Virtus Segafredo Bologna,71.0,Valencia Basket,79.0,1,2024
+"Fri, Dec 22, 2023",Fenerbahçe Beko,91.0,ALBA Berlin,82.0,0,2024
+"Fri, Dec 22, 2023",Baskonia,87.0,Anadolu Efes,80.0,0,2024
+"Fri, Dec 22, 2023",AS Monaco,91.0,Bayern München,80.0,0,2024
+"Fri, Dec 22, 2023",Panathinaikos,76.0,EA7 Emporio Armani Milano,68.0,0,2024
+"Fri, Dec 22, 2023",Olympiacos,85.0,LDLC ASVEL,73.0,0,2024
+"Fri, Dec 22, 2023",Barcelona,85.0,Žalgiris,80.0,0,2024
+"Thu, Dec 28, 2023",Fenerbahçe Beko,89.0,Anadolu Efes,84.0,0,2024
+"Thu, Dec 28, 2023",Valencia Basket,84.0,Bayern München,85.0,1,2024
+"Thu, Dec 28, 2023",Baskonia,67.0,EA7 Emporio Armani Milano,76.0,1,2024
+"Thu, Dec 28, 2023",Crvena zvezda Meridianbet,65.0,Panathinaikos,82.0,1,2024
+"Thu, Dec 28, 2023",Real Madrid,77.0,LDLC ASVEL,76.0,0,2024
+"Thu, Dec 28, 2023",Maccabi Playtika Tel Aviv,78.0,Žalgiris,70.0,0,2024
+"Thu, Dec 28, 2023",Virtus Segafredo Bologna,77.0,Partizan Mozzart Bet,75.0,0,2024
+"Fri, Dec 29, 2023",Olympiacos,94.0,ALBA Berlin,67.0,0,2024
+"Fri, Dec 29, 2023",Barcelona,71.0,AS Monaco,91.0,1,2024
+"Tue, Jan 2, 2024",AS Monaco,83.0,Maccabi Playtika Tel Aviv,93.0,1,2024
+"Tue, Jan 2, 2024",EA7 Emporio Armani Milano,74.0,Olympiacos,79.0,1,2024
+"Tue, Jan 2, 2024",LDLC ASVEL,77.0,Partizan Mozzart Bet,90.0,1,2024
+"Tue, Jan 2, 2024",Crvena zvezda Meridianbet,85.0,Fenerbahçe Beko,76.0,0,2024
+"Tue, Jan 2, 2024",ALBA Berlin,71.0,Žalgiris,77.0,1,2024
+"Wed, Jan 3, 2024",Real Madrid,78.0,Barcelona,83.0,1,2024
+"Wed, Jan 3, 2024",Anadolu Efes,88.0,Valencia Basket,93.0,1,2024
+"Wed, Jan 3, 2024",Bayern München,83.0,Virtus Segafredo Bologna,85.0,1,2024
+"Wed, Jan 3, 2024",Panathinaikos,73.0,Baskonia,75.0,1,2024
+"Thu, Jan 4, 2024",AS Monaco,73.0,Olympiacos,75.0,1,2024
+"Thu, Jan 4, 2024",Partizan Mozzart Bet,72.0,Crvena zvezda Meridianbet,88.0,1,2024
+"Thu, Jan 4, 2024",Maccabi Playtika Tel Aviv,74.0,Fenerbahçe Beko,109.0,1,2024
+"Thu, Jan 4, 2024",Žalgiris,79.0,LDLC ASVEL,93.0,1,2024
+"Fri, Jan 5, 2024",Virtus Segafredo Bologna,83.0,ALBA Berlin,68.0,0,2024
+"Fri, Jan 5, 2024",Baskonia,85.0,Barcelona,89.0,1,2024
+"Fri, Jan 5, 2024",Bayern München,62.0,EA7 Emporio Armani Milano,76.0,1,2024
+"Fri, Jan 5, 2024",Anadolu Efes,126.0,Real Madrid,130.0,1,2024
+"Fri, Jan 5, 2024",Panathinaikos,82.0,Valencia Basket,81.0,0,2024
+"Tue, Jan 9, 2024",Real Madrid,92.0,Bayern München,71.0,0,2024
+"Tue, Jan 9, 2024",ALBA Berlin,76.0,EA7 Emporio Armani Milano,82.0,1,2024
+"Tue, Jan 9, 2024",Baskonia,83.0,AS Monaco,93.0,1,2024
+"Tue, Jan 9, 2024",Anadolu Efes,76.0,Panathinaikos,83.0,1,2024
+"Tue, Jan 9, 2024",Partizan Mozzart Bet,76.0,Fenerbahçe Beko,91.0,1,2024
+"Tue, Jan 9, 2024",Žalgiris,84.0,Valencia Basket,79.0,0,2024
+"Tue, Jan 9, 2024",Crvena zvezda Meridianbet,91.0,LDLC ASVEL,100.0,1,2024
+"Wed, Jan 10, 2024",Olympiacos,78.0,Barcelona,86.0,1,2024
+"Wed, Jan 10, 2024",Virtus Segafredo Bologna,78.0,Maccabi Playtika Tel Aviv,95.0,1,2024
+"Thu, Jan 11, 2024",Crvena zvezda Meridianbet,76.0,EA7 Emporio Armani Milano,62.0,0,2024
+"Thu, Jan 11, 2024",AS Monaco,63.0,Panathinaikos,88.0,1,2024
+"Thu, Jan 11, 2024",Valencia Basket,86.0,Real Madrid,96.0,1,2024
+"Thu, Jan 11, 2024",Bayern München,91.0,Fenerbahçe Beko,98.0,1,2024
+"Fri, Jan 12, 2024",Virtus Segafredo Bologna,75.0,Anadolu Efes,99.0,1,2024
+"Fri, Jan 12, 2024",Žalgiris,73.0,Barcelona,91.0,1,2024
+"Fri, Jan 12, 2024",Maccabi Playtika Tel Aviv,79.0,Partizan Mozzart Bet,88.0,1,2024
+"Fri, Jan 12, 2024",ALBA Berlin,88.0,LDLC ASVEL,63.0,0,2024
+"Fri, Jan 12, 2024",Olympiacos,69.0,Baskonia,80.0,1,2024
+"Thu, Jan 18, 2024",Bayern München,82.0,ALBA Berlin,65.0,0,2024
+"Thu, Jan 18, 2024",Barcelona,74.0,Anadolu Efes,98.0,1,2024
+"Thu, Jan 18, 2024",Maccabi Playtika Tel Aviv,72.0,Olympiacos,89.0,1,2024
+"Thu, Jan 18, 2024",Baskonia,91.0,Crvena zvezda Meridianbet,90.0,0,2024
+"Thu, Jan 18, 2024",LDLC ASVEL,63.0,Virtus Segafredo Bologna,73.0,1,2024
+"Fri, Jan 19, 2024",Real Madrid,74.0,AS Monaco,98.0,1,2024
+"Fri, Jan 19, 2024",Partizan Mozzart Bet,71.0,Panathinaikos,84.0,1,2024
+"Fri, Jan 19, 2024",EA7 Emporio Armani Milano,72.0,Valencia Basket,84.0,1,2024
+"Fri, Jan 19, 2024",Fenerbahçe Beko,75.0,Žalgiris,98.0,1,2024
+"Thu, Jan 25, 2024",Crvena zvezda Meridianbet,80.0,ALBA Berlin,89.0,1,2024
+"Thu, Jan 25, 2024",LDLC ASVEL,76.0,Bayern München,64.0,0,2024
+"Thu, Jan 25, 2024",Panathinaikos,75.0,Maccabi Playtika Tel Aviv,90.0,1,2024
+"Thu, Jan 25, 2024",Olympiacos,85.0,Real Madrid,90.0,1,2024
+"Thu, Jan 25, 2024",Virtus Segafredo Bologna,75.0,Fenerbahçe Beko,88.0,1,2024
+"Fri, Jan 26, 2024",AS Monaco,80.0,Anadolu Efes,78.0,0,2024
+"Fri, Jan 26, 2024",Barcelona,70.0,EA7 Emporio Armani Milano,74.0,1,2024
+"Fri, Jan 26, 2024",Žalgiris,72.0,Partizan Mozzart Bet,81.0,1,2024
+"Fri, Jan 26, 2024",Valencia Basket,77.0,Baskonia,62.0,0,2024
+"Tue, Jan 30, 2024",Baskonia,109.0,Bayern München,112.0,1,2024
+"Tue, Jan 30, 2024",ALBA Berlin,87.0,Olympiacos,101.0,1,2024
+"Tue, Jan 30, 2024",Maccabi Playtika Tel Aviv,101.0,Real Madrid,106.0,1,2024
+"Tue, Jan 30, 2024",Valencia Basket,64.0,Crvena zvezda Meridianbet,82.0,1,2024
+"Tue, Jan 30, 2024",Fenerbahçe Beko,83.0,LDLC ASVEL,73.0,0,2024
+"Wed, Jan 31, 2024",Virtus Segafredo Bologna,57.0,Barcelona,84.0,1,2024
+"Wed, Jan 31, 2024",Partizan Mozzart Bet,70.0,AS Monaco,85.0,1,2024
+"Wed, Jan 31, 2024",EA7 Emporio Armani Milano,62.0,Panathinaikos,79.0,1,2024
+"Wed, Jan 31, 2024",Anadolu Efes,70.0,Žalgiris,96.0,1,2024
+"Thu, Feb 1, 2024",Valencia Basket,81.0,ALBA Berlin,66.0,0,2024
+"Thu, Feb 1, 2024",Olympiacos,76.0,Bayern München,72.0,0,2024
+"Thu, Feb 1, 2024",LDLC ASVEL,79.0,Real Madrid,86.0,1,2024
+"Thu, Feb 1, 2024",Maccabi Playtika Tel Aviv,82.0,Baskonia,92.0,1,2024
+"Fri, Feb 2, 2024",EA7 Emporio Armani Milano,73.0,Anadolu Efes,79.0,1,2024
+"Fri, Feb 2, 2024",Fenerbahçe Beko,69.0,AS Monaco,76.0,1,2024
+"Fri, Feb 2, 2024",Barcelona,85.0,Crvena zvezda Meridianbet,76.0,0,2024
+"Fri, Feb 2, 2024",Partizan Mozzart Bet,84.0,Virtus Segafredo Bologna,88.0,1,2024
+"Fri, Feb 2, 2024",Panathinaikos,68.0,Žalgiris,80.0,1,2024
+"Thu, Feb 8, 2024",Maccabi Playtika Tel Aviv,91.0,Anadolu Efes,105.0,1,2024
+"Thu, Feb 8, 2024",Real Madrid,76.0,EA7 Emporio Armani Milano,81.0,1,2024
+"Thu, Feb 8, 2024",Bayern München,79.0,Partizan Mozzart Bet,78.0,0,2024
+"Thu, Feb 8, 2024",Olympiacos,78.0,Valencia Basket,65.0,0,2024
+"Thu, Feb 8, 2024",LDLC ASVEL,80.0,Baskonia,94.0,1,2024
+"Fri, Feb 9, 2024",ALBA Berlin,77.0,Barcelona,93.0,1,2024
+"Fri, Feb 9, 2024",Fenerbahçe Beko,63.0,Panathinaikos,74.0,1,2024
+"Fri, Feb 9, 2024",Žalgiris,93.0,Crvena zvezda Meridianbet,91.0,0,2024
+"Fri, Feb 9, 2024",AS Monaco,81.0,Virtus Segafredo Bologna,78.0,0,2024
+"Thu, Feb 29, 2024",Maccabi Playtika Tel Aviv,106.0,ALBA Berlin,71.0,0,2024
+"Thu, Feb 29, 2024",Anadolu Efes,90.0,Partizan Mozzart Bet,100.0,1,2024
+"Thu, Feb 29, 2024",Panathinaikos,97.0,Real Madrid,86.0,0,2024
+"Thu, Feb 29, 2024",Valencia Basket,74.0,Virtus Segafredo Bologna,87.0,1,2024
+"Fri, Mar 1, 2024",AS Monaco,77.0,Barcelona,67.0,0,2024
+"Fri, Mar 1, 2024",Crvena zvezda Meridianbet,66.0,Bayern München,74.0,1,2024
+"Fri, Mar 1, 2024",Baskonia,96.0,Fenerbahçe Beko,111.0,1,2024
+"Fri, Mar 1, 2024",EA7 Emporio Armani Milano,77.0,LDLC ASVEL,81.0,1,2024
+"Fri, Mar 1, 2024",Olympiacos,95.0,Žalgiris,76.0,0,2024
+"Thu, Mar 7, 2024",Bayern München,86.0,Anadolu Efes,109.0,1,2024
+"Thu, Mar 7, 2024",Žalgiris,76.0,Maccabi Playtika Tel Aviv,83.0,1,2024
+"Thu, Mar 7, 2024",Crvena zvezda Meridianbet,80.0,AS Monaco,98.0,1,2024
+"Thu, Mar 7, 2024",Virtus Segafredo Bologna,69.0,Olympiacos,74.0,1,2024
+"Thu, Mar 7, 2024",Fenerbahçe Beko,89.0,Real Madrid,79.0,0,2024
+"Thu, Mar 7, 2024",Barcelona,88.0,Valencia Basket,78.0,0,2024
+"Fri, Mar 8, 2024",Partizan Mozzart Bet,83.0,EA7 Emporio Armani Milano,85.0,1,2024
+"Fri, Mar 8, 2024",LDLC ASVEL,67.0,Panathinaikos,85.0,1,2024
+"Fri, Mar 8, 2024",ALBA Berlin,71.0,Baskonia,88.0,1,2024
+"Thu, Mar 14, 2024",AS Monaco,90.0,ALBA Berlin,82.0,0,2024
+"Thu, Mar 14, 2024",Partizan Mozzart Bet,76.0,Barcelona,94.0,1,2024
+"Thu, Mar 14, 2024",Panathinaikos,65.0,Olympiacos,71.0,1,2024
+"Thu, Mar 14, 2024",Maccabi Playtika Tel Aviv,84.0,Crvena zvezda Meridianbet,80.0,0,2024
+"Thu, Mar 14, 2024",Valencia Basket,88.0,Fenerbahçe Beko,118.0,1,2024
+"Thu, Mar 14, 2024",EA7 Emporio Armani Milano,73.0,Baskonia,88.0,1,2024
+"Fri, Mar 15, 2024",Žalgiris,58.0,Bayern München,64.0,1,2024
+"Fri, Mar 15, 2024",Anadolu Efes,80.0,LDLC ASVEL,84.0,1,2024
+"Fri, Mar 15, 2024",Real Madrid,89.0,Virtus Segafredo Bologna,74.0,0,2024
+"Tue, Mar 19, 2024",Real Madrid,86.0,ALBA Berlin,79.0,0,2024
+"Tue, Mar 19, 2024",Olympiacos,72.0,Anadolu Efes,85.0,1,2024
+"Tue, Mar 19, 2024",LDLC ASVEL,90.0,Maccabi Playtika Tel Aviv,98.0,1,2024
+"Tue, Mar 19, 2024",Baskonia,83.0,Partizan Mozzart Bet,87.0,1,2024
+"Tue, Mar 19, 2024",Virtus Segafredo Bologna,81.0,Žalgiris,96.0,1,2024
+"Wed, Mar 20, 2024",EA7 Emporio Armani Milano,98.0,AS Monaco,80.0,0,2024
+"Wed, Mar 20, 2024",Panathinaikos,89.0,Crvena zvezda Meridianbet,76.0,0,2024
+"Wed, Mar 20, 2024",Barcelona,74.0,Fenerbahçe Beko,88.0,1,2024
+"Wed, Mar 20, 2024",Bayern München,68.0,Valencia Basket,70.0,1,2024
+"Thu, Mar 21, 2024",ALBA Berlin,84.0,Anadolu Efes,85.0,1,2024
+"Thu, Mar 21, 2024",LDLC ASVEL,64.0,Olympiacos,80.0,1,2024
+"Thu, Mar 21, 2024",Real Madrid,88.0,Partizan Mozzart Bet,76.0,0,2024
+"Thu, Mar 21, 2024",Baskonia,76.0,Žalgiris,94.0,1,2024
+"Fri, Mar 22, 2024",Maccabi Playtika Tel Aviv,89.0,Bayern München,74.0,0,2024
+"Fri, Mar 22, 2024",Fenerbahçe Beko,76.0,EA7 Emporio Armani Milano,77.0,1,2024
+"Fri, Mar 22, 2024",Valencia Basket,78.0,AS Monaco,79.0,1,2024
+"Fri, Mar 22, 2024",Barcelona,81.0,Panathinaikos,89.0,1,2024
+"Fri, Mar 22, 2024",Virtus Segafredo Bologna,79.0,Crvena zvezda Meridianbet,94.0,1,2024
+"Wed, Mar 27, 2024",Valencia Basket,80.0,Maccabi Playtika Tel Aviv,95.0,1,2024
+"Thu, Mar 28, 2024",Barcelona,87.0,Bayern München,79.0,0,2024
+"Thu, Mar 28, 2024",Olympiacos,74.0,Partizan Mozzart Bet,69.0,0,2024
+"Thu, Mar 28, 2024",AS Monaco,87.0,LDLC ASVEL,77.0,0,2024
+"Thu, Mar 28, 2024",Anadolu Efes,97.0,Baskonia,76.0,0,2024
+"Thu, Mar 28, 2024",EA7 Emporio Armani Milano,73.0,Žalgiris,87.0,1,2024
+"Fri, Mar 29, 2024",Crvena zvezda Meridianbet,94.0,Real Madrid,101.0,1,2024
+"Fri, Mar 29, 2024",ALBA Berlin,68.0,Fenerbahçe Beko,103.0,1,2024
+"Fri, Mar 29, 2024",Panathinaikos,81.0,Virtus Segafredo Bologna,79.0,0,2024
+"Thu, Apr 4, 2024",Partizan Mozzart Bet,94.0,ALBA Berlin,83.0,0,2024
+"Thu, Apr 4, 2024",Maccabi Playtika Tel Aviv,89.0,Barcelona,92.0,1,2024
+"Thu, Apr 4, 2024",Žalgiris,66.0,AS Monaco,69.0,1,2024
+"Thu, Apr 4, 2024",Olympiacos,89.0,Crvena zvezda Meridianbet,86.0,0,2024
+"Thu, Apr 4, 2024",LDLC ASVEL,98.0,Valencia Basket,69.0,0,2024
+"Fri, Apr 5, 2024",Panathinaikos,82.0,Bayern München,75.0,0,2024
+"Fri, Apr 5, 2024",Virtus Segafredo Bologna,75.0,EA7 Emporio Armani Milano,90.0,1,2024
+"Fri, Apr 5, 2024",Baskonia,95.0,Real Madrid,91.0,0,2024
+"Fri, Apr 5, 2024",Anadolu Efes,82.0,Fenerbahçe Beko,80.0,0,2024
+"Thu, Apr 11, 2024",Crvena zvezda Meridianbet,55.0,Anadolu Efes,100.0,1,2024
+"Thu, Apr 11, 2024",EA7 Emporio Armani Milano,86.0,Maccabi Playtika Tel Aviv,92.0,1,2024
+"Thu, Apr 11, 2024",Bayern München,85.0,AS Monaco,89.0,1,2024
+"Thu, Apr 11, 2024",ALBA Berlin,75.0,Panathinaikos,84.0,1,2024
+"Thu, Apr 11, 2024",Real Madrid,64.0,Žalgiris,62.0,0,2024
+"Fri, Apr 12, 2024",Fenerbahçe Beko,81.0,Olympiacos,84.0,1,2024
+"Fri, Apr 12, 2024",Valencia Basket,66.0,Partizan Mozzart Bet,79.0,1,2024
+"Fri, Apr 12, 2024",Barcelona,72.0,LDLC ASVEL,76.0,1,2024
+"Fri, Apr 12, 2024",Baskonia,95.0,Virtus Segafredo Bologna,91.0,0,2024
+"Thu, Oct 3, 2024",Panathinaikos AKTOR,87.0,ALBA Berlin,77.0,0,2025
+"Thu, Oct 3, 2024",Real Madrid,89.0,Bayern München,97.0,1,2025
+"Thu, Oct 3, 2024",LDLC ASVEL,82.0,Maccabi Playtika Tel Aviv,89.0,1,2025
+"Thu, Oct 3, 2024",EA7 Emporio Armani Milano,80.0,AS Monaco,93.0,1,2025
+"Thu, Oct 3, 2024",Partizan Mozzart Bet,82.0,Baskonia,88.0,1,2025
+"Thu, Oct 3, 2024",Barcelona,67.0,Žalgiris,74.0,1,2025
+"Fri, Oct 4, 2024",Crvena zvezda Meridianbet,80.0,Paris Basketball,77.0,0,2025
+"Fri, Oct 4, 2024",Olympiacos,71.0,Fenerbahçe Beko,82.0,1,2025
+"Fri, Oct 4, 2024",Anadolu Efes,76.0,Virtus Segafredo Bologna,67.0,0,2025
+"Wed, Oct 9, 2024",Maccabi Playtika Tel Aviv,79.0,AS Monaco,85.0,1,2025
+"Wed, Oct 9, 2024",Baskonia,71.0,Crvena zvezda Meridianbet,78.0,1,2025
+"Thu, Oct 10, 2024",Fenerbahçe Beko,83.0,Anadolu Efes,78.0,0,2025
+"Thu, Oct 10, 2024",Bayern München,79.0,Panathinaikos AKTOR,94.0,1,2025
+"Thu, Oct 10, 2024",Partizan Mozzart Bet,86.0,Real Madrid,93.0,1,2025
+"Thu, Oct 10, 2024",Virtus Segafredo Bologna,85.0,LDLC ASVEL,87.0,1,2025
+"Fri, Oct 11, 2024",ALBA Berlin,73.0,Barcelona,88.0,1,2025
+"Fri, Oct 11, 2024",Paris Basketball,74.0,EA7 Emporio Armani Milano,79.0,1,2025
+"Fri, Oct 11, 2024",Žalgiris,68.0,Olympiacos,74.0,1,2025
+"Tue, Oct 15, 2024",LDLC ASVEL,79.0,ALBA Berlin,84.0,1,2025
+"Tue, Oct 15, 2024",Anadolu Efes,91.0,Maccabi Playtika Tel Aviv,93.0,1,2025
+"Tue, Oct 15, 2024",EA7 Emporio Armani Milano,68.0,Olympiacos,89.0,1,2025
+"Tue, Oct 15, 2024",Panathinaikos AKTOR,80.0,Paris Basketball,84.0,1,2025
+"Tue, Oct 15, 2024",Bayern München,78.0,Partizan Mozzart Bet,86.0,1,2025
+"Tue, Oct 15, 2024",Crvena zvezda Meridianbet,76.0,Fenerbahçe Beko,57.0,0,2025
+"Tue, Oct 15, 2024",Žalgiris,71.0,Virtus Segafredo Bologna,68.0,0,2025
+"Tue, Oct 15, 2024",Real Madrid,72.0,Baskonia,76.0,1,2025
+"Wed, Oct 16, 2024",AS Monaco,71.0,Barcelona,86.0,1,2025
+"Thu, Oct 17, 2024",Fenerbahçe Beko,78.0,ALBA Berlin,71.0,0,2025
+"Thu, Oct 17, 2024",Paris Basketball,107.0,Bayern München,109.0,1,2025
+"Thu, Oct 17, 2024",Partizan Mozzart Bet,91.0,Maccabi Playtika Tel Aviv,79.0,0,2025
+"Thu, Oct 17, 2024",Žalgiris,85.0,EA7 Emporio Armani Milano,82.0,0,2025
+"Thu, Oct 17, 2024",Panathinaikos AKTOR,86.0,Real Madrid,90.0,1,2025
+"Fri, Oct 18, 2024",Olympiacos,89.0,Anadolu Efes,91.0,1,2025
+"Fri, Oct 18, 2024",Virtus Segafredo Bologna,85.0,AS Monaco,101.0,1,2025
+"Fri, Oct 18, 2024",Barcelona,98.0,Crvena zvezda Meridianbet,94.0,0,2025
+"Fri, Oct 18, 2024",Baskonia,69.0,LDLC ASVEL,76.0,1,2025
+"Wed, Oct 23, 2024",Virtus Segafredo Bologna,70.0,Partizan Mozzart Bet,69.0,0,2025
+"Thu, Oct 24, 2024",Anadolu Efes,96.0,EA7 Emporio Armani Milano,84.0,0,2025
+"Thu, Oct 24, 2024",Paris Basketball,87.0,AS Monaco,80.0,0,2025
+"Thu, Oct 24, 2024",Crvena zvezda Meridianbet,72.0,Real Madrid,95.0,1,2025
+"Thu, Oct 24, 2024",ALBA Berlin,57.0,Baskonia,80.0,1,2025
+"Thu, Oct 24, 2024",Maccabi Playtika Tel Aviv,63.0,Žalgiris,78.0,1,2025
+"Fri, Oct 25, 2024",LDLC ASVEL,83.0,Barcelona,90.0,1,2025
+"Fri, Oct 25, 2024",Olympiacos,80.0,Bayern München,84.0,1,2025
+"Fri, Oct 25, 2024",Panathinaikos AKTOR,81.0,Fenerbahçe Beko,76.0,0,2025
+"Tue, Oct 29, 2024",Paris Basketball,92.0,ALBA Berlin,83.0,0,2025
+"Tue, Oct 29, 2024",Barcelona,97.0,Anadolu Efes,88.0,0,2025
+"Tue, Oct 29, 2024",Real Madrid,69.0,Olympiacos,79.0,1,2025
+"Tue, Oct 29, 2024",Maccabi Playtika Tel Aviv,82.0,Fenerbahçe Beko,84.0,1,2025
+"Tue, Oct 29, 2024",Bayern München,87.0,Virtus Segafredo Bologna,84.0,0,2025
+"Tue, Oct 29, 2024",EA7 Emporio Armani Milano,83.0,Baskonia,88.0,1,2025
+"Wed, Oct 30, 2024",LDLC ASVEL,68.0,Panathinaikos AKTOR,92.0,1,2025
+"Wed, Oct 30, 2024",AS Monaco,79.0,Partizan Mozzart Bet,74.0,0,2025
+"Wed, Oct 30, 2024",Crvena zvezda Meridianbet,84.0,Žalgiris,86.0,1,2025
+"Thu, Oct 31, 2024",Anadolu Efes,86.0,ALBA Berlin,70.0,0,2025
+"Thu, Oct 31, 2024",Real Madrid,78.0,Maccabi Playtika Tel Aviv,79.0,1,2025
+"Thu, Oct 31, 2024",Virtus Segafredo Bologna,90.0,EA7 Emporio Armani Milano,99.0,1,2025
+"Thu, Oct 31, 2024",Barcelona,74.0,Olympiacos,95.0,1,2025
+"Fri, Nov 1, 2024",Baskonia,65.0,Paris Basketball,67.0,1,2025
+"Fri, Nov 1, 2024",Panathinaikos AKTOR,81.0,Crvena zvezda Meridianbet,77.0,0,2025
+"Fri, Nov 1, 2024",Partizan Mozzart Bet,72.0,Fenerbahçe Beko,89.0,1,2025
+"Fri, Nov 1, 2024",Bayern München,84.0,LDLC ASVEL,71.0,0,2025
+"Fri, Nov 1, 2024",AS Monaco,62.0,Žalgiris,63.0,1,2025
+"Thu, Nov 7, 2024",Žalgiris,74.0,Bayern München,77.0,1,2025
+"Thu, Nov 7, 2024",Real Madrid,76.0,EA7 Emporio Armani Milano,85.0,1,2025
+"Thu, Nov 7, 2024",Partizan Mozzart Bet,71.0,Paris Basketball,74.0,1,2025
+"Thu, Nov 7, 2024",ALBA Berlin,71.0,Crvena zvezda Meridianbet,92.0,1,2025
+"Fri, Nov 8, 2024",AS Monaco,81.0,Anadolu Efes,69.0,0,2025
+"Fri, Nov 8, 2024",Baskonia,68.0,Barcelona,91.0,1,2025
+"Fri, Nov 8, 2024",Olympiacos,94.0,Panathinaikos AKTOR,89.0,0,2025
+"Fri, Nov 8, 2024",Fenerbahçe Beko,77.0,LDLC ASVEL,73.0,0,2025
+"Fri, Nov 8, 2024",Maccabi Playtika Tel Aviv,77.0,Virtus Segafredo Bologna,84.0,1,2025
+"Tue, Nov 12, 2024",EA7 Emporio Armani Milano,101.0,ALBA Berlin,105.0,1,2025
+"Tue, Nov 12, 2024",Crvena zvezda Meridianbet,98.0,AS Monaco,90.0,0,2025
+"Tue, Nov 12, 2024",LDLC ASVEL,92.0,Olympiacos,94.0,1,2025
+"Tue, Nov 12, 2024",Maccabi Playtika Tel Aviv,87.0,Panathinaikos AKTOR,93.0,1,2025
+"Tue, Nov 12, 2024",Virtus Segafredo Bologna,86.0,Real Madrid,98.0,1,2025
+"Tue, Nov 12, 2024",Bayern München,76.0,Fenerbahçe Beko,87.0,1,2025
+"Tue, Nov 12, 2024",Anadolu Efes,89.0,Baskonia,84.0,0,2025
+"Wed, Nov 13, 2024",Žalgiris,77.0,Paris Basketball,83.0,1,2025
+"Wed, Nov 13, 2024",Barcelona,87.0,Partizan Mozzart Bet,79.0,0,2025
+"Thu, Nov 14, 2024",ALBA Berlin,88.0,Bayern München,115.0,1,2025
+"Thu, Nov 14, 2024",Olympiacos,94.0,Maccabi Playtika Tel Aviv,91.0,0,2025
+"Thu, Nov 14, 2024",Anadolu Efes,74.0,Real Madrid,64.0,0,2025
+"Thu, Nov 14, 2024",Crvena zvezda Meridianbet,74.0,LDLC ASVEL,77.0,1,2025
+"Thu, Nov 14, 2024",AS Monaco,87.0,Baskonia,75.0,0,2025
+"Fri, Nov 15, 2024",Paris Basketball,103.0,Barcelona,87.0,0,2025
+"Fri, Nov 15, 2024",EA7 Emporio Armani Milano,88.0,Partizan Mozzart Bet,81.0,0,2025
+"Fri, Nov 15, 2024",Panathinaikos AKTOR,82.0,Virtus Segafredo Bologna,77.0,0,2025
+"Fri, Nov 15, 2024",Fenerbahçe Beko,72.0,Žalgiris,65.0,0,2025
+"Wed, Nov 20, 2024",Fenerbahçe Beko,86.0,Virtus Segafredo Bologna,82.0,0,2025
+"Thu, Nov 21, 2024",Maccabi Playtika Tel Aviv,86.0,EA7 Emporio Armani Milano,98.0,1,2025
+"Thu, Nov 21, 2024",LDLC ASVEL,92.0,AS Monaco,103.0,1,2025
+"Thu, Nov 21, 2024",Baskonia,69.0,Olympiacos,92.0,1,2025
+"Thu, Nov 21, 2024",ALBA Berlin,84.0,Real Madrid,98.0,1,2025
+"Thu, Nov 21, 2024",Partizan Mozzart Bet,89.0,Crvena zvezda Meridianbet,77.0,0,2025
+"Thu, Nov 21, 2024",Paris Basketball,93.0,Anadolu Efes,84.0,0,2025
+"Fri, Nov 22, 2024",Barcelona,78.0,Bayern München,100.0,1,2025
+"Fri, Nov 22, 2024",Panathinaikos AKTOR,77.0,Žalgiris,84.0,1,2025
+"Thu, Nov 28, 2024",Maccabi Playtika Tel Aviv,103.0,ALBA Berlin,85.0,0,2025
+"Thu, Nov 28, 2024",Real Madrid,97.0,Barcelona,90.0,0,2025
+"Thu, Nov 28, 2024",Virtus Segafredo Bologna,78.0,Paris Basketball,81.0,1,2025
+"Thu, Nov 28, 2024",Olympiacos,70.0,Partizan Mozzart Bet,78.0,1,2025
+"Thu, Nov 28, 2024",Baskonia,83.0,Žalgiris,70.0,0,2025
+"Fri, Nov 29, 2024",AS Monaco,91.0,Panathinaikos AKTOR,88.0,0,2025
+"Fri, Nov 29, 2024",Bayern München,77.0,Crvena zvezda Meridianbet,101.0,1,2025
+"Fri, Nov 29, 2024",EA7 Emporio Armani Milano,91.0,Fenerbahçe Beko,85.0,0,2025
+"Fri, Nov 29, 2024",Anadolu Efes,82.0,LDLC ASVEL,97.0,1,2025
+"Tue, Dec 3, 2024",Bayern München,90.0,Anadolu Efes,101.0,1,2025
+"Tue, Dec 3, 2024",Paris Basketball,93.0,Maccabi Playtika Tel Aviv,81.0,0,2025
+"Tue, Dec 3, 2024",Barcelona,89.0,Panathinaikos AKTOR,90.0,1,2025
+"Tue, Dec 3, 2024",Žalgiris,78.0,Partizan Mozzart Bet,84.0,1,2025
+"Tue, Dec 3, 2024",Real Madrid,78.0,LDLC ASVEL,80.0,1,2025
+"Tue, Dec 3, 2024",Fenerbahçe Beko,76.0,Baskonia,88.0,1,2025
+"Wed, Dec 4, 2024",Crvena zvezda Meridianbet,86.0,EA7 Emporio Armani Milano,101.0,1,2025
+"Wed, Dec 4, 2024",Olympiacos,89.0,AS Monaco,80.0,0,2025
+"Wed, Dec 4, 2024",ALBA Berlin,90.0,Virtus Segafredo Bologna,88.0,0,2025
+"Thu, Dec 5, 2024",Baskonia,80.0,Bayern München,94.0,1,2025
+"Thu, Dec 5, 2024",Barcelona,88.0,Maccabi Playtika Tel Aviv,86.0,0,2025
+"Thu, Dec 5, 2024",Panathinaikos AKTOR,73.0,Partizan Mozzart Bet,91.0,1,2025
+"Thu, Dec 5, 2024",Fenerbahçe Beko,82.0,Real Madrid,70.0,0,2025
+"Thu, Dec 5, 2024",Anadolu Efes,72.0,Žalgiris,85.0,1,2025
+"Fri, Dec 6, 2024",LDLC ASVEL,84.0,EA7 Emporio Armani Milano,92.0,1,2025
+"Fri, Dec 6, 2024",ALBA Berlin,80.0,AS Monaco,100.0,1,2025
+"Fri, Dec 6, 2024",Paris Basketball,96.0,Olympiacos,90.0,0,2025
+"Fri, Dec 6, 2024",Crvena zvezda Meridianbet,94.0,Virtus Segafredo Bologna,87.0,0,2025
+"Thu, Dec 12, 2024",Partizan Mozzart Bet,91.0,ALBA Berlin,90.0,0,2025
+"Thu, Dec 12, 2024",Maccabi Playtika Tel Aviv,93.0,Bayern München,98.0,1,2025
+"Thu, Dec 12, 2024",Žalgiris,92.0,Real Madrid,83.0,0,2025
+"Thu, Dec 12, 2024",AS Monaco,99.0,Fenerbahçe Beko,69.0,0,2025
+"Thu, Dec 12, 2024",Virtus Segafredo Bologna,82.0,Baskonia,81.0,0,2025
+"Fri, Dec 13, 2024",Panathinaikos AKTOR,67.0,Anadolu Efes,93.0,1,2025
+"Fri, Dec 13, 2024",EA7 Emporio Armani Milano,94.0,Barcelona,81.0,0,2025
+"Fri, Dec 13, 2024",Olympiacos,73.0,Crvena zvezda Meridianbet,87.0,1,2025
+"Fri, Dec 13, 2024",Paris Basketball,93.0,LDLC ASVEL,98.0,1,2025
+"Tue, Dec 17, 2024",Žalgiris,86.0,ALBA Berlin,66.0,0,2025
+"Tue, Dec 17, 2024",Fenerbahçe Beko,63.0,Barcelona,90.0,1,2025
+"Tue, Dec 17, 2024",Baskonia,95.0,Maccabi Playtika Tel Aviv,85.0,0,2025
+"Tue, Dec 17, 2024",Bayern München,74.0,AS Monaco,93.0,1,2025
+"Tue, Dec 17, 2024",EA7 Emporio Armani Milano,74.0,Panathinaikos AKTOR,103.0,1,2025
+"Tue, Dec 17, 2024",Real Madrid,96.0,Paris Basketball,85.0,0,2025
+"Tue, Dec 17, 2024",LDLC ASVEL,82.0,Partizan Mozzart Bet,79.0,0,2025
+"Wed, Dec 18, 2024",Crvena zvezda Meridianbet,67.0,Anadolu Efes,89.0,1,2025
+"Wed, Dec 18, 2024",Virtus Segafredo Bologna,77.0,Olympiacos,87.0,1,2025
+"Thu, Dec 19, 2024",Baskonia,69.0,Panathinaikos AKTOR,104.0,1,2025
+"Thu, Dec 19, 2024",AS Monaco,72.0,Real Madrid,94.0,1,2025
+"Fri, Dec 20, 2024",Partizan Mozzart Bet,77.0,Anadolu Efes,86.0,1,2025
+"Fri, Dec 20, 2024",Bayern München,79.0,EA7 Emporio Armani Milano,78.0,0,2025
+"Fri, Dec 20, 2024",ALBA Berlin,85.0,Olympiacos,90.0,1,2025
+"Fri, Dec 20, 2024",Maccabi Playtika Tel Aviv,73.0,Crvena zvezda Meridianbet,81.0,1,2025
+"Fri, Dec 20, 2024",Barcelona,81.0,Virtus Segafredo Bologna,86.0,1,2025
+"Fri, Dec 20, 2024",LDLC ASVEL,78.0,Žalgiris,72.0,0,2025
+"Thu, Dec 26, 2024",Real Madrid,80.0,ALBA Berlin,69.0,0,2025
+"Thu, Dec 26, 2024",Žalgiris,78.0,Maccabi Playtika Tel Aviv,95.0,1,2025
+"Thu, Dec 26, 2024",Olympiacos,84.0,EA7 Emporio Armani Milano,83.0,0,2025
+"Thu, Dec 26, 2024",Anadolu Efes,75.0,AS Monaco,94.0,1,2025
+"Fri, Dec 27, 2024",Crvena zvezda Meridianbet,78.0,Barcelona,74.0,0,2025
+"Fri, Dec 27, 2024",Panathinaikos AKTOR,80.0,Bayern München,69.0,0,2025
+"Fri, Dec 27, 2024",Fenerbahçe Beko,81.0,Partizan Mozzart Bet,90.0,1,2025
+"Fri, Dec 27, 2024",LDLC ASVEL,69.0,Virtus Segafredo Bologna,83.0,1,2025
+"Fri, Dec 27, 2024",Paris Basketball,81.0,Baskonia,94.0,1,2025
+"Thu, Jan 2, 2025",AS Monaco,105.0,ALBA Berlin,90.0,0,2025
+"Thu, Jan 2, 2025",EA7 Emporio Armani Milano,75.0,LDLC ASVEL,66.0,0,2025
+"Thu, Jan 2, 2025",Crvena zvezda Meridianbet,75.0,Baskonia,73.0,0,2025
+"Thu, Jan 2, 2025",Olympiacos,92.0,Žalgiris,85.0,0,2025
+"Fri, Jan 3, 2025",Virtus Segafredo Bologna,90.0,Panathinaikos AKTOR,111.0,1,2025
+"Fri, Jan 3, 2025",Barcelona,90.0,Paris Basketball,79.0,0,2025
+"Fri, Jan 3, 2025",Maccabi Playtika Tel Aviv,75.0,Partizan Mozzart Bet,98.0,1,2025
+"Fri, Jan 3, 2025",Bayern München,76.0,Real Madrid,88.0,1,2025
+"Fri, Jan 3, 2025",Anadolu Efes,76.0,Fenerbahçe Beko,84.0,1,2025
+"Thu, Jan 9, 2025",EA7 Emporio Armani Milano,107.0,Maccabi Playtika Tel Aviv,74.0,0,2025
+"Thu, Jan 9, 2025",Barcelona,98.0,AS Monaco,84.0,0,2025
+"Thu, Jan 9, 2025",Partizan Mozzart Bet,84.0,Panathinaikos AKTOR,96.0,1,2025
+"Thu, Jan 9, 2025",ALBA Berlin,73.0,Fenerbahçe Beko,90.0,1,2025
+"Fri, Jan 10, 2025",LDLC ASVEL,82.0,Anadolu Efes,76.0,0,2025
+"Fri, Jan 10, 2025",Bayern München,69.0,Olympiacos,112.0,1,2025
+"Fri, Jan 10, 2025",Paris Basketball,69.0,Crvena zvezda Meridianbet,85.0,1,2025
+"Fri, Jan 10, 2025",Baskonia,74.0,Virtus Segafredo Bologna,76.0,1,2025
+"Fri, Jan 10, 2025",Real Madrid,83.0,Žalgiris,64.0,0,2025
+"Tue, Jan 14, 2025",ALBA Berlin,68.0,EA7 Emporio Armani Milano,100.0,1,2025
+"Tue, Jan 14, 2025",Anadolu Efes,84.0,Paris Basketball,88.0,1,2025
+"Tue, Jan 14, 2025",Maccabi Playtika Tel Aviv,113.0,Real Madrid,116.0,1,2025
+"Tue, Jan 14, 2025",Partizan Mozzart Bet,93.0,LDLC ASVEL,62.0,0,2025
+"Tue, Jan 14, 2025",Olympiacos,102.0,Baskonia,101.0,0,2025
+"Wed, Jan 15, 2025",Panathinaikos AKTOR,73.0,Barcelona,82.0,1,2025
+"Wed, Jan 15, 2025",AS Monaco,94.0,Bayern München,95.0,1,2025
+"Wed, Jan 15, 2025",Fenerbahçe Beko,96.0,Crvena zvezda Meridianbet,91.0,0,2025
+"Wed, Jan 15, 2025",Virtus Segafredo Bologna,68.0,Žalgiris,77.0,1,2025
+"Thu, Jan 16, 2025",Partizan Mozzart Bet,90.0,EA7 Emporio Armani Milano,70.0,0,2025
+"Thu, Jan 16, 2025",Maccabi Playtika Tel Aviv,83.0,Paris Basketball,96.0,1,2025
+"Thu, Jan 16, 2025",Olympiacos,96.0,Real Madrid,86.0,0,2025
+"Thu, Jan 16, 2025",ALBA Berlin,89.0,LDLC ASVEL,96.0,1,2025
+"Fri, Jan 17, 2025",Anadolu Efes,80.0,Barcelona,90.0,1,2025
+"Fri, Jan 17, 2025",Virtus Segafredo Bologna,82.0,Bayern München,72.0,0,2025
+"Fri, Jan 17, 2025",AS Monaco,82.0,Crvena zvezda Meridianbet,88.0,1,2025
+"Fri, Jan 17, 2025",Žalgiris,86.0,Fenerbahçe Beko,98.0,1,2025
+"Fri, Jan 17, 2025",Panathinaikos AKTOR,77.0,Baskonia,91.0,1,2025
+"Wed, Jan 22, 2025",Paris Basketball,86.0,Partizan Mozzart Bet,92.0,1,2025
+"Thu, Jan 23, 2025",EA7 Emporio Armani Milano,66.0,Anadolu Efes,110.0,1,2025
+"Thu, Jan 23, 2025",Crvena zvezda Meridianbet,73.0,Maccabi Playtika Tel Aviv,85.0,1,2025
+"Thu, Jan 23, 2025",Žalgiris,76.0,Panathinaikos AKTOR,89.0,1,2025
+"Thu, Jan 23, 2025",Baskonia,89.0,Real Madrid,90.0,1,2025
+"Thu, Jan 23, 2025",AS Monaco,86.0,Virtus Segafredo Bologna,80.0,0,2025
+"Fri, Jan 24, 2025",Bayern München,99.0,ALBA Berlin,84.0,0,2025
+"Fri, Jan 24, 2025",Fenerbahçe Beko,87.0,Olympiacos,77.0,0,2025
+"Fri, Jan 24, 2025",Barcelona,94.0,LDLC ASVEL,100.0,1,2025
+"Thu, Jan 30, 2025",ALBA Berlin,93.0,Maccabi Playtika Tel Aviv,87.0,0,2025
+"Thu, Jan 30, 2025",Panathinaikos AKTOR,75.0,EA7 Emporio Armani Milano,87.0,1,2025
+"Thu, Jan 30, 2025",LDLC ASVEL,82.0,Paris Basketball,91.0,1,2025
+"Thu, Jan 30, 2025",Barcelona,86.0,Baskonia,88.0,1,2025
+"Thu, Jan 30, 2025",Bayern München,97.0,Žalgiris,82.0,0,2025
+"Fri, Jan 31, 2025",Real Madrid,73.0,AS Monaco,77.0,1,2025
+"Fri, Jan 31, 2025",Anadolu Efes,89.0,Olympiacos,92.0,1,2025
+"Fri, Jan 31, 2025",Crvena zvezda Meridianbet,73.0,Partizan Mozzart Bet,71.0,0,2025
+"Fri, Jan 31, 2025",Virtus Segafredo Bologna,81.0,Fenerbahçe Beko,95.0,1,2025
+"Tue, Feb 4, 2025",Real Madrid,73.0,Anadolu Efes,79.0,1,2025
+"Tue, Feb 4, 2025",EA7 Emporio Armani Milano,70.0,Bayern München,87.0,1,2025
+"Tue, Feb 4, 2025",Fenerbahçe Beko,90.0,Panathinaikos AKTOR,91.0,1,2025
+"Tue, Feb 4, 2025",LDLC ASVEL,66.0,Crvena zvezda Meridianbet,73.0,1,2025
+"Tue, Feb 4, 2025",ALBA Berlin,53.0,Žalgiris,73.0,1,2025
+"Wed, Feb 5, 2025",Maccabi Playtika Tel Aviv,71.0,Barcelona,100.0,1,2025
+"Wed, Feb 5, 2025",Baskonia,85.0,AS Monaco,92.0,1,2025
+"Wed, Feb 5, 2025",Olympiacos,90.0,Paris Basketball,73.0,0,2025
+"Wed, Feb 5, 2025",Partizan Mozzart Bet,81.0,Virtus Segafredo Bologna,71.0,0,2025
+"Thu, Feb 6, 2025",Crvena zvezda Meridianbet,77.0,ALBA Berlin,71.0,0,2025
+"Thu, Feb 6, 2025",LDLC ASVEL,67.0,Bayern München,76.0,1,2025
+"Thu, Feb 6, 2025",Anadolu Efes,89.0,Panathinaikos AKTOR,104.0,1,2025
+"Thu, Feb 6, 2025",Real Madrid,67.0,Fenerbahçe Beko,78.0,1,2025
+"Thu, Feb 6, 2025",EA7 Emporio Armani Milano,89.0,Žalgiris,87.0,0,2025
+"Fri, Feb 7, 2025",Olympiacos,90.0,Barcelona,88.0,0,2025
+"Fri, Feb 7, 2025",Partizan Mozzart Bet,86.0,AS Monaco,69.0,0,2025
+"Fri, Feb 7, 2025",Paris Basketball,83.0,Virtus Segafredo Bologna,77.0,0,2025
+"Fri, Feb 7, 2025",Maccabi Playtika Tel Aviv,82.0,Baskonia,89.0,1,2025
+"Thu, Feb 27, 2025",Fenerbahçe Beko,76.0,Maccabi Playtika Tel Aviv,94.0,1,2025
+"Thu, Feb 27, 2025",AS Monaco,80.0,EA7 Emporio Armani Milano,86.0,1,2025
+"Thu, Feb 27, 2025",Bayern München,88.0,Paris Basketball,93.0,1,2025
+"Thu, Feb 27, 2025",Barcelona,91.0,Real Madrid,96.0,1,2025
+"Thu, Feb 27, 2025",Žalgiris,86.0,Crvena zvezda Meridianbet,80.0,0,2025
+"Fri, Feb 28, 2025",ALBA Berlin,73.0,Anadolu Efes,98.0,1,2025
+"Fri, Feb 28, 2025",Baskonia,73.0,Partizan Mozzart Bet,86.0,1,2025
+"Fri, Feb 28, 2025",Panathinaikos AKTOR,96.0,LDLC ASVEL,93.0,0,2025
+"Fri, Feb 28, 2025",Olympiacos,92.0,Virtus Segafredo Bologna,70.0,0,2025
+"Mon, Mar 3, 2025",Fenerbahçe Beko,87.0,Paris Basketball,83.0,0,2025
+"Wed, Mar 5, 2025",AS Monaco,91.0,Paris Basketball,79.0,0,2025
+"Thu, Mar 6, 2025",Crvena zvezda Meridianbet,82.0,Bayern München,100.0,1,2025
+"Thu, Mar 6, 2025",Fenerbahçe Beko,100.0,EA7 Emporio Armani Milano,76.0,0,2025
+"Thu, Mar 6, 2025",Real Madrid,70.0,Panathinaikos AKTOR,85.0,1,2025
+"Thu, Mar 6, 2025",Žalgiris,65.0,Baskonia,66.0,1,2025
+"Fri, Mar 7, 2025",Barcelona,99.0,ALBA Berlin,85.0,0,2025
+"Fri, Mar 7, 2025",Virtus Segafredo Bologna,68.0,Anadolu Efes,89.0,1,2025
+"Fri, Mar 7, 2025",Partizan Mozzart Bet,70.0,Olympiacos,82.0,1,2025
+"Fri, Mar 7, 2025",Maccabi Playtika Tel Aviv,102.0,LDLC ASVEL,95.0,0,2025
+"Thu, Mar 13, 2025",Baskonia,90.0,ALBA Berlin,97.0,1,2025
+"Thu, Mar 13, 2025",AS Monaco,88.0,Maccabi Playtika Tel Aviv,91.0,1,2025
+"Thu, Mar 13, 2025",LDLC ASVEL,82.0,Fenerbahçe Beko,92.0,1,2025
+"Thu, Mar 13, 2025",Real Madrid,80.0,Virtus Segafredo Bologna,67.0,0,2025
+"Thu, Mar 13, 2025",Paris Basketball,81.0,Žalgiris,83.0,1,2025
+"Thu, Mar 13, 2025",EA7 Emporio Armani Milano,82.0,Crvena zvezda Meridianbet,80.0,0,2025
+"Fri, Mar 14, 2025",Partizan Mozzart Bet,80.0,Barcelona,87.0,1,2025
+"Fri, Mar 14, 2025",Anadolu Efes,97.0,Bayern München,92.0,0,2025
+"Fri, Mar 14, 2025",Panathinaikos AKTOR,74.0,Olympiacos,76.0,1,2025
+"Tue, Mar 18, 2025",EA7 Emporio Armani Milano,79.0,Paris Basketball,92.0,1,2025
+"Thu, Mar 20, 2025",Virtus Segafredo Bologna,67.0,Maccabi Playtika Tel Aviv,77.0,1,2025
+"Thu, Mar 20, 2025",Fenerbahçe Beko,82.0,AS Monaco,91.0,1,2025
+"Thu, Mar 20, 2025",Crvena zvezda Meridianbet,81.0,Olympiacos,73.0,0,2025
+"Thu, Mar 20, 2025",LDLC ASVEL,70.0,Real Madrid,81.0,1,2025
+"Thu, Mar 20, 2025",Bayern München,89.0,Baskonia,112.0,1,2025
+"Fri, Mar 21, 2025",Žalgiris,70.0,Barcelona,82.0,1,2025
+"Fri, Mar 21, 2025",ALBA Berlin,81.0,Panathinaikos AKTOR,91.0,1,2025
+"Fri, Mar 21, 2025",Anadolu Efes,97.0,Partizan Mozzart Bet,65.0,0,2025
+"Tue, Mar 25, 2025",Bayern München,102.0,Barcelona,101.0,0,2025
+"Tue, Mar 25, 2025",Žalgiris,86.0,AS Monaco,96.0,1,2025
+"Tue, Mar 25, 2025",ALBA Berlin,71.0,Partizan Mozzart Bet,85.0,1,2025
+"Tue, Mar 25, 2025",EA7 Emporio Armani Milano,89.0,Real Madrid,96.0,1,2025
+"Tue, Mar 25, 2025",Paris Basketball,100.0,Fenerbahçe Beko,101.0,1,2025
+"Tue, Mar 25, 2025",Olympiacos,70.0,LDLC ASVEL,81.0,1,2025
+"Wed, Mar 26, 2025",Baskonia,76.0,Anadolu Efes,92.0,1,2025
+"Wed, Mar 26, 2025",Panathinaikos AKTOR,99.0,Maccabi Playtika Tel Aviv,92.0,0,2025
+"Wed, Mar 26, 2025",Virtus Segafredo Bologna,52.0,Crvena zvezda Meridianbet,88.0,1,2025
+"Thu, Mar 27, 2025",Partizan Mozzart Bet,74.0,Bayern München,89.0,1,2025
+"Thu, Mar 27, 2025",Barcelona,98.0,EA7 Emporio Armani Milano,88.0,0,2025
+"Thu, Mar 27, 2025",AS Monaco,80.0,Olympiacos,77.0,0,2025
+"Thu, Mar 27, 2025",Žalgiris,79.0,LDLC ASVEL,88.0,1,2025
+"Fri, Mar 28, 2025",Virtus Segafredo Bologna,108.0,ALBA Berlin,64.0,0,2025
+"Fri, Mar 28, 2025",Maccabi Playtika Tel Aviv,88.0,Anadolu Efes,90.0,1,2025
+"Fri, Mar 28, 2025",Paris Basketball,101.0,Panathinaikos AKTOR,98.0,0,2025
+"Fri, Mar 28, 2025",Real Madrid,78.0,Crvena zvezda Meridianbet,72.0,0,2025
+"Fri, Mar 28, 2025",Baskonia,77.0,Fenerbahçe Beko,82.0,1,2025
+"Wed, Apr 2, 2025",Barcelona,83.0,Fenerbahçe Beko,75.0,0,2025
+"Thu, Apr 3, 2025",Bayern München,90.0,Maccabi Playtika Tel Aviv,93.0,1,2025
+"Thu, Apr 3, 2025",Panathinaikos AKTOR,88.0,AS Monaco,76.0,0,2025
+"Thu, Apr 3, 2025",Paris Basketball,104.0,Real Madrid,105.0,1,2025
+"Thu, Apr 3, 2025",Partizan Mozzart Bet,66.0,Žalgiris,70.0,1,2025
+"Fri, Apr 4, 2025",Olympiacos,100.0,ALBA Berlin,92.0,0,2025
+"Fri, Apr 4, 2025",Anadolu Efes,97.0,Crvena zvezda Meridianbet,96.0,0,2025
+"Fri, Apr 4, 2025",EA7 Emporio Armani Milano,70.0,Virtus Segafredo Bologna,90.0,1,2025
+"Fri, Apr 4, 2025",LDLC ASVEL,75.0,Baskonia,111.0,1,2025
+"Thu, Apr 10, 2025",Fenerbahçe Beko,89.0,Bayern München,77.0,0,2025
+"Thu, Apr 10, 2025",Baskonia,89.0,EA7 Emporio Armani Milano,111.0,1,2025
+"Thu, Apr 10, 2025",Maccabi Playtika Tel Aviv,93.0,Olympiacos,99.0,1,2025
+"Thu, Apr 10, 2025",ALBA Berlin,63.0,Paris Basketball,72.0,1,2025
+"Thu, Apr 10, 2025",Real Madrid,91.0,Partizan Mozzart Bet,89.0,0,2025
+"Thu, Apr 10, 2025",AS Monaco,83.0,LDLC ASVEL,78.0,0,2025
+"Fri, Apr 11, 2025",Žalgiris,77.0,Anadolu Efes,87.0,1,2025
+"Fri, Apr 11, 2025",Virtus Segafredo Bologna,87.0,Barcelona,91.0,1,2025
+"Fri, Apr 11, 2025",Crvena zvezda Meridianbet,104.0,Panathinaikos AKTOR,111.0,1,2025
+"Tue, Sep 30, 2025",Maccabi Tel Aviv,78.0,Anadolu Efes,85.0,1,2026
+"Tue, Sep 30, 2025",Partizan,76.0,Dubai Basketball,89.0,1,2026
+"Tue, Sep 30, 2025",Barcelona,87.0,Hapoel Tel Aviv,103.0,1,2026
+"Tue, Sep 30, 2025",Bayern München,79.0,Panathinaikos,87.0,1,2026
+"Tue, Sep 30, 2025",Milano,92.0,Crvena zvezda,82.0,0,2026
+"Tue, Sep 30, 2025",Real Madrid,68.0,Virtus Bologna,74.0,1,2026
+"Tue, Sep 30, 2025",Olympiacos,102.0,Baskonia,96.0,0,2026
+"Wed, Oct 1, 2025",Zalgiris,89.0,AS Monaco,84.0,0,2026
+"Wed, Oct 1, 2025",Paris Basketball,77.0,Fenerbahce,96.0,1,2026
+"Wed, Oct 1, 2025",Valencia Basket,80.0,LDLC Asvel,77.0,0,2026
+"Thu, Oct 2, 2025",Crvena zvezda,88.0,Bayern München,97.0,1,2026
+"Thu, Oct 2, 2025",Milano,78.0,Partizan,80.0,1,2026
+"Thu, Oct 2, 2025",Olympiacos,77.0,Real Madrid,89.0,1,2026
+"Fri, Oct 3, 2025",Hapoel Tel Aviv,87.0,Anadolu Efes,81.0,0,2026
+"Fri, Oct 3, 2025",Paris Basketball,101.0,Maccabi Tel Aviv,94.0,0,2026
+"Fri, Oct 3, 2025",Dubai Basketball,81.0,AS Monaco,103.0,1,2026
+"Fri, Oct 3, 2025",Barcelona,103.0,Panathinaikos,96.0,0,2026
+"Fri, Oct 3, 2025",Virtus Bologna,94.0,Valencia Basket,103.0,1,2026
+"Fri, Oct 3, 2025",Baskonia,95.0,LDLC Asvel,102.0,1,2026
+"Fri, Oct 3, 2025",Fenerbahce,81.0,Zalgiris,84.0,1,2026
+"Wed, Oct 8, 2025",Maccabi Tel Aviv,103.0,Hapoel Tel Aviv,90.0,0,2026
+"Thu, Oct 9, 2025",AS Monaco,82.0,Milano,79.0,0,2026
+"Thu, Oct 9, 2025",Virtus Bologna,79.0,Paris Basketball,90.0,1,2026
+"Thu, Oct 9, 2025",Anadolu Efes,87.0,Partizan,93.0,1,2026
+"Thu, Oct 9, 2025",LDLC Asvel,72.0,Real Madrid,85.0,1,2026
+"Thu, Oct 9, 2025",Panathinaikos,86.0,Baskonia,84.0,0,2026
+"Fri, Oct 10, 2025",Valencia Basket,102.0,Barcelona,108.0,1,2026
+"Fri, Oct 10, 2025",Zalgiris,98.0,Bayern München,70.0,0,2026
+"Fri, Oct 10, 2025",Dubai Basketball,67.0,Olympiacos,86.0,1,2026
+"Fri, Oct 10, 2025",Crvena zvezda,86.0,Fenerbahce,81.0,0,2026
+"Tue, Oct 14, 2025",Milano,53.0,Bayern München,64.0,1,2026
+"Tue, Oct 14, 2025",Barcelona,92.0,Maccabi Tel Aviv,71.0,0,2026
+"Tue, Oct 14, 2025",Anadolu Efes,82.0,Olympiacos,78.0,0,2026
+"Tue, Oct 14, 2025",Zalgiris,79.0,Crvena zvezda,88.0,1,2026
+"Tue, Oct 14, 2025",Dubai Basketball,93.0,Fenerbahce,69.0,0,2026
+"Wed, Oct 15, 2025",LDLC Asvel,85.0,Panathinaikos,91.0,1,2026
+"Wed, Oct 15, 2025",Baskonia,87.0,Paris Basketball,105.0,1,2026
+"Wed, Oct 15, 2025",Partizan,86.0,Real Madrid,93.0,1,2026
+"Wed, Oct 15, 2025",Hapoel Tel Aviv,100.0,Valencia Basket,93.0,0,2026
+"Wed, Oct 15, 2025",AS Monaco,73.0,Virtus Bologna,77.0,1,2026
+"Thu, Oct 16, 2025",Barcelona,78.0,Dubai Basketball,83.0,1,2026
+"Thu, Oct 16, 2025",Olympiacos,95.0,Maccabi Tel Aviv,94.0,0,2026
+"Thu, Oct 16, 2025",Bayern München,73.0,Fenerbahce,88.0,1,2026
+"Thu, Oct 16, 2025",Milano,89.0,Zalgiris,78.0,0,2026
+"Fri, Oct 17, 2025",Panathinaikos,95.0,Anadolu Efes,81.0,0,2026
+"Fri, Oct 17, 2025",Valencia Basket,84.0,AS Monaco,90.0,1,2026
+"Fri, Oct 17, 2025",Hapoel Tel Aviv,89.0,Paris Basketball,88.0,0,2026
+"Fri, Oct 17, 2025",Real Madrid,75.0,Crvena zvezda,90.0,1,2026
+"Fri, Oct 17, 2025",Virtus Bologna,90.0,LDLC Asvel,83.0,0,2026
+"Fri, Oct 17, 2025",Partizan,91.0,Baskonia,79.0,0,2026
+"Wed, Oct 22, 2025",Real Madrid,91.0,Maccabi Tel Aviv,92.0,1,2026
+"Thu, Oct 23, 2025",Zalgiris,88.0,Barcelona,73.0,0,2026
+"Thu, Oct 23, 2025",AS Monaco,77.0,Hapoel Tel Aviv,85.0,1,2026
+"Thu, Oct 23, 2025",Valencia Basket,103.0,Milano,100.0,0,2026
+"Thu, Oct 23, 2025",Baskonia,72.0,Crvena zvezda,90.0,1,2026
+"Thu, Oct 23, 2025",Dubai Basketball,79.0,LDLC Asvel,85.0,1,2026
+"Fri, Oct 24, 2025",Fenerbahce,79.0,Anadolu Efes,69.0,0,2026
+"Fri, Oct 24, 2025",Olympiacos,96.0,Bayern München,71.0,0,2026
+"Fri, Oct 24, 2025",Paris Basketball,101.0,Partizan,83.0,0,2026
+"Fri, Oct 24, 2025",Panathinaikos,75.0,Virtus Bologna,92.0,1,2026
+"Tue, Oct 28, 2025",Milano,72.0,Barcelona,74.0,1,2026
+"Tue, Oct 28, 2025",Real Madrid,84.0,Bayern München,90.0,1,2026
+"Tue, Oct 28, 2025",Maccabi Tel Aviv,85.0,Panathinaikos,99.0,1,2026
+"Tue, Oct 28, 2025",Anadolu Efes,90.0,Paris Basketball,80.0,0,2026
+"Tue, Oct 28, 2025",LDLC Asvel,65.0,Crvena zvezda,79.0,1,2026
+"Tue, Oct 28, 2025",Fenerbahce,79.0,Valencia Basket,94.0,1,2026
+"Tue, Oct 28, 2025",Dubai Basketball,85.0,Baskonia,92.0,1,2026
+"Tue, Oct 28, 2025",Virtus Bologna,65.0,Zalgiris,86.0,1,2026
+"Wed, Oct 29, 2025",Partizan,84.0,Hapoel Tel Aviv,97.0,1,2026
+"Wed, Oct 29, 2025",AS Monaco,92.0,Olympiacos,87.0,0,2026
+"Thu, Oct 30, 2025",Virtus Bologna,70.0,Bayern München,86.0,1,2026
+"Thu, Oct 30, 2025",Crvena zvezda,99.0,Maccabi Tel Aviv,92.0,0,2026
+"Thu, Oct 30, 2025",Paris Basketball,77.0,Milano,86.0,1,2026
+"Thu, Oct 30, 2025",Fenerbahce,58.0,Real Madrid,84.0,1,2026
+"Thu, Oct 30, 2025",Dubai Basketball,78.0,Valencia Basket,80.0,1,2026
+"Thu, Oct 30, 2025",LDLC Asvel,59.0,Zalgiris,96.0,1,2026
+"Fri, Oct 31, 2025",Panathinaikos,84.0,AS Monaco,92.0,1,2026
+"Fri, Oct 31, 2025",Hapoel Tel Aviv,58.0,Olympiacos,62.0,1,2026
+"Fri, Oct 31, 2025",Barcelona,78.0,Partizan,76.0,0,2026
+"Fri, Oct 31, 2025",Anadolu Efes,75.0,Baskonia,86.0,1,2026
+"Wed, Nov 5, 2025",Panathinaikos,68.0,Crvena zvezda,86.0,1,2026
+"Thu, Nov 6, 2025",Hapoel Tel Aviv,109.0,Dubai Basketball,97.0,0,2026
+"Thu, Nov 6, 2025",AS Monaco,112.0,Maccabi Tel Aviv,107.0,0,2026
+"Thu, Nov 6, 2025",Bayern München,86.0,Paris Basketball,82.0,0,2026
+"Thu, Nov 6, 2025",LDLC Asvel,67.0,Fenerbahce,81.0,1,2026
+"Thu, Nov 6, 2025",Virtus Bologna,76.0,Baskonia,87.0,1,2026
+"Fri, Nov 7, 2025",Milano,97.0,Anadolu Efes,93.0,0,2026
+"Fri, Nov 7, 2025",Real Madrid,101.0,Barcelona,92.0,0,2026
+"Fri, Nov 7, 2025",Partizan,71.0,Olympiacos,80.0,1,2026
+"Fri, Nov 7, 2025",Valencia Basket,77.0,Zalgiris,86.0,1,2026
+"Tue, Nov 11, 2025",Crvena zvezda,86.0,Dubai Basketball,102.0,1,2026
+"Tue, Nov 11, 2025",Baskonia,89.0,Hapoel Tel Aviv,114.0,1,2026
+"Tue, Nov 11, 2025",Panathinaikos,101.0,Paris Basketball,95.0,0,2026
+"Tue, Nov 11, 2025",AS Monaco,76.0,Partizan,78.0,1,2026
+"Tue, Nov 11, 2025",Maccabi Tel Aviv,75.0,Fenerbahce,84.0,1,2026
+"Tue, Nov 11, 2025",Real Madrid,76.0,Valencia Basket,89.0,1,2026
+"Tue, Nov 11, 2025",Anadolu Efes,89.0,Virtus Bologna,99.0,1,2026
+"Wed, Nov 12, 2025",Barcelona,75.0,Bayern München,74.0,0,2026
+"Wed, Nov 12, 2025",LDLC Asvel,72.0,Milano,80.0,1,2026
+"Wed, Nov 12, 2025",Zalgiris,78.0,Olympiacos,95.0,1,2026
+"Thu, Nov 13, 2025",Baskonia,83.0,Maccabi Tel Aviv,89.0,1,2026
+"Thu, Nov 13, 2025",Valencia Basket,86.0,Paris Basketball,90.0,1,2026
+"Thu, Nov 13, 2025",Panathinaikos,87.0,Real Madrid,77.0,0,2026
+"Thu, Nov 13, 2025",AS Monaco,79.0,Crvena zvezda,91.0,1,2026
+"Thu, Nov 13, 2025",Hapoel Tel Aviv,68.0,Fenerbahce,74.0,1,2026
+"Fri, Nov 14, 2025",Bayern München,72.0,Anadolu Efes,74.0,1,2026
+"Fri, Nov 14, 2025",Virtus Bologna,81.0,Barcelona,88.0,1,2026
+"Fri, Nov 14, 2025",Zalgiris,89.0,Dubai Basketball,95.0,1,2026
+"Fri, Nov 14, 2025",Olympiacos,87.0,Milano,88.0,1,2026
+"Fri, Nov 14, 2025",Partizan,87.0,LDLC Asvel,88.0,1,2026
+"Wed, Nov 19, 2025",AS Monaco,84.0,LDLC Asvel,52.0,0,2026
+"Thu, Nov 20, 2025",Barcelona,73.0,Anadolu Efes,74.0,1,2026
+"Thu, Nov 20, 2025",Hapoel Tel Aviv,105.0,Milano,83.0,0,2026
+"Thu, Nov 20, 2025",Dubai Basketball,82.0,Panathinaikos,103.0,1,2026
+"Thu, Nov 20, 2025",Zalgiris,99.0,Real Madrid,100.0,1,2026
+"Fri, Nov 21, 2025",Paris Basketball,86.0,Olympiacos,98.0,1,2026
+"Fri, Nov 21, 2025",Fenerbahce,99.0,Partizan,87.0,0,2026
+"Fri, Nov 21, 2025",Crvena zvezda,73.0,Valencia Basket,76.0,1,2026
+"Fri, Nov 21, 2025",Maccabi Tel Aviv,89.0,Virtus Bologna,99.0,1,2026
+"Fri, Nov 21, 2025",Bayern München,73.0,Baskonia,95.0,1,2026
+"Tue, Nov 25, 2025",Paris Basketball,89.0,Dubai Basketball,90.0,1,2026
+"Tue, Nov 25, 2025",Real Madrid,75.0,Hapoel Tel Aviv,74.0,0,2026
+"Tue, Nov 25, 2025",Partizan,69.0,Panathinaikos,91.0,1,2026
+"Tue, Nov 25, 2025",Virtus Bologna,64.0,Fenerbahce,66.0,1,2026
+"Tue, Nov 25, 2025",Bayern München,64.0,Valencia Basket,90.0,1,2026
+"Tue, Nov 25, 2025",Baskonia,67.0,Zalgiris,82.0,1,2026
+"Wed, Nov 26, 2025",LDLC Asvel,78.0,Barcelona,88.0,1,2026
+"Wed, Nov 26, 2025",Milano,102.0,Maccabi Tel Aviv,88.0,0,2026
+"Wed, Nov 26, 2025",Anadolu Efes,66.0,AS Monaco,102.0,1,2026
+"Wed, Nov 26, 2025",Olympiacos,80.0,Crvena zvezda,91.0,1,2026
+"Thu, Dec 4, 2025",Real Madrid,81.0,Anadolu Efes,75.0,0,2026
+"Thu, Dec 4, 2025",LDLC Asvel,80.0,Hapoel Tel Aviv,87.0,1,2026
+"Thu, Dec 4, 2025",Paris Basketball,104.0,AS Monaco,125.0,1,2026
+"Thu, Dec 4, 2025",Maccabi Tel Aviv,83.0,Zalgiris,65.0,0,2026
+"Thu, Dec 4, 2025",Bayern München,85.0,Partizan,92.0,1,2026
+"Fri, Dec 5, 2025",Valencia Basket,89.0,Panathinaikos,79.0,0,2026
+"Fri, Dec 5, 2025",Barcelona,89.0,Crvena zvezda,79.0,0,2026
+"Fri, Dec 5, 2025",Dubai Basketball,78.0,Virtus Bologna,79.0,1,2026
+"Fri, Dec 5, 2025",Milano,78.0,Baskonia,88.0,1,2026
+"Thu, Dec 11, 2025",LDLC Asvel,84.0,Maccabi Tel Aviv,92.0,1,2026
+"Thu, Dec 11, 2025",Panathinaikos,89.0,Milano,96.0,1,2026
+"Thu, Dec 11, 2025",Zalgiris,108.0,Paris Basketball,105.0,0,2026
+"Thu, Dec 11, 2025",Baskonia,87.0,Real Madrid,94.0,1,2026
+"Thu, Dec 11, 2025",Anadolu Efes,82.0,Valencia Basket,94.0,1,2026
+"Fri, Dec 12, 2025",Olympiacos,85.0,Barcelona,98.0,1,2026
+"Fri, Dec 12, 2025",Bayern München,88.0,Dubai Basketball,89.0,1,2026
+"Fri, Dec 12, 2025",Fenerbahce,92.0,AS Monaco,86.0,0,2026
+"Fri, Dec 12, 2025",Crvena zvezda,76.0,Partizan,79.0,1,2026
+"Fri, Dec 12, 2025",Hapoel Tel Aviv,79.0,Virtus Bologna,74.0,0,2026
+"Tue, Dec 16, 2025",Maccabi Tel Aviv,97.0,Dubai Basketball,95.0,0,2026
+"Tue, Dec 16, 2025",Crvena zvezda,78.0,Hapoel Tel Aviv,84.0,1,2026
+"Tue, Dec 16, 2025",Real Madrid,82.0,Milano,89.0,1,2026
+"Tue, Dec 16, 2025",Valencia Basket,99.0,Olympiacos,92.0,0,2026
+"Tue, Dec 16, 2025",Barcelona,85.0,Paris Basketball,69.0,0,2026
+"Tue, Dec 16, 2025",Panathinaikos,81.0,Fenerbahce,77.0,0,2026
+"Wed, Dec 17, 2025",Virtus Bologna,86.0,Partizan,68.0,0,2026
+"Wed, Dec 17, 2025",Bayern München,74.0,LDLC Asvel,76.0,1,2026
+"Wed, Dec 17, 2025",AS Monaco,73.0,Baskonia,85.0,1,2026
+"Wed, Dec 17, 2025",Anadolu Efes,87.0,Zalgiris,64.0,0,2026
+"Thu, Dec 18, 2025",Valencia Basket,82.0,Maccabi Tel Aviv,85.0,1,2026
+"Thu, Dec 18, 2025",Fenerbahce,87.0,Milano,72.0,0,2026
+"Thu, Dec 18, 2025",Hapoel Tel Aviv,82.0,Panathinaikos,93.0,1,2026
+"Thu, Dec 18, 2025",Paris Basketball,90.0,Real Madrid,95.0,1,2026
+"Fri, Dec 19, 2025",Dubai Basketball,80.0,Anadolu Efes,76.0,0,2026
+"Fri, Dec 19, 2025",Baskonia,124.0,Barcelona,134.0,1,2026
+"Fri, Dec 19, 2025",Bayern München,77.0,AS Monaco,103.0,1,2026
+"Fri, Dec 19, 2025",LDLC Asvel,84.0,Olympiacos,107.0,1,2026
+"Fri, Dec 19, 2025",Virtus Bologna,89.0,Crvena zvezda,90.0,1,2026
+"Fri, Dec 19, 2025",Partizan,68.0,Zalgiris,109.0,1,2026
+"Tue, Dec 23, 2025",Hapoel Tel Aviv,82.0,Bayern München,72.0,0,2026
+"Tue, Dec 23, 2025",Milano,92.0,Dubai Basketball,99.0,1,2026
+"Tue, Dec 23, 2025",Crvena zvezda,92.0,Paris Basketball,102.0,1,2026
+"Tue, Dec 23, 2025",Barcelona,71.0,Fenerbahce,72.0,1,2026
+"Tue, Dec 23, 2025",Baskonia,81.0,Valencia Basket,91.0,1,2026
+"Tue, Dec 23, 2025",Anadolu Efes,99.0,LDLC Asvel,103.0,1,2026
+"Tue, Dec 23, 2025",Panathinaikos,92.0,Zalgiris,85.0,0,2026
+"Fri, Dec 26, 2025",Real Madrid,95.0,AS Monaco,100.0,1,2026
+"Fri, Dec 26, 2025",Maccabi Tel Aviv,112.0,Partizan,87.0,0,2026
+"Fri, Dec 26, 2025",Olympiacos,97.0,Virtus Bologna,94.0,0,2026
+"Tue, Dec 30, 2025",AS Monaco,90.0,Barcelona,74.0,0,2026
+"Tue, Dec 30, 2025",Zalgiris,93.0,Hapoel Tel Aviv,80.0,0,2026
+"Tue, Dec 30, 2025",Partizan,73.0,Valencia Basket,86.0,1,2026
+"Tue, Dec 30, 2025",Paris Basketball,89.0,LDLC Asvel,94.0,1,2026
+"Fri, Jan 2, 2026",Crvena zvezda,87.0,Anadolu Efes,65.0,0,2026
+"Fri, Jan 2, 2026",Maccabi Tel Aviv,71.0,Bayern München,95.0,1,2026
+"Fri, Jan 2, 2026",Olympiacos,87.0,Panathinaikos,82.0,0,2026
+"Fri, Jan 2, 2026",Dubai Basketball,93.0,Real Madrid,107.0,1,2026
+"Fri, Jan 2, 2026",Milano,85.0,Virtus Bologna,97.0,1,2026
+"Fri, Jan 2, 2026",Fenerbahce,108.0,Baskonia,93.0,0,2026
+"Tue, Jan 6, 2026",Maccabi Tel Aviv,83.0,Barcelona,93.0,1,2026
+"Tue, Jan 6, 2026",Dubai Basketball,60.0,Hapoel Tel Aviv,85.0,1,2026
+"Tue, Jan 6, 2026",Partizan,84.0,AS Monaco,101.0,1,2026
+"Tue, Jan 6, 2026",Milano,87.0,Panathinaikos,74.0,0,2026
+"Tue, Jan 6, 2026",Valencia Basket,106.0,Crvena zvezda,89.0,0,2026
+"Tue, Jan 6, 2026",Olympiacos,80.0,Fenerbahce,88.0,1,2026
+"Tue, Jan 6, 2026",Real Madrid,80.0,LDLC Asvel,69.0,0,2026
+"Tue, Jan 6, 2026",Zalgiris,79.0,Virtus Bologna,83.0,1,2026
+"Wed, Jan 7, 2026",Paris Basketball,84.0,Anadolu Efes,79.0,0,2026
+"Wed, Jan 7, 2026",Baskonia,89.0,Bayern München,96.0,1,2026
+"Thu, Jan 8, 2026",Fenerbahce,81.0,Dubai Basketball,92.0,1,2026
+"Thu, Jan 8, 2026",Virtus Bologna,71.0,Panathinaikos,84.0,1,2026
+"Thu, Jan 8, 2026",Maccabi Tel Aviv,86.0,Real Madrid,98.0,1,2026
+"Thu, Jan 8, 2026",AS Monaco,101.0,Valencia Basket,92.0,0,2026
+"Fri, Jan 9, 2026",Partizan,70.0,Barcelona,88.0,1,2026
+"Fri, Jan 9, 2026",Anadolu Efes,74.0,Milano,87.0,1,2026
+"Fri, Jan 9, 2026",Bayern München,80.0,Olympiacos,95.0,1,2026
+"Fri, Jan 9, 2026",LDLC Asvel,73.0,Baskonia,78.0,1,2026
+"Fri, Jan 9, 2026",Crvena zvezda,67.0,Zalgiris,99.0,1,2026
+"Wed, Jan 14, 2026",Olympiacos,104.0,Partizan,66.0,0,2026
+"Thu, Jan 15, 2026",Baskonia,89.0,Anadolu Efes,75.0,0,2026
+"Thu, Jan 15, 2026",Panathinaikos,78.0,Bayern München,85.0,1,2026
+"Thu, Jan 15, 2026",Virtus Bologna,80.0,Dubai Basketball,72.0,0,2026
+"Thu, Jan 15, 2026",Zalgiris,97.0,Maccabi Tel Aviv,100.0,1,2026
+"Thu, Jan 15, 2026",Crvena zvezda,104.0,Milano,96.0,0,2026
+"Thu, Jan 15, 2026",AS Monaco,95.0,Paris Basketball,87.0,0,2026
+"Fri, Jan 16, 2026",Barcelona,61.0,Real Madrid,80.0,1,2026
+"Fri, Jan 16, 2026",Valencia Basket,79.0,Fenerbahce,82.0,1,2026
+"Fri, Jan 16, 2026",Hapoel Tel Aviv,81.0,LDLC Asvel,73.0,0,2026
+"Tue, Jan 20, 2026",Dubai Basketball,89.0,Barcelona,91.0,1,2026
+"Tue, Jan 20, 2026",Partizan,67.0,Bayern München,63.0,0,2026
+"Tue, Jan 20, 2026",Anadolu Efes,66.0,Hapoel Tel Aviv,71.0,1,2026
+"Tue, Jan 20, 2026",Crvena zvezda,100.0,AS Monaco,96.0,0,2026
+"Tue, Jan 20, 2026",Maccabi Tel Aviv,93.0,Olympiacos,100.0,1,2026
+"Tue, Jan 20, 2026",Baskonia,74.0,Panathinaikos,93.0,1,2026
+"Tue, Jan 20, 2026",Milano,77.0,Real Madrid,106.0,1,2026
+"Tue, Jan 20, 2026",Paris Basketball,84.0,Valencia Basket,98.0,1,2026
+"Tue, Jan 20, 2026",Zalgiris,96.0,LDLC Asvel,77.0,0,2026
+"Wed, Jan 21, 2026",Fenerbahce,85.0,Virtus Bologna,80.0,0,2026
+"Thu, Jan 22, 2026",Olympiacos,74.0,Anadolu Efes,68.0,0,2026
+"Thu, Jan 22, 2026",Valencia Basket,89.0,Bayern München,93.0,1,2026
+"Thu, Jan 22, 2026",Panathinaikos,71.0,Maccabi Tel Aviv,75.0,1,2026
+"Thu, Jan 22, 2026",Zalgiris,86.0,Milano,82.0,0,2026
+"Thu, Jan 22, 2026",Dubai Basketball,99.0,Paris Basketball,79.0,0,2026
+"Thu, Jan 22, 2026",AS Monaco,78.0,Real Madrid,90.0,1,2026
+"Fri, Jan 23, 2026",Hapoel Tel Aviv,101.0,Partizan,104.0,1,2026
+"Fri, Jan 23, 2026",Baskonia,71.0,Fenerbahce,84.0,1,2026
+"Fri, Jan 23, 2026",Barcelona,98.0,LDLC Asvel,91.0,0,2026
+"Fri, Jan 23, 2026",Crvena zvezda,102.0,Virtus Bologna,93.0,0,2026
+"Tue, Jan 27, 2026",Real Madrid,92.0,Paris Basketball,98.0,1,2026
+"Thu, Jan 29, 2026",Bayern München,79.0,Hapoel Tel Aviv,64.0,0,2026
+"Thu, Jan 29, 2026",Partizan,79.0,Milano,85.0,1,2026
+"Thu, Jan 29, 2026",Barcelona,75.0,Olympiacos,87.0,1,2026
+"Thu, Jan 29, 2026",Anadolu Efes,62.0,Fenerbahce,79.0,1,2026
+"Thu, Jan 29, 2026",Maccabi Tel Aviv,83.0,Valencia Basket,94.0,1,2026
+"Fri, Jan 30, 2026",Virtus Bologna,84.0,AS Monaco,82.0,0,2026
+"Fri, Jan 30, 2026",Dubai Basketball,92.0,Crvena zvezda,95.0,1,2026
+"Fri, Jan 30, 2026",Panathinaikos,79.0,LDLC Asvel,78.0,0,2026
+"Fri, Jan 30, 2026",Zalgiris,91.0,Baskonia,102.0,1,2026
+"Tue, Feb 3, 2026",Valencia Basket,90.0,Anadolu Efes,107.0,1,2026
+"Tue, Feb 3, 2026",Fenerbahce,82.0,Barcelona,78.0,0,2026
+"Tue, Feb 3, 2026",Paris Basketball,75.0,Bayern München,81.0,1,2026
+"Tue, Feb 3, 2026",Olympiacos,98.0,Dubai Basketball,108.0,1,2026
+"Tue, Feb 3, 2026",Partizan,93.0,Maccabi Tel Aviv,95.0,1,2026
+"Tue, Feb 3, 2026",Baskonia,89.0,Milano,109.0,1,2026
+"Tue, Feb 3, 2026",Real Madrid,81.0,Panathinaikos,82.0,1,2026
+"Tue, Feb 3, 2026",Hapoel Tel Aviv,75.0,Crvena zvezda,87.0,1,2026
+"Tue, Feb 3, 2026",AS Monaco,87.0,Zalgiris,104.0,1,2026
+"Wed, Feb 4, 2026",LDLC Asvel,80.0,Virtus Bologna,70.0,0,2026
+"Thu, Feb 5, 2026",AS Monaco,82.0,Bayern München,91.0,1,2026
+"Thu, Feb 5, 2026",Real Madrid,85.0,Dubai Basketball,93.0,1,2026
+"Thu, Feb 5, 2026",Valencia Basket,104.0,Hapoel Tel Aviv,99.0,0,2026
+"Thu, Feb 5, 2026",Fenerbahce,92.0,Paris Basketball,90.0,0,2026
+"Thu, Feb 5, 2026",Panathinaikos,62.0,Partizan,78.0,1,2026
+"Fri, Feb 6, 2026",Zalgiris,82.0,Anadolu Efes,92.0,1,2026
+"Fri, Feb 6, 2026",Virtus Bologna,77.0,Olympiacos,109.0,1,2026
+"Fri, Feb 6, 2026",Maccabi Tel Aviv,83.0,Crvena zvezda,82.0,0,2026
+"Fri, Feb 6, 2026",Milano,77.0,LDLC Asvel,76.0,0,2026
+"Fri, Feb 6, 2026",Barcelona,97.0,Baskonia,91.0,0,2026
+"Thu, Feb 12, 2026",Virtus Bologna,60.0,Anadolu Efes,91.0,1,2026
+"Thu, Feb 12, 2026",Paris Basketball,85.0,Barcelona,74.0,0,2026
+"Thu, Feb 12, 2026",Bayern München,106.0,Maccabi Tel Aviv,111.0,1,2026
+"Thu, Feb 12, 2026",Crvena zvezda,86.0,Olympiacos,92.0,1,2026
+"Thu, Feb 12, 2026",LDLC Asvel,67.0,Valencia Basket,82.0,1,2026
+"Fri, Feb 13, 2026",Dubai Basketball,96.0,Milano,78.0,0,2026
+"Fri, Feb 13, 2026",Baskonia,92.0,AS Monaco,102.0,1,2026
+"Fri, Feb 13, 2026",Fenerbahce,85.0,Panathinaikos,83.0,0,2026
+"Fri, Feb 13, 2026",Real Madrid,77.0,Partizan,73.0,0,2026
+"Fri, Feb 13, 2026",Hapoel Tel Aviv,82.0,Zalgiris,93.0,1,2026
+"Wed, Feb 25, 2026",Partizan,78.0,Fenerbahce,81.0,1,2026
+"Wed, Feb 25, 2026",Barcelona,80.0,Virtus Bologna,85.0,1,2026
+"Wed, Feb 25, 2026",Olympiacos,94.0,Zalgiris,99.0,1,2026
+"Wed, Feb 25, 2026",Anadolu Efes,81.0,Crvena zvezda,91.0,1,2026
+"Thu, Feb 26, 2026",LDLC Asvel,85.0,Dubai Basketball,96.0,1,2026
+"Thu, Feb 26, 2026",Milano,86.0,Hapoel Tel Aviv,92.0,1,2026
+"Thu, Feb 26, 2026",Maccabi Tel Aviv,91.0,AS Monaco,86.0,0,2026
+"Thu, Feb 26, 2026",Paris Basketball,104.0,Panathinaikos,99.0,0,2026
+"Thu, Feb 26, 2026",Bayern München,70.0,Real Madrid,93.0,1,2026
+"Thu, Feb 26, 2026",Valencia Basket,108.0,Baskonia,79.0,0,2026
+"Thu, Mar 5, 2026",Barcelona,84.0,Milano,87.0,1,2026
+"Thu, Mar 5, 2026",Virtus Bologna,84.0,Real Madrid,92.0,1,2026
+"Thu, Mar 5, 2026",AS Monaco,70.0,Fenerbahce,88.0,1,2026
+"Thu, Mar 5, 2026",Zalgiris,87.0,Valencia Basket,91.0,1,2026
+"Fri, Mar 6, 2026",LDLC Asvel,91.0,Anadolu Efes,88.0,0,2026
+"Fri, Mar 6, 2026",Panathinaikos,80.0,Olympiacos,86.0,1,2026
+"Fri, Mar 6, 2026",Bayern München,85.0,Crvena zvezda,80.0,0,2026
+"Fri, Mar 6, 2026",Paris Basketball,97.0,Baskonia,81.0,0,2026
+"Tue, Mar 10, 2026",Olympiacos,104.0,Paris Basketball,87.0,0,2026
+"Wed, Mar 11, 2026",Partizan,88.0,Virtus Bologna,82.0,0,2026
+"Thu, Mar 12, 2026",Anadolu Efes,81.0,Bayern München,80.0,0,2026
+"Thu, Mar 12, 2026",Baskonia,94.0,Dubai Basketball,100.0,1,2026
+"Thu, Mar 12, 2026",Zalgiris,88.0,Panathinaikos,92.0,1,2026
+"Thu, Mar 12, 2026",LDLC Asvel,81.0,Paris Basketball,90.0,1,2026
+"Thu, Mar 12, 2026",Valencia Basket,79.0,Real Madrid,96.0,1,2026
+"Thu, Mar 12, 2026",Olympiacos,80.0,AS Monaco,81.0,1,2026
+"Fri, Mar 13, 2026",Hapoel Tel Aviv,80.0,Barcelona,75.0,0,2026
+"Fri, Mar 13, 2026",Maccabi Tel Aviv,87.0,Milano,96.0,1,2026
+"Fri, Mar 13, 2026",Fenerbahce,73.0,Crvena zvezda,79.0,1,2026
+"Tue, Mar 17, 2026",Paris Basketball,82.0,Hapoel Tel Aviv,93.0,1,2026
+"Tue, Mar 17, 2026",Fenerbahce,87.0,Olympiacos,104.0,1,2026
+"Tue, Mar 17, 2026",Dubai Basketball,74.0,Partizan,88.0,1,2026
+"Thu, Mar 19, 2026",AS Monaco,98.0,Anadolu Efes,93.0,0,2026
+"Thu, Mar 19, 2026",Dubai Basketball,87.0,Bayern München,74.0,0,2026
+"Thu, Mar 19, 2026",Virtus Bologna,91.0,Hapoel Tel Aviv,109.0,1,2026
+"Thu, Mar 19, 2026",Baskonia,80.0,Olympiacos,90.0,1,2026
+"Thu, Mar 19, 2026",Partizan,90.0,Paris Basketball,81.0,0,2026
+"Thu, Mar 19, 2026",Barcelona,66.0,Valencia Basket,62.0,0,2026
+"Fri, Mar 20, 2026",Crvena zvezda,74.0,Panathinaikos,82.0,1,2026
+"Fri, Mar 20, 2026",Milano,75.0,Fenerbahce,79.0,1,2026
+"Fri, Mar 20, 2026",Maccabi Tel Aviv,89.0,LDLC Asvel,85.0,0,2026
+"Fri, Mar 20, 2026",Real Madrid,85.0,Zalgiris,87.0,1,2026
+"Tue, Mar 24, 2026",Anadolu Efes,71.0,Barcelona,78.0,1,2026
+"Tue, Mar 24, 2026",Panathinaikos,107.0,Dubai Basketball,104.0,0,2026
+"Tue, Mar 24, 2026",Fenerbahce,89.0,Maccabi Tel Aviv,94.0,1,2026
+"Tue, Mar 24, 2026",Milano,85.0,AS Monaco,90.0,1,2026
+"Tue, Mar 24, 2026",LDLC Asvel,78.0,Partizan,79.0,1,2026
+"Tue, Mar 24, 2026",Hapoel Tel Aviv,83.0,Real Madrid,92.0,1,2026
+"Tue, Mar 24, 2026",Olympiacos,84.0,Valencia Basket,85.0,1,2026
+"Tue, Mar 24, 2026",Bayern München,71.0,Zalgiris,78.0,1,2026
+"Wed, Mar 25, 2026",Crvena zvezda,108.0,Baskonia,100.0,0,2026
+"Thu, Mar 26, 2026",LDLC Asvel,83.0,Bayern München,93.0,1,2026
+"Thu, Mar 26, 2026",Dubai Basketball,100.0,Maccabi Tel Aviv,104.0,1,2026
+"Thu, Mar 26, 2026",Virtus Bologna,87.0,Milano,103.0,1,2026
+"Thu, Mar 26, 2026",Anadolu Efes,71.0,Real Madrid,82.0,1,2026
+"Fri, Mar 27, 2026",Crvena zvezda,88.0,Barcelona,92.0,1,2026
+"Fri, Mar 27, 2026",AS Monaco,97.0,Panathinaikos,107.0,1,2026
+"Fri, Mar 27, 2026",Valencia Basket,104.0,Partizan,110.0,1,2026
+"Fri, Mar 27, 2026",Zalgiris,92.0,Fenerbahce,82.0,0,2026
+"Fri, Mar 27, 2026",Hapoel Tel Aviv,109.0,Baskonia,118.0,1,2026
+"Tue, Mar 31, 2026",Paris Basketball,103.0,Virtus Bologna,82.0,0,2026
+"Wed, Apr 1, 2026",Fenerbahce,76.0,Bayern München,85.0,1,2026
+"Thu, Apr 2, 2026",Anadolu Efes,89.0,Maccabi Tel Aviv,103.0,1,2026
+"Thu, Apr 2, 2026",Panathinaikos,88.0,Hapoel Tel Aviv,92.0,1,2026
+"Thu, Apr 2, 2026",Milano,93.0,Paris Basketball,103.0,1,2026
+"Thu, Apr 2, 2026",Partizan,89.0,Crvena zvezda,82.0,0,2026
+"Thu, Apr 2, 2026",Barcelona,71.0,Zalgiris,83.0,1,2026
+"Thu, Apr 2, 2026",AS Monaco,91.0,Dubai Basketball,101.0,1,2026
+"Fri, Apr 3, 2026",Olympiacos,82.0,LDLC Asvel,74.0,0,2026
+"Fri, Apr 3, 2026",Valencia Basket,94.0,Virtus Bologna,81.0,0,2026
+"Fri, Apr 3, 2026",Real Madrid,96.0,Baskonia,98.0,1,2026
+"Tue, Apr 7, 2026",Panathinaikos,93.0,Barcelona,79.0,0,2026
+"Tue, Apr 7, 2026",Fenerbahce,80.0,Hapoel Tel Aviv,95.0,1,2026
+"Tue, Apr 7, 2026",Real Madrid,88.0,Olympiacos,102.0,1,2026
+"Tue, Apr 7, 2026",Paris Basketball,81.0,Crvena zvezda,94.0,1,2026
+"Tue, Apr 7, 2026",Milano,96.0,Valencia Basket,102.0,1,2026
+"Tue, Apr 7, 2026",Bayern München,85.0,Virtus Bologna,80.0,0,2026
+"Tue, Apr 7, 2026",Maccabi Tel Aviv,98.0,Baskonia,101.0,1,2026
+"Tue, Apr 7, 2026",Dubai Basketball,77.0,Zalgiris,65.0,0,2026
+"Wed, Apr 8, 2026",Partizan,72.0,Anadolu Efes,79.0,1,2026
+"Wed, Apr 8, 2026",LDLC Asvel,76.0,AS Monaco,81.0,1,2026
+"Thu, Apr 9, 2026",Olympiacos,89.0,Hapoel Tel Aviv,85.0,0,2026
+"Thu, Apr 9, 2026",Bayern München,94.0,Milano,84.0,0,2026
+"Thu, Apr 9, 2026",Maccabi Tel Aviv,80.0,Paris Basketball,113.0,1,2026
+"Thu, Apr 9, 2026",Real Madrid,74.0,Fenerbahce,69.0,0,2026
+"Thu, Apr 9, 2026",Panathinaikos,84.0,Valencia Basket,102.0,1,2026
+"Fri, Apr 10, 2026",Anadolu Efes,85.0,Dubai Basketball,69.0,0,2026
+"Fri, Apr 10, 2026",Barcelona,86.0,AS Monaco,93.0,1,2026
+"Fri, Apr 10, 2026",Zalgiris,83.0,Partizan,74.0,0,2026
+"Fri, Apr 10, 2026",Crvena zvezda,106.0,LDLC Asvel,93.0,0,2026
+"Fri, Apr 10, 2026",Baskonia,82.0,Virtus Bologna,72.0,0,2026
+"Sun, Apr 12, 2026",Hapoel Tel Aviv,99.0,Maccabi Tel Aviv,88.0,0,2026
+"Thu, Apr 16, 2026",Virtus Bologna,89.0,Maccabi Tel Aviv,85.0,0,2026
+"Thu, Apr 16, 2026",Milano,76.0,Olympiacos,85.0,1,2026
+"Thu, Apr 16, 2026",Baskonia,79.0,Partizan,91.0,1,2026
+"Thu, Apr 16, 2026",Crvena zvezda,82.0,Real Madrid,103.0,1,2026
+"Thu, Apr 16, 2026",Fenerbahce,81.0,LDLC Asvel,76.0,0,2026
+"Fri, Apr 17, 2026",Bayern München,69.0,Barcelona,95.0,1,2026
+"Fri, Apr 17, 2026",Valencia Basket,95.0,Dubai Basketball,85.0,0,2026
+"Fri, Apr 17, 2026",Hapoel Tel Aviv,85.0,AS Monaco,105.0,1,2026
+"Fri, Apr 17, 2026",Anadolu Efes,62.0,Panathinaikos,97.0,1,2026
+"Fri, Apr 17, 2026",Paris Basketball,79.0,Zalgiris,85.0,1,2026

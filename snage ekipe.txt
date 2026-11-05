@@ -1,0 +1,68 @@
+Team,W/L%
+Real Madrid *,.794
+Panathinaikos *,.676
+AS Monaco *,.676
+Barcelona *,.647
+Olympiacos *,.647
+Fenerbahçe Beko *,.588
+Maccabi Playtika Tel Aviv *,.588
+Baskonia *,.529
+Anadolu Efes,.500
+Virtus Segafredo Bologna,.500
+Partizan Mozzart Bet,.471
+EA7 Emporio Armani Milano,.441
+Valencia Basket,.412
+Žalgiris,.412
+Bayern München,.382
+Crvena zvezda Meridianbet,.324
+LDLC ASVEL,.265
+ALBA Berlin,.147
+Dubai Basketball,.500
+Hapoel IBI Tel Aviv,.500
+
+
+WinRate:
+
+Real Madrid: .643 .676c .794 .588
+Panathinaikos: .321 .265 .676c .647
+AS Monaco: .536 .618 .676 .618
+Barcelona: .750 .676 .647 .588
+Olympiacos: .679 .706 .647 .706
+Fenerbahçe Beko: .357 .559 .588 .676c
+Maccabi Playtika Tel Aviv: .607 .588 .588 .324
+Baskonia: .429 .529 .529 .412
+Anadolu Efes: .571c .500 .500 .588
+Virtus Segafredo Bologna: nema .412 .500 .265
+Partizan Mozzart Bet: nema .588 .471 .471 
+EA7 Emporio Armani Milano: .679 .441 .441 .500
+Valencia Basket: nema .441 .412 nema
+Žalgiris: .286 .559 .412 .441
+Bayern München: .500 .324 .382 .559
+Crvena zvezda Meridianbet: .429 .500 .324 .529
+LDLC ASVEL: .286 .235 .265 .382
+Dubai Basketball: nema nema nema nema 
+Hapoel IBI Tel Aviv: nema nema nema nema
+Paris Basketball: nema nema nema .559
+
+Home win rate:
+
+Real Madrid: 14-1, 7-6; 13-4, 10-7; 14-3, 13-4; 13-4, 7-10
+Panathinaikos: 7-8, 1-12; 8-9, 3-14; 14-3, 9-8; 14-3, 8-9
+AS Monaco: 7-6, 7-8; 13-4, 8-9; 13-4, 10-7; 11-6, 10-7
+Barcelona: 14-1, 8-5; 13-4, 10-7; 15-2, 7-10; 11-6, 9-8
+Olympiacos: 12-1, 6-9; 14-3, 10-7; 13-4, 9-8; 13-4, 11-6
+Fenerbahçe Beko: 9-4, 3-12; 12-5, 7-10; 15-2, 5-12; 12-5, 11-6
+Maccabi Playtika Tel Aviv: 11-3, 3-11; 15-2, 5-12; 13-4, 7-10; 9-8, 2-15
+Baskonia: 6-7, 3-12; 14-3, 4-13; 10-7, 8-9; 12-5, 2-15
+Anadolu Efes: 10-3, 4-11; 11-6, 6-11; 13-4, 4-13; 12-5, 8-9
+Virtus Segafredo Bologna: nema; 9-8, 5-12; 12-5, 5-12; 5-12, 4-13
+Partizan Mozzart Bet: nema; 12-5, 8-9; 12-5, 4-13; 9-8, 7-10
+EA7 Emporio Armani Milano: 10-3, 8-7; 9-8, 6-11; 12-5, 3-14; 10-7, 7-10
+Valencia Basket: nema; 9-8, 6-11; 9-8, 5-12; nema
+Žalgiris: 5-9, 2-12; 13-4, 6-11; 9-8, 5-12; 10-7, 5-12
+Bayern München: 9-5, 4-10; 8-9, 3-14; 9-8, 4-13; 13-4, 6-11
+Crvena zvezda Meridianbet: 9-6, 4-9; 11-6, 6-11; 8-9, 3-14; 9-8, 9-8
+LDLC ASVEL: 6-9, 3-10; 4-13, 4-13; 5-12, 4-13; 10-7, 3-14
+Dubai Basketball: nema; nema; nema; nema 
+Hapoel IBI Tel Aviv: nema; nema; nema; nema
+Paris Basketball: nema; nema; nema; 11-6, 8-9

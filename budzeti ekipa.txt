@@ -1,0 +1,17 @@
+Panathinaikos: 27
+Olympiacos: 22.5
+Hapoel Tel Aviv: 20
+Real Madrid: 19
+Anadolu Efes: 18
+Dubai: 18
+Fenerbahce: 16
+Crvena zvezda: 16
+Barcelona: 15
+Partizan: 15
+Zalgiris: 14
+Monaco: 13
+Olimpia Milano: 13
+Valencia: 10
+Bayern Munich: 10
+Maccabi: 10
+Asvel: 8

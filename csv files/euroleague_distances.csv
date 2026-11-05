@@ -1,0 +1,442 @@
+Team1,Team2,Distance_km
+Real Madrid,Real Madrid,0.0
+Real Madrid,Barcelona,504.4
+Real Madrid,Olympiacos,2373.8
+Real Madrid,Panathinaikos,2373.8
+Real Madrid,Fenerbahce,2744.0
+Real Madrid,Anadolu Efes,2744.0
+Real Madrid,Maccabi Tel Aviv,3548.9
+Real Madrid,Hapoel Tel Aviv,3548.9
+Real Madrid,AS Monaco,988.1
+Real Madrid,Baskonia,279.0
+Real Madrid,Virtus Bologna,1312.7
+Real Madrid,Milano,1187.2
+Real Madrid,Bayern München,1483.6
+Real Madrid,Zalgiris,2592.6
+Real Madrid,Crvena zvezda,2029.7
+Real Madrid,Partizan,2029.7
+Real Madrid,Valencia Basket,303.3
+Real Madrid,LDLC Asvel,909.9
+Real Madrid,Paris Basketball,1048.8
+Real Madrid,Dubai Basketball,5664.0
+Real Madrid,ALBA Berlin,1867.5
+Barcelona,Real Madrid,504.4
+Barcelona,Barcelona,0.0
+Barcelona,Olympiacos,1882.0
+Barcelona,Panathinaikos,1882.0
+Barcelona,Fenerbahce,2239.9
+Barcelona,Anadolu Efes,2239.9
+Barcelona,Maccabi Tel Aviv,3068.4
+Barcelona,Hapoel Tel Aviv,3068.4
+Barcelona,AS Monaco,504.1
+Barcelona,Baskonia,432.2
+Barcelona,Virtus Bologna,823.6
+Barcelona,Milano,726.3
+Barcelona,Bayern München,1055.7
+Barcelona,Zalgiris,2190.4
+Barcelona,Crvena zvezda,1531.7
+Barcelona,Partizan,1531.7
+Barcelona,Valencia Basket,303.4
+Barcelona,LDLC Asvel,531.8
+Barcelona,Paris Basketball,830.5
+Barcelona,Dubai Basketball,5171.5
+Barcelona,ALBA Berlin,1500.6
+Olympiacos,Real Madrid,2373.8
+Olympiacos,Barcelona,1882.0
+Olympiacos,Olympiacos,0.0
+Olympiacos,Panathinaikos,0.0
+Olympiacos,Fenerbahce,562.6
+Olympiacos,Anadolu Efes,562.6
+Olympiacos,Maccabi Tel Aviv,1201.0
+Olympiacos,Hapoel Tel Aviv,1201.0
+Olympiacos,AS Monaco,1512.3
+Olympiacos,Baskonia,2294.5
+Olympiacos,Virtus Bologna,1263.0
+Olympiacos,Milano,1463.9
+Olympiacos,Bayern München,1496.6
+Olympiacos,Zalgiris,1880.3
+Olympiacos,Crvena zvezda,803.6
+Olympiacos,Partizan,803.6
+Olympiacos,Valencia Basket,2096.2
+Olympiacos,LDLC Asvel,1784.2
+Olympiacos,Paris Basketball,2099.0
+Olympiacos,Dubai Basketball,3290.4
+Olympiacos,ALBA Berlin,1803.1
+Panathinaikos,Real Madrid,2373.8
+Panathinaikos,Barcelona,1882.0
+Panathinaikos,Olympiacos,0.0
+Panathinaikos,Panathinaikos,0.0
+Panathinaikos,Fenerbahce,562.6
+Panathinaikos,Anadolu Efes,562.6
+Panathinaikos,Maccabi Tel Aviv,1201.0
+Panathinaikos,Hapoel Tel Aviv,1201.0
+Panathinaikos,AS Monaco,1512.3
+Panathinaikos,Baskonia,2294.5
+Panathinaikos,Virtus Bologna,1263.0
+Panathinaikos,Milano,1463.9
+Panathinaikos,Bayern München,1496.6
+Panathinaikos,Zalgiris,1880.3
+Panathinaikos,Crvena zvezda,803.6
+Panathinaikos,Partizan,803.6
+Panathinaikos,Valencia Basket,2096.2
+Panathinaikos,LDLC Asvel,1784.2
+Panathinaikos,Paris Basketball,2099.0
+Panathinaikos,Dubai Basketball,3290.4
+Panathinaikos,ALBA Berlin,1803.1
+Fenerbahce,Real Madrid,2744.0
+Fenerbahce,Barcelona,2239.9
+Fenerbahce,Olympiacos,562.6
+Fenerbahce,Panathinaikos,562.6
+Fenerbahce,Fenerbahce,0.0
+Fenerbahce,Anadolu Efes,0.0
+Fenerbahce,Maccabi Tel Aviv,1117.5
+Fenerbahce,Hapoel Tel Aviv,1117.5
+Fenerbahce,AS Monaco,1795.7
+Fenerbahce,Baskonia,2617.7
+Fenerbahce,Virtus Bologna,1491.6
+Fenerbahce,Milano,1676.9
+Fenerbahce,Bayern München,1587.4
+Fenerbahce,Zalgiris,1589.2
+Fenerbahce,Crvena zvezda,812.7
+Fenerbahce,Partizan,812.7
+Fenerbahce,Valencia Basket,2492.0
+Fenerbahce,LDLC Asvel,2017.7
+Fenerbahce,Paris Basketball,2260.8
+Fenerbahce,Dubai Basketball,2995.9
+Fenerbahce,ALBA Berlin,1739.9
+Anadolu Efes,Real Madrid,2744.0
+Anadolu Efes,Barcelona,2239.9
+Anadolu Efes,Olympiacos,562.6
+Anadolu Efes,Panathinaikos,562.6
+Anadolu Efes,Fenerbahce,0.0
+Anadolu Efes,Anadolu Efes,0.0
+Anadolu Efes,Maccabi Tel Aviv,1117.5
+Anadolu Efes,Hapoel Tel Aviv,1117.5
+Anadolu Efes,AS Monaco,1795.7
+Anadolu Efes,Baskonia,2617.7
+Anadolu Efes,Virtus Bologna,1491.6
+Anadolu Efes,Milano,1676.9
+Anadolu Efes,Bayern München,1587.4
+Anadolu Efes,Zalgiris,1589.2
+Anadolu Efes,Crvena zvezda,812.7
+Anadolu Efes,Partizan,812.7
+Anadolu Efes,Valencia Basket,2492.0
+Anadolu Efes,LDLC Asvel,2017.7
+Anadolu Efes,Paris Basketball,2260.8
+Anadolu Efes,Dubai Basketball,2995.9
+Anadolu Efes,ALBA Berlin,1739.9
+Maccabi Tel Aviv,Real Madrid,3548.9
+Maccabi Tel Aviv,Barcelona,3068.4
+Maccabi Tel Aviv,Olympiacos,1201.0
+Maccabi Tel Aviv,Panathinaikos,1201.0
+Maccabi Tel Aviv,Fenerbahce,1117.5
+Maccabi Tel Aviv,Anadolu Efes,1117.5
+Maccabi Tel Aviv,Maccabi Tel Aviv,0.0
+Maccabi Tel Aviv,Hapoel Tel Aviv,0.0
+Maccabi Tel Aviv,AS Monaco,2713.3
+Maccabi Tel Aviv,Baskonia,3488.2
+Maccabi Tel Aviv,Virtus Bologna,2456.1
+Maccabi Tel Aviv,Milano,2655.7
+Maccabi Tel Aviv,Bayern München,2643.0
+Maccabi Tel Aviv,Zalgiris,2675.7
+Maccabi Tel Aviv,Crvena zvezda,1879.4
+Maccabi Tel Aviv,Partizan,1879.4
+Maccabi Tel Aviv,Valencia Basket,3260.4
+Maccabi Tel Aviv,LDLC Asvel,2982.1
+Maccabi Tel Aviv,Paris Basketball,3282.1
+Maccabi Tel Aviv,Dubai Basketball,2139.0
+Maccabi Tel Aviv,ALBA Berlin,2850.8
+Hapoel Tel Aviv,Real Madrid,3548.9
+Hapoel Tel Aviv,Barcelona,3068.4
+Hapoel Tel Aviv,Olympiacos,1201.0
+Hapoel Tel Aviv,Panathinaikos,1201.0
+Hapoel Tel Aviv,Fenerbahce,1117.5
+Hapoel Tel Aviv,Anadolu Efes,1117.5
+Hapoel Tel Aviv,Maccabi Tel Aviv,0.0
+Hapoel Tel Aviv,Hapoel Tel Aviv,0.0
+Hapoel Tel Aviv,AS Monaco,2713.3
+Hapoel Tel Aviv,Baskonia,3488.2
+Hapoel Tel Aviv,Virtus Bologna,2456.1
+Hapoel Tel Aviv,Milano,2655.7
+Hapoel Tel Aviv,Bayern München,2643.0
+Hapoel Tel Aviv,Zalgiris,2675.7
+Hapoel Tel Aviv,Crvena zvezda,1879.4
+Hapoel Tel Aviv,Partizan,1879.4
+Hapoel Tel Aviv,Valencia Basket,3260.4
+Hapoel Tel Aviv,LDLC Asvel,2982.1
+Hapoel Tel Aviv,Paris Basketball,3282.1
+Hapoel Tel Aviv,Dubai Basketball,2139.0
+Hapoel Tel Aviv,ALBA Berlin,2850.8
+AS Monaco,Real Madrid,988.1
+AS Monaco,Barcelona,504.1
+AS Monaco,Olympiacos,1512.3
+AS Monaco,Panathinaikos,1512.3
+AS Monaco,Fenerbahce,1795.7
+AS Monaco,Anadolu Efes,1795.7
+AS Monaco,Maccabi Tel Aviv,2713.3
+AS Monaco,Hapoel Tel Aviv,2713.3
+AS Monaco,AS Monaco,0.0
+AS Monaco,Baskonia,824.8
+AS Monaco,Virtus Bologna,324.7
+AS Monaco,Milano,237.5
+AS Monaco,Bayern München,585.3
+AS Monaco,Zalgiris,1716.7
+AS Monaco,Crvena zvezda,1045.4
+AS Monaco,Partizan,1045.4
+AS Monaco,Valencia Basket,804.2
+AS Monaco,LDLC Asvel,304.4
+AS Monaco,Paris Basketball,689.9
+AS Monaco,Dubai Basketball,4771.0
+AS Monaco,ALBA Berlin,1072.2
+Baskonia,Real Madrid,279.0
+Baskonia,Barcelona,432.2
+Baskonia,Olympiacos,2294.5
+Baskonia,Panathinaikos,2294.5
+Baskonia,Fenerbahce,2617.7
+Baskonia,Anadolu Efes,2617.7
+Baskonia,Maccabi Tel Aviv,3488.2
+Baskonia,Hapoel Tel Aviv,3488.2
+Baskonia,AS Monaco,824.8
+Baskonia,Baskonia,0.0
+Baskonia,Virtus Bologna,1143.5
+Baskonia,Milano,991.4
+Baskonia,Bayern München,1257.0
+Baskonia,Zalgiris,2342.8
+Baskonia,Crvena zvezda,1866.2
+Baskonia,Partizan,1866.2
+Baskonia,Valencia Basket,421.6
+Baskonia,LDLC Asvel,680.7
+Baskonia,Paris Basketball,773.2
+Baskonia,Dubai Basketball,5577.7
+Baskonia,ALBA Berlin,1610.1
+Virtus Bologna,Real Madrid,1312.7
+Virtus Bologna,Barcelona,823.6
+Virtus Bologna,Olympiacos,1263.0
+Virtus Bologna,Panathinaikos,1263.0
+Virtus Bologna,Fenerbahce,1491.6
+Virtus Bologna,Anadolu Efes,1491.6
+Virtus Bologna,Maccabi Tel Aviv,2456.1
+Virtus Bologna,Hapoel Tel Aviv,2456.1
+Virtus Bologna,AS Monaco,324.7
+Virtus Bologna,Baskonia,1143.5
+Virtus Bologna,Virtus Bologna,0.0
+Virtus Bologna,Milano,201.1
+Virtus Bologna,Bayern München,405.1
+Virtus Bologna,Zalgiris,1465.1
+Virtus Bologna,Crvena zvezda,722.8
+Virtus Bologna,Partizan,722.8
+Virtus Bologna,Valencia Basket,1118.6
+Virtus Bologna,LDLC Asvel,530.8
+Virtus Bologna,Paris Basketball,840.7
+Virtus Bologna,Dubai Basketball,4480.4
+Virtus Bologna,ALBA Berlin,905.2
+Milano,Real Madrid,1187.2
+Milano,Barcelona,726.3
+Milano,Olympiacos,1463.9
+Milano,Panathinaikos,1463.9
+Milano,Fenerbahce,1676.9
+Milano,Anadolu Efes,1676.9
+Milano,Maccabi Tel Aviv,2655.7
+Milano,Hapoel Tel Aviv,2655.7
+Milano,AS Monaco,237.5
+Milano,Baskonia,991.4
+Milano,Virtus Bologna,201.1
+Milano,Milano,0.0
+Milano,Bayern München,348.5
+Milano,Zalgiris,1479.5
+Milano,Crvena zvezda,888.3
+Milano,Partizan,888.3
+Milano,Valencia Basket,1029.4
+Milano,LDLC Asvel,341.2
+Milano,Paris Basketball,640.7
+Milano,Dubai Basketball,4670.2
+Milano,ALBA Berlin,842.8
+Bayern München,Real Madrid,1483.6
+Bayern München,Barcelona,1055.7
+Bayern München,Olympiacos,1496.6
+Bayern München,Panathinaikos,1496.6
+Bayern München,Fenerbahce,1587.4
+Bayern München,Anadolu Efes,1587.4
+Bayern München,Maccabi Tel Aviv,2643.0
+Bayern München,Hapoel Tel Aviv,2643.0
+Bayern München,AS Monaco,585.3
+Bayern München,Baskonia,1257.0
+Bayern München,Virtus Bologna,405.1
+Bayern München,Milano,348.5
+Bayern München,Bayern München,0.0
+Bayern München,Zalgiris,1136.3
+Bayern München,Crvena zvezda,775.5
+Bayern München,Partizan,775.5
+Bayern München,Valencia Basket,1358.2
+Bayern München,LDLC Asvel,577.0
+Bayern München,Paris Basketball,686.4
+Bayern München,Dubai Basketball,4572.4
+Bayern München,ALBA Berlin,504.7
+Zalgiris,Real Madrid,2592.6
+Zalgiris,Barcelona,2190.4
+Zalgiris,Olympiacos,1880.3
+Zalgiris,Panathinaikos,1880.3
+Zalgiris,Fenerbahce,1589.2
+Zalgiris,Anadolu Efes,1589.2
+Zalgiris,Maccabi Tel Aviv,2675.7
+Zalgiris,Hapoel Tel Aviv,2675.7
+Zalgiris,AS Monaco,1716.7
+Zalgiris,Baskonia,2342.8
+Zalgiris,Virtus Bologna,1465.1
+Zalgiris,Milano,1479.5
+Zalgiris,Bayern München,1136.3
+Zalgiris,Zalgiris,0.0
+Zalgiris,Crvena zvezda,1151.5
+Zalgiris,Partizan,1151.5
+Zalgiris,Valencia Basket,2491.8
+Zalgiris,LDLC Asvel,1686.6
+Zalgiris,Paris Basketball,1620.7
+Zalgiris,Dubai Basketball,4177.4
+Zalgiris,ALBA Berlin,741.2
+Crvena zvezda,Real Madrid,2029.7
+Crvena zvezda,Barcelona,1531.7
+Crvena zvezda,Olympiacos,803.6
+Crvena zvezda,Panathinaikos,803.6
+Crvena zvezda,Fenerbahce,812.7
+Crvena zvezda,Anadolu Efes,812.7
+Crvena zvezda,Maccabi Tel Aviv,1879.4
+Crvena zvezda,Hapoel Tel Aviv,1879.4
+Crvena zvezda,AS Monaco,1045.4
+Crvena zvezda,Baskonia,1866.2
+Crvena zvezda,Virtus Bologna,722.8
+Crvena zvezda,Milano,888.3
+Crvena zvezda,Bayern München,775.5
+Crvena zvezda,Zalgiris,1151.5
+Crvena zvezda,Crvena zvezda,0.0
+Crvena zvezda,Partizan,0.0
+Crvena zvezda,Valencia Basket,1814.3
+Crvena zvezda,LDLC Asvel,1228.0
+Crvena zvezda,Paris Basketball,1449.0
+Crvena zvezda,Dubai Basketball,3804.7
+Crvena zvezda,ALBA Berlin,1003.4
+Partizan,Real Madrid,2029.7
+Partizan,Barcelona,1531.7
+Partizan,Olympiacos,803.6
+Partizan,Panathinaikos,803.6
+Partizan,Fenerbahce,812.7
+Partizan,Anadolu Efes,812.7
+Partizan,Maccabi Tel Aviv,1879.4
+Partizan,Hapoel Tel Aviv,1879.4
+Partizan,AS Monaco,1045.4
+Partizan,Baskonia,1866.2
+Partizan,Virtus Bologna,722.8
+Partizan,Milano,888.3
+Partizan,Bayern München,775.5
+Partizan,Zalgiris,1151.5
+Partizan,Crvena zvezda,0.0
+Partizan,Partizan,0.0
+Partizan,Valencia Basket,1814.3
+Partizan,LDLC Asvel,1228.0
+Partizan,Paris Basketball,1449.0
+Partizan,Dubai Basketball,3804.7
+Partizan,ALBA Berlin,1003.4
+Valencia Basket,Real Madrid,303.3
+Valencia Basket,Barcelona,303.4
+Valencia Basket,Olympiacos,2096.2
+Valencia Basket,Panathinaikos,2096.2
+Valencia Basket,Fenerbahce,2492.0
+Valencia Basket,Anadolu Efes,2492.0
+Valencia Basket,Maccabi Tel Aviv,3260.4
+Valencia Basket,Hapoel Tel Aviv,3260.4
+Valencia Basket,AS Monaco,804.2
+Valencia Basket,Baskonia,421.6
+Valencia Basket,Virtus Bologna,1118.6
+Valencia Basket,Milano,1029.4
+Valencia Basket,Bayern München,1358.2
+Valencia Basket,Zalgiris,2491.8
+Valencia Basket,Crvena zvezda,1814.3
+Valencia Basket,Partizan,1814.3
+Valencia Basket,Valencia Basket,0.0
+Valencia Basket,LDLC Asvel,819.1
+Valencia Basket,Paris Basketball,1065.4
+Valencia Basket,Dubai Basketball,5383.0
+Valencia Basket,ALBA Berlin,1794.5
+LDLC Asvel,Real Madrid,909.9
+LDLC Asvel,Barcelona,531.8
+LDLC Asvel,Olympiacos,1784.2
+LDLC Asvel,Panathinaikos,1784.2
+LDLC Asvel,Fenerbahce,2017.7
+LDLC Asvel,Anadolu Efes,2017.7
+LDLC Asvel,Maccabi Tel Aviv,2982.1
+LDLC Asvel,Hapoel Tel Aviv,2982.1
+LDLC Asvel,AS Monaco,304.4
+LDLC Asvel,Baskonia,680.7
+LDLC Asvel,Virtus Bologna,530.8
+LDLC Asvel,Milano,341.2
+LDLC Asvel,Bayern München,577.0
+LDLC Asvel,Zalgiris,1686.6
+LDLC Asvel,Crvena zvezda,1228.0
+LDLC Asvel,Partizan,1228.0
+LDLC Asvel,Valencia Basket,819.1
+LDLC Asvel,LDLC Asvel,0.0
+LDLC Asvel,Paris Basketball,391.7
+LDLC Asvel,Dubai Basketball,5009.9
+LDLC Asvel,ALBA Berlin,976.1
+Paris Basketball,Real Madrid,1048.8
+Paris Basketball,Barcelona,830.5
+Paris Basketball,Olympiacos,2099.0
+Paris Basketball,Panathinaikos,2099.0
+Paris Basketball,Fenerbahce,2260.8
+Paris Basketball,Anadolu Efes,2260.8
+Paris Basketball,Maccabi Tel Aviv,3282.1
+Paris Basketball,Hapoel Tel Aviv,3282.1
+Paris Basketball,AS Monaco,689.9
+Paris Basketball,Baskonia,773.2
+Paris Basketball,Virtus Bologna,840.7
+Paris Basketball,Milano,640.7
+Paris Basketball,Bayern München,686.4
+Paris Basketball,Zalgiris,1620.7
+Paris Basketball,Crvena zvezda,1449.0
+Paris Basketball,Partizan,1449.0
+Paris Basketball,Valencia Basket,1065.4
+Paris Basketball,LDLC Asvel,391.7
+Paris Basketball,Paris Basketball,0.0
+Paris Basketball,Dubai Basketball,5253.3
+Paris Basketball,ALBA Berlin,879.7
+Dubai Basketball,Real Madrid,5664.0
+Dubai Basketball,Barcelona,5171.5
+Dubai Basketball,Olympiacos,3290.4
+Dubai Basketball,Panathinaikos,3290.4
+Dubai Basketball,Fenerbahce,2995.9
+Dubai Basketball,Anadolu Efes,2995.9
+Dubai Basketball,Maccabi Tel Aviv,2139.0
+Dubai Basketball,Hapoel Tel Aviv,2139.0
+Dubai Basketball,AS Monaco,4771.0
+Dubai Basketball,Baskonia,5577.7
+Dubai Basketball,Virtus Bologna,4480.4
+Dubai Basketball,Milano,4670.2
+Dubai Basketball,Bayern München,4572.4
+Dubai Basketball,Zalgiris,4177.4
+Dubai Basketball,Crvena zvezda,3804.7
+Dubai Basketball,Partizan,3804.7
+Dubai Basketball,Valencia Basket,5383.0
+Dubai Basketball,LDLC Asvel,5009.9
+Dubai Basketball,Paris Basketball,5253.3
+Dubai Basketball,Dubai Basketball,0.0
+Dubai Basketball,ALBA Berlin,4627.4
+ALBA Berlin,Real Madrid,1867.5
+ALBA Berlin,Barcelona,1500.6
+ALBA Berlin,Olympiacos,1803.1
+ALBA Berlin,Panathinaikos,1803.1
+ALBA Berlin,Fenerbahce,1739.9
+ALBA Berlin,Anadolu Efes,1739.9
+ALBA Berlin,Maccabi Tel Aviv,2850.8
+ALBA Berlin,Hapoel Tel Aviv,2850.8
+ALBA Berlin,AS Monaco,1072.2
+ALBA Berlin,Baskonia,1610.1
+ALBA Berlin,Virtus Bologna,905.2
+ALBA Berlin,Milano,842.8
+ALBA Berlin,Bayern München,504.7
+ALBA Berlin,Zalgiris,741.2
+ALBA Berlin,Crvena zvezda,1003.4
+ALBA Berlin,Partizan,1003.4
+ALBA Berlin,Valencia Basket,1794.5
+ALBA Berlin,LDLC Asvel,976.1
+ALBA Berlin,Paris Basketball,879.7
+ALBA Berlin,Dubai Basketball,4627.4
+ALBA Berlin,ALBA Berlin,0.0
